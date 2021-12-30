@@ -1,0 +1,9 @@
+
+.data-table table td:last-child{
+    /*min-width: 12em !important;*/
+}
+
+.data-table .flex{
+    display: flex;
+    align-items: center;
+}

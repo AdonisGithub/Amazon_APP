@@ -1,0 +1,57 @@
+
+
+@media (min-width:48em) {
+    .Polaris-Modal-Dialog__Modal--sizeLarge {
+        max-width: 60%;
+    }
+}
+
+.meta-main {
+    margin: 1rem 2rem;
+}
+
+.product-extra-field {
+    margin-bottom: 0.3rem
+}
+
+.product-extra-field:not(:first-child) {
+    margin-left: 1rem;
+    display: inline-block;
+}
+
+.product-extra-field .label {
+    font-weight: 600;
+}
+
+.available-field:not(:first-child) {
+    margin-top: 1.5rem;
+}
+
+.search-group {
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    margin: 2rem 2rem 1rem 2rem;
+}
+
+.matching-list {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 40%;
+    padding-right: 3rem;
+}
+
+.search-box {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 60%;
+}
+
+.bulkedit-main {
+    margin: 2rem;
+}
+
+.filter-block {
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+}

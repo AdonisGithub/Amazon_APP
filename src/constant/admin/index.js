@@ -1,0 +1,1 @@
+export { adminTabs } from "./tab";

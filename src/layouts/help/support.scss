@@ -1,0 +1,64 @@
+$width_label: 25rem;
+$width_price: 6rem;
+
+.support-price-list {
+  .label {
+    width: $width_label;
+  }
+  .price {
+    width: $width_price;
+  }
+  .Polaris-Stack {
+    margin-bottom: 1rem;
+  }
+}
+
+.support-custom {
+  .label {
+    width: ($width_label + $width_price + 1.6rem);
+  }
+  margin-top: 5rem;
+}
+
+.support-confirm-modal {
+  padding: 0.5rem;
+  //font-weight: 400;
+  .title {
+    h1 {
+      font-size: 2.4rem;
+    }
+    margin-bottom: 3rem;
+  }
+
+  .support-selected {
+    //font-weight: 500;
+    .select-title {
+      font-size: 1.6rem;
+    }
+    .select-body {
+      font-weight: 500;
+      font-size: 1.6rem;
+      padding-left: 1rem;
+    }
+    margin-bottom: 2rem;
+  }
+
+  .support-price {
+    //font-weight: 500;
+    margin-bottom: 1rem;
+  }
+
+  .support-agree {
+    span{
+      font-size: 1.6rem;
+    }
+    margin-bottom: 1rem;
+  }
+
+  .support-note {
+    font-size: 1.6rem;
+    //padding-left: 1rem;
+    padding-right: 2rem;
+    margin-bottom: 2rem;
+  }
+}

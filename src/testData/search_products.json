@@ -1,0 +1,197 @@
+{
+  "status": "Ok",
+  "log": "a44b4a993ec531db92624d838fcdf483",
+  "date": "2019-08-28T13:36:37+02:00",
+  "data": {
+    "products": [
+      {
+        "id_store": "30",
+        "product_id": "3710155522133",
+        "sku": "CF3251-M",
+        "vendor": "Reebox",
+        "title": "Reebok CF3251 - M",
+        "shopify_image_url": null,
+        "on_marketplaces": null,
+        "barcode": "4059808985565",
+        "available": "21",
+        "price": "2.0000",
+        "collection_id": "135643594836",
+        "updated_at": "2019-08-19 03:28:30",
+        "extra_fields": [
+          {
+            "name": "MaterialType",
+            "value": "Gold",
+            "attribute": "KG"
+          },
+          {
+            "name": "ModelName",
+            "value": "Playstation",
+            "attribute": ""
+          },
+          {
+            "name": "Os",
+            "value": "android",
+            "attribute": ""
+          },
+          {
+            "name": "CollectionName",
+            "value": "autumn-2019",
+            "attribute": ""
+          },
+          {
+            "name": "DisplaySize",
+            "value": "32inch",
+            "attribute": ""
+          },
+          {
+            "name": "ItemHeight",
+            "value": "20cm",
+            "attribute": ""
+          },
+          {
+            "name": "ItemWidth",
+            "value": "30cm",
+            "attribute": ""
+          },
+          {
+            "name": "ItemLength",
+            "value": "35cm",
+            "attribute": ""
+          }
+        ]
+      },
+      {
+        "id_store": "30",
+        "product_id": "3710155522134",
+        "sku": "CF3252-S",
+        "vendor": "Reebox",
+        "title": "Reebok CF3251 - S",
+        "shopify_image_url": null,
+        "on_marketplaces": null,
+        "barcode": "4059808985527",
+        "available": "22",
+        "price": "3.0000",
+        "collection_id": "135643594836",
+        "updated_at": "2019-08-19 03:28:30",
+        "extra_fields": [
+          {
+            "name": "MaterialType",
+            "value": "Silver",
+            "attribute": "KG"
+          },
+          {
+            "name": "ModelName",
+            "value": "Famicon",
+            "attribute": ""
+          }
+        ]
+      },
+      {
+        "id_store": "30",
+        "product_id": "3710155522135",
+        "sku": "CF3253-L",
+        "vendor": "Reebox",
+        "title": "Reebok CF3251 - L",
+        "shopify_image_url": null,
+        "on_marketplaces": null,
+        "barcode": "4059808985541",
+        "available": "23",
+        "price": "4.0000",
+        "collection_id": "135643594836",
+        "updated_at": "2019-08-19 03:28:30",
+        "extra_fields": [
+          {
+            "name": "MaterialType",
+            "value": "Silver",
+            "attribute": ""
+          },
+          {
+            "name": "ModelName",
+            "value": "Famicon",
+            "attribute": ""
+          }
+        ]
+      },
+      {
+        "id_store": "30",
+        "product_id": "3710155522136",
+        "sku": "CF3254-XL",
+        "vendor": "Reebox",
+        "title": "Reebok CF3251 - XL",
+        "shopify_image_url": null,
+        "on_marketplaces": null,
+        "barcode": "4059808985534",
+        "available": "24",
+        "price": "5.0000",
+        "collection_id": "135643594836",
+        "updated_at": "2019-08-19 03:28:30",
+        "extra_fields": [
+          {
+            "name": "MaterialType",
+            "value": "Silver",
+            "attribute": ""
+          },
+          {
+            "name": "ModelName",
+            "value": "Famicon",
+            "attribute": ""
+          }
+        ]
+      },
+      {
+        "id_store": "30",
+        "product_id": "3710155522137",
+        "sku": "CF3255-XS",
+        "vendor": "Reebox",
+        "title": "Reebok CF3251 - XS",
+        "shopify_image_url": null,
+        "on_marketplaces": null,
+        "barcode": "4059808985558",
+        "available": "25",
+        "price": "6.0000",
+        "collection_id": "135643594836",
+        "updated_at": "2019-08-19 03:28:30",
+        "extra_fields": [
+          {
+            "name": "MaterialType",
+            "value": "Silver",
+            "attribute": ""
+          },
+          {
+            "name": "ModelName",
+            "value": "Famicon",
+            "attribute": ""
+          }
+        ]
+      },
+      {
+        "id_store": "30",
+        "product_id": "3710155522138",
+        "sku": "CF3256-XXS",
+        "vendor": "Reebox",
+        "title": "Reebok CF3251 - XXS",
+        "shopify_image_url": null,
+        "on_marketplaces": null,
+        "barcode": "4059808985572",
+        "available": "26",
+        "price": "7.0000",
+        "collection_id": "135643594836",
+        "updated_at": "2019-08-19 03:28:30",
+        "extra_fields": [
+          {
+            "name": "MaterialType",
+            "value": "Silver",
+            "attribute": ""
+          },
+          {
+            "name": "ModelName",
+            "value": "Famicon",
+            "attribute": ""
+          }
+        ]
+      }
+    ],
+    "count": "6",
+    "pages": 1
+  }
+}

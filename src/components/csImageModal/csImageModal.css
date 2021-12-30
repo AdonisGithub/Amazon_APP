@@ -1,0 +1,97 @@
+.cs-image-modal a:hover {
+    cursor: pointer;
+}
+.cs-image-modal img
+{
+    width: 30vw;
+
+}
+
+.cs-image-popover {
+    max-height: 100%;
+    width: auto;
+    margin: auto;
+    display: block;
+    /*box-shadow:0 0 0 1px rgba(6, 44, 82, 0.1), 0 2px 16px rgba(33, 43, 54, 0.08);*/
+    /*border-radius:3px;*/
+}
+
+.Polaris-Popover {
+    /*box-shadow: inherit;*/
+}
+
+.Polaris-Popover__Wrapper{
+    overflow:inherit!important;
+    /*background-color: inherit;*/
+}
+
+.Polaris-Popover__Content{
+    position: relative;
+    /*display: inline!important;*/
+
+    max-width:none!important;
+    max-height:none!important;
+}
+/*.cs-image-popover-wrapper {*/
+    /*position: relative;*/
+/*}*/
+.cs-image-popover-close {
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    cursor: pointer;
+}
+.cs-image-popover-close .Polaris-Icon{
+    height: 2rem;
+    width: 2rem;
+    fill: #3f3f3f;
+}
+
+.thumbnail-loading--small{
+    width:4rem;
+    height: 4rem;
+}
+
+.thumbnail-loading--medium{
+    width:6rem;
+    height: 6rem;
+}
+
+.thumbnail-loading--large{
+    width:8rem;
+    height: 8rem;
+}
+
+.thumbnail-loading {
+    min-width: 4rem;
+    max-width: 100%;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.thumbnail-loading::after {
+    content:'';
+    position:relative;
+    z-index:20;
+    display:block;
+    padding-bottom:100%;
+    box-shadow:inset 0 0 0 1px rgba(33, 43, 54, 0.1);
+    border-radius:3px;
+}
+
+.thumbnail-loading img {
+    /*width: 8rem;*/
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+

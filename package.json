@@ -1,0 +1,49 @@
+{
+  "name": "amazon_app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@sentry/react": "^6.3.1",
+    "@sentry/tracing": "^6.3.1",
+    "@shopify/app-bridge": "^2.0.3",
+    "@shopify/app-bridge-react": "^2.0.3",
+    "@shopify/polaris": "^3.21.0",
+    "antd": "^3.26.17",
+    "axios": "^0.18.0",
+    "barcode-validator": "^1.0.2",
+    "barcoder": "^2.0.1",
+    "dotenv": "^8.1.0",
+    "graphql-js-client": "^0.11.1",
+    "html-webpack-plugin": "^3.2.0",
+    "i18next": "^17.0.14",
+    "local-storage": "^2.0.0",
+    "node-sass": "^4.14.1",
+    "prismjs": "^1.23.0",
+    "query-string": "^6.12.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-google-charts": "^3.0.13",
+    "react-helmet": "^6.1.0",
+    "react-markdown": "^4.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1",
+    "react-scroll": "^1.8.2",
+    "sass-loader": "^8.0.2",
+    "superagent": "^5.2.2"
+  },
+  "scripts": {
+    "start": "set HTTPS=false&&react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

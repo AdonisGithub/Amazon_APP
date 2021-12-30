@@ -1,0 +1,64 @@
+.trend .google-visualization-table-table th {
+    font-weight:normal;
+    font-size:0.8em;
+}
+
+.performanceChecklist > span
+{
+    opacity: 0.6;
+}
+.performanceChecklist.Good > span   {
+    background-color: green;
+
+}
+.performanceChecklist.Fair > span {
+    background-color: darkorange;
+}
+
+.performanceChecklist.Bad > span {
+    background-color: red;
+    opacity:0.7
+}
+.performanceChecklist.None > span {
+    background-color: grey;
+}
+
+
+.expand-dashboard  {
+
+    background-color:whitesmoke;
+    border:5px solid white;
+    line-height: 0;
+    text-align:center;
+}
+
+.dashboard-content
+{
+    margin-top:15px;
+}
+
+.dashboard-content .dashboard-empty{
+    padding: 15px
+}
+.dashboard-heading > div
+{
+    padding:20px
+}
+div.dashboard-cards h2, div.dashboard-content h2 {
+    margin-bottom:15px;
+    border-bottom: 1px solid #e6e6e6;
+}
+div.dashboard-cards {
+    margin-top:15px;
+}
+.dashboard-cards .Polaris-Card {
+    padding: 15px;
+}
+
+.dashboard-cards .hidden {
+    visibility: hidden;
+}
+
+.dashboard-content .trend-header {
+    max-width:100px;
+}

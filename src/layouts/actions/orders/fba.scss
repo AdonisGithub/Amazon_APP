@@ -1,0 +1,41 @@
+
+.order-fba {
+    margin: 1rem 1.5rem;
+}
+
+.fba-shippable {
+    .data-table {.Polaris-DataTable__ScrollContainer {margin-left: 0rem !important;}
+        .Polaris-DataTable__Cell--fixed {position: relative;}
+        th{vertical-align: middle;}
+        td{vertical-align: middle; word-wrap: break-word; white-space: normal}
+        td .check{font-size: 1.7rem; font-weight: 500; color: limegreen}
+        th:first-child{width: 2%}
+        th:nth-child(2){width: 25%}
+        th:nth-child(3){width: 13%}
+        th:nth-child(4){width: 60%}
+        //th:nth-child(5){width: 25%}
+        /*th:nth-child(6){width: 10%}*/
+    }
+    .Polaris-DataTable__Cell {
+        padding: 1rem 1rem;
+    }
+}
+
+
+.fba-shipped {
+    .data-table {.Polaris-DataTable__ScrollContainer {margin-left: 0rem !important;}
+        .Polaris-DataTable__Cell--fixed {position: relative;}
+        th{vertical-align: middle;}
+        td{vertical-align: middle; word-wrap: break-word; white-space: normal}
+        td .check{font-size: 1.7rem; font-weight: 500; color: limegreen}
+        th:first-child{width: 2%}
+        th:nth-child(2){width: 15%}
+        th:nth-child(3){width: 13%}
+        th:nth-child(4){width: 30%}
+        th:nth-child(5){width: 30%}
+        th:nth-child(6){width: 10%}
+    }
+    .Polaris-DataTable__Cell {
+        padding: 1rem 1rem;
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "Ok",
+  "log": "a9c735e218f932697ac91ccd6c56ad3f",
+  "date": "2020-01-18T03:37:35+00:00",
+  "data": {
+    "count": "9",
+    "errors": [
+      {
+        "submission_id": "169797018276",
+        "feed_type": "Product",
+        "submitted_date": "2020-01-15 08:15:07",
+        "id_log": "15",
+        "sku": "200420131",
+        "description": "Merchant is not authorized to sell products under this restricted product group."
+      },
+      {
+        "submission_id": "169838018276",
+        "feed_type": "Product",
+        "submitted_date": "2020-01-15 12:15:08",
+        "id_log": "17",
+        "sku": "2004201312",
+        "description": "Merchant is not authorized to sell products under this restricted product group."
+      }
+    ]
+  }
+}

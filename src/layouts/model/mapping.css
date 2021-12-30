@@ -1,0 +1,54 @@
+
+.mapping-item {
+    display: flex;
+    margin-bottom: 0.5rem;
+    /*flex-direction: row;*/
+}
+
+.mapping-item-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    width: 2%;
+}
+
+.mapping-item-option {
+    display: flex;
+    flex-direction: column;
+    width:49%;
+}
+
+.mapping-item-value {
+    display: flex;
+    flex-direction: column;
+    width:49%;
+}
+
+.mapping {
+    margin: 1rem 2rem;
+}
+
+.mapping-group {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.mapping-group-header {
+    margin-bottom: 0.5rem;
+}
+
+.mapping-matched > span {
+    position: relative;
+    top: +5px;
+    margin-right: 5px;
+}
+.mapping-matched {
+    display: flex;
+    margin: 0.5rem 0rem;
+}
+
+.mapping-matched .Polaris-Tag:first-child {
+    margin-left: 0.2rem;
+}

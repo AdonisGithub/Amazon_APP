@@ -1,0 +1,16 @@
+
+.store-selector {
+    .Polaris-TextField__Backdrop {
+        background-color: unset;
+        border: 0;
+        box-shadow: unset;
+    }
+    .Polaris-TextField__Prefix {
+        margin-left: 0.2rem;
+        margin-right: 0.2rem;
+        .Polaris-Icon{
+            margin: 0 0.5rem;
+        }
+    }
+    //padding-top: 0.5rem!important;
+}

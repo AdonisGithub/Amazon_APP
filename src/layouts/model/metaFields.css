@@ -1,0 +1,19 @@
+
+
+@media (min-width:48em) {
+    .Polaris-Modal-Dialog__Modal--sizeLarge {
+        max-width: 60%;
+    }
+}
+
+.meta-main {
+    margin: 1rem 2rem;
+}
+
+.mt-1 { margin-top: 0.3em;}
+.mt-2 { margin-top: 0.6em; }
+.mt-3 { margin-top: 0.9em; }
+.mt-4 { margin-top: 1.2em; }
+.mt-5 { margin-top: 1.5em; }
+.mt-6 { margin-top: 1.8em; }
+.mt-7 { margin-top: 2.1em; }

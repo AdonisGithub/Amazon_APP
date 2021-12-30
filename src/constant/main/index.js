@@ -1,0 +1,1 @@
+export { mainTabs, pageLabels } from "./tab";

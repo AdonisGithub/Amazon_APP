@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.mt-1 { margin-top: 0.3em;}
+.mt-2 { margin-top: 0.6em; }
+.mt-3 { margin-top: 0.9em; }
+.mt-4 { margin-top: 1.2em; }
+.mt-5 { margin-top: 1.5em; }
+.mt-6 { margin-top: 1.8em; }
+.mt-7 { margin-top: 2.1em; }
+
+.mb-1 { margin-bottom: 0.3em;}
+.mb-2 { margin-bottom: 0.6em; }
+.mb-3 { margin-bottom: 0.9em; }
+.mb-4 { margin-bottom: 1.2em; }
+.mb-5 { margin-bottom: 1.5em; }
+
+.ml-5 {margin-left: 1.5em;}
+.ml-6 {margin-left: 1.8em;}
+.ml-7 {margin-left: 2.1em;}
+
+.color-darkred {
+  color: darkred;
+}
+.color-red {
+  color: red;
+}
+
+.text-break {
+  word-break: break-all;
+}
+
+.Polaris-Frame__Content > .Polaris-Page--fullWidth {
+  padding: 0 0.5rem;
+}
+
+@media (min-width:50em) {
+  .cs-layout .Polaris-Layout__Annotation {
+    min-width: 12em;
+    max-width: 14em;
+    padding-right: 1rem;
+    margin-left: 1rem;
+    flex: none;
+  }
+}
+
+.csResourceList-header_container {border-bottom: 0.2rem solid #C4CDD5; padding: 1rem;}
+.csResourceList-item_container{padding: 1.5rem 1rem;}
+.csResourceList .csResourceList-item_container:not(:last-child) {
+  border-bottom: 0.1rem solid #CCC;
+}
+.csResourceList-header {display: flex ;flex-direction: row;}
+.csResourceList .col-1 {width: 8.33%;}
+.csResourceList .col-2 {width: 16.66%;}
+.csResourceList .col-3 {width: 25%;}
+.csResourceList .col-4 {width: 33.33%;}
+.csResourceList .col-5 {width: 51.66%;}
+.csResourceList .col-6 {width: 50%;}
+.csResourceList .col-7 {width: 58.33%;}
+.csResourceList .col-8 {width: 66.66%;}
+.csResourceList .col-9 {width: 75%;}
+.csResourceList .col-10 {width: 83.33%;}
+.csResourceList .col-11 {width: 91.66%;}
+.csResourceList .col-12 {width: 100%;}
+
+.csResourceList .left{text-align: left;}
+.csResourceList .right{text-align: right;}
+.csResourceList .center{text-align: center;}
+.csResourceList-item {display: flex;flex-direction: row;}
+.csResourceList-header > div:not(:last-child), .csResourceList-item > div:not(:last-child) {
+  padding-right: 0.5rem;
+}
+
+/* Help tooltips in tabs */
+.help-tooltip svg:hover {
+  opacity: 1;
+}
+
+.help-tooltip svg {
+  fill: #50b83c;
+  opacity: 0.6;
+  height: 80%;
+  cursor: pointer;
+}
+
+.wd-120 {
+  width: 120px;
+}
+
+.wd-150 {
+  width: 150px;
+}
+
+.wd-180 {
+  width: 180px;
+}
+
+.wd-210 {
+  /*width: 210px;*/
+  width: 40rem;
+}
+.wd-30rem {
+  width: 30rem;
+}
+.wd-40rem {
+  width: 40rem;
+}
+
+.custom-choice {
+  flex: 1;
+}
+.custom-choice ul{
+  display: flex;
+  flex-direction: row;
+}
+.custom-choice ul li{
+  margin-right: 15px;
+}
+
+.text-through {
+  text-decoration: line-through;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.disabled-block {
+  pointer-events: none;
+  opacity: 0.7;
+}

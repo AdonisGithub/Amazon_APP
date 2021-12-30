@@ -1,0 +1,212 @@
+
+@media (min-width:48em) {
+    .Polaris-Modal-Dialog__Modal--sizeLarge {
+        max-width: 80%;
+    }
+}
+
+.data-definition {
+    display: flex;
+    flex-direction: row;
+}
+
+.data-check {
+    display: flex;
+    flex-direction: column;
+    /*border: 1px solid red;*/
+    flex-basis: 5%;
+}
+
+.data-required {
+    flex-basis: 5%;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.data-name {
+    flex-basis: 30%;
+    margin-right: 1rem;
+    word-break: break-word;
+    /*border: 1px solid red;*/
+}
+
+.data-detail {
+    flex-basis: 65%;
+    /*border: 1px solid red;*/
+    word-break: break-word;
+}
+
+.data-edit-section {
+    display: flex;
+    flex-direction: row;
+    /*border: 1px solid red;*/
+}
+
+.data-edit-section .data-label {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 150px;
+    margin-top: 0.5rem;
+    justify-content: start;
+    /*border: 1px solid red;*/
+}
+
+.data-edit-section .data-label span {
+    /*font-size: 1.2em;*/
+}
+
+.data-edit-section .data-field {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    /*border: 1px solid red;*/
+}
+
+.add_border {
+    /*border: 1px solid red;*/
+}
+
+.data-label .Polaris-Icon--colorRed svg{
+    fill:#de3618;
+}
+.data-matching-section .data-edit-section {
+    /*border-top: 1px red solid;*/
+}
+.data-matching-section .data-option:not(:first-child){
+    /*border-top: none;*/
+        border-top: 1px rgba(196, 205, 213, 0.8) solid;
+}
+
+/*.data-matching-section:nth-child(1) .data-edit-section:first-child {*/
+    /*border-top: 1px red solid;*/
+/*}*/
+
+.data-matching-section .data-label {
+    justify-content: start;
+    padding-top: 1.3em;
+    flex-basis: 200px;
+    /*border: 1px solid red;*/
+}
+
+.data-matching-section .data-option-value {
+    padding-top: 0.5em;
+}
+
+.data-matching-section .Polaris-ResourceList-Item__Container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.data-advanced-usages {
+    margin-bottom: 2em;
+}
+
+.data-advanced-select {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0.5;
+    margin-right: 1em;
+}
+
+.data-advanced-field {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0.5;
+    /*border: 1px solid red;*/
+}
+
+.section-select-matching-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+.section-select-matching-group .label {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.section-select-matching-group .field {
+    width: 50%;
+}
+
+.section-variation {
+    display: flex;
+    flex-direction: column;
+    /*margin-bottom: 1rem;*/
+}
+
+.section-variation .label {
+    word-break: break-word;
+}
+
+.variation-theme {
+    margin-bottom: 2rem;
+}
+.variation-theme .Polaris-Stack .Polaris-Stack__Item:nth-child(1) {width: 17.5rem}
+.variation-theme-label {width: 15rem; font-size: 14px; margin-left: 2.5rem; font-weight: 500; }
+.variation-theme-field {width: 35rem}
+
+
+.variation-field .Polaris-Stack { padding-left: 2.5rem;}
+
+.variation-field-label {
+    margin-left: 5rem;
+    min-width: 15rem;
+}
+
+.variation-field {
+    margin-bottom: 0.5rem;
+}
+.variation-field-option {width: 20rem}
+.variation-field-value {width: 25rem}
+.variation-field-hide {display: none;}
+
+.override-fields table th {
+    text-align: right;
+    padding-right: 1rem;
+    width: 24rem;
+}
+/*.override-fields table td {width: 70%;}*/
+/*.override-fields table td > div {width: 50%;}*/
+/*.override-fields table td.text-input > div {width: 100%;}*/
+
+.override-field-option {width: 25rem!important;}
+.override-field-value {width: 30rem}
+
+.model-category-field table {width: 100%; }
+.model-category-field table th {text-align: right; padding-right: 1rem; width: 21rem;}
+.model-category-field table td > div {width: 100%;}
+
+.model-category-field table td {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.model-template {
+    width: 25rem;
+}
+.model-category-field-manufacturer > span {
+
+}
+
+@media (min-width: 48em) {
+    .model-category-field table {
+        width: 100%;
+    }
+
+    .model-category-field table td > div {
+        width: 100%;
+    }
+}
+
+.model-template-container .Polaris-Choice {
+    margin-top: 1rem;
+}
+
+.model-heading img {
+    width: 75%;
+    height: 75%;
+}
+
+#AppFrameMain .model-form {
+    padding: 10px;
+}

@@ -1,0 +1,15 @@
+
+.csInlineHelp {
+    position: relative;
+    top: 16px;
+    left: 16px;
+}
+
+.csInlineHelp .Polaris-TextContainer {
+    position: relative;
+    top: -1px;
+    left: -8px;
+    color: darkgrey;
+    margin-right: 50px;
+    padding-bottom: 15px;
+}

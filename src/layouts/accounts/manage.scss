@@ -1,0 +1,85 @@
+
+.manage li .Polaris-Checkbox {
+  visibility: hidden;
+}
+
+.manage li div.selected .Polaris-Checkbox {
+  visibility: visible;
+}
+
+.manage li:hover .Polaris-Checkbox {
+  visibility: visible;
+}
+
+.manage .add button {
+  margin: 0 2rem 2rem 2rem;
+}
+
+#credential a svg {
+  fill: #50b83c !important;
+}
+
+.usage-progress {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  .ant-progress-show-info {
+    .ant-progress-outer {
+      margin-right: unset !important;
+      padding-right: unset !important;
+      .ant-progress-inner {
+        position: relative;
+        display: inline-block;
+        width: 100%;
+        overflow: hidden;
+        vertical-align: middle;
+        background-color: #C0C0C0;
+        border-radius: 100px;
+
+        .ant-progress-bg {
+          border-radius: 100px;
+        }
+      }
+    }
+  }
+  .ant-progress-text {
+    display: none;
+  }
+  .percent-text {
+    text-align: right;
+    margin-top: 0.2rem;
+    font-size: 1.6rem;
+  }
+}
+
+.btn-choose-plan {
+  margin-top: 2rem;
+}
+
+.plan-choose-modal {
+  margin: 2rem;
+  .header-comment {
+    font-size: 1.8rem;
+  }
+  .plan-name {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .plan {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.6rem;
+    align-items: center;
+    margin-bottom: 3rem;
+    .plan-text {
+      padding-right: 4rem;
+    }
+    .plan-button {
+      button {
+        width: 7rem;
+      }
+
+    }
+  }
+}

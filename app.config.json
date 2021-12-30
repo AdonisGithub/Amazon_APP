@@ -1,0 +1,9 @@
+{
+  apps: [
+    {
+      name: "amazon-marketplace-development",
+      script: "npm",
+      args: "start"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+reports .inventory-summary {
+    text-align:right;
+}
+.reports .side-bar {
+    margin-left: -1rem;
+    width: 9rem; padding: 2rem 0;
+}
+.reports .side-bar a{color: #212b36; cursor: pointer; font-size: 1.4rem}
+.reports .side-bar a.selected {color: #5c6ac4; font-weight: 700; font-size: 1.5rem}
+
+.reports .loading {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.reports .lookup button{
+    width: 9rem;
+}
+
+.reports .table .order-table{width: 100%;}
+.reports .table .order-table .Polaris-DataTable__ScrollContainer {
+    margin-left: 0rem !important;
+}
+.reports .table .order-table th{width:auto; vertical-align: middle}
+.reports .table .order-table th:first-child {min-width: 25rem}
+.reports .table .order-table td{vertical-align: middle}
+
+.reports .table .order-table .Polaris-DataTable__Cell--fixed {
+    position: relative;
+    width: 0;
+}
+.reports .table .order-table tr a{visibility: hidden;}
+.reports .table .order-table tr:hover a{visibility: visible;cursor: pointer;}
+
+.reports .table .total .Polaris-DataTable__Cell--fixed {
+    position: relative;
+}
+
+.reports .table .total .Polaris-DataTable__ScrollContainer {
+    margin-left: 0rem !important;
+}
+.reports .table .total{width: 100%; }
+.reports .table .total th:first-child{width: 20%}
+.reports .table .total td{vertical-align: middle}
+
+.reports .table .inv-sum .Polaris-DataTable__Cell--fixed {
+    position: relative;
+}
+
+.reports .table .inv-sum .Polaris-DataTable__ScrollContainer {
+    margin-left: 0rem !important;
+}
+.reports .table .inv-sum{}
+.reports .table .inv-sum th:first-child{width: 16%; vertical-align: middle}
+.reports .table .inv-sum th:nth-child(2){width: 12%}
+.reports .table .inv-sum th:nth-child(3){width: 24%}
+.reports .table .inv-sum th:nth-child(4){width: 24%}
+.reports .table .inv-sum th:nth-child(5){width: 24%}
+.reports .table .inv-sum td{vertical-align: middle}
+.reports .table .inv-sum td .Polaris-Stack>.Polaris-Stack__Item{height: 1.5rem}
+.reports .table .inv-sum td .inv_sku{text-align: center; }
+.reports .table .inv-sum td .inv_qty{text-align: center; }
+.reports .table .inv-sum td .inv_in_stock{ text-align: center; }
+.reports .table .inv-sum td .inv_oos{ text-align: center; }
+.reports .table .inv-sum td div span{display: inline-block; }
+
+.reports .inv_detail{
+    width: 100%; margin-top: 2rem;
+    .Polaris-DataTable__ScrollContainer {margin-left: 0rem !important;}
+    .Polaris-DataTable__Cell--fixed {position: relative;}
+    th{vertical-align: middle;}
+    td{vertical-align: middle; word-wrap: break-word; white-space: normal}
+    th {
+        vertical-align: middle;
+        //width: auto;
+    }
+    th:nth-child(1) {
+        vertical-align: middle;
+        width: 5%;
+        min-width: 2rem
+    }
+    th:nth-child(2){width: 25%}
+    th:nth-child(3){width: 15%}
+    .check {
+        font-size: 1.7rem;
+        font-weight: 500;
+        color: limegreen
+    }
+}
+
+.reports .pagination{}
+.reports .pagination .Polaris-Stack__Item{padding: 2rem; display: inline-block}
+.reports .pagination .Polaris-Stack__Item:first-child{width: 40%; display: inline-block}
+.reports .pagination .pagination-select {display: inline-block; margin: 0 1rem}
+.reports .pagination .Polaris-Stack__Item:first-child select{display: inline-block}
+.reports .pagination .Polaris-Stack__Item:last-child{width: 60%}
+.reports nav button{width: 120px}
+
+.reports  .info{text-align: center; margin-bottom: 1rem}
+.reports .info span { display: inline-block; width: 10rem; margin: 1rem 1rem 0 0; padding: .2rem .5rem}
+.reports .format{display: inline-block}
+.reports .format .Polaris-Select{width: 9em !important;}
+
+.reports .tax-detail{
+    width: 100%;
+}
+
+.reports .tax-detail button span{
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.reports .tax-detail .flag{
+    width: 40px;
+}
+
+.reports .tax-detail .date {
+
+}
+
+.reports .tax-detail .address{
+
+}
+
+.reports .tax-detail .address .tax-flag-key{
+    width: 65px;
+}
+
+.reports .tax-detail .tax-key{
+    width: 120px;
+}
+
+.reports .display-link{
+    /*min-width: 13rem;*/
+    padding-right: 2rem;
+    word-break: break-word;
+    white-space: normal;
+    display: block;
+}
+
+.reports .display-link a
+{
+    visibility:hidden;
+    cursor:pointer;
+}
+
+.reports .display-link:hover a
+{
+    visibility: visible;
+}
+
+.reports .detail-filter button {border-radius: 0px; padding: .7rem 1.6rem}
+.reports .detail-filter .Polaris-Button__Content  span{
+    display: inline-block !important;
+    vertical-align: middle;
+}
+
+.reports .detail-filter button .Polaris-Button__Content .Polaris-Icon{
+    display: inline-block !important;
+    vertical-align: middle;
+    margin-left: .7rem;
+}
+

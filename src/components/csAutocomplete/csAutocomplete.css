@@ -1,0 +1,132 @@
+
+
+.csAuto_popOver .textField button{
+    padding: .7rem;
+}
+
+.csAuto_popOver .prevButton {
+    cursor: pointer;
+    pointer-events: all;
+}
+
+.csAuto_popOver .prevButton button {
+    margin: 0rem -1rem;
+    padding: 0rem 0rem;
+}
+
+.csAuto_item button {
+    margin: 0rem 0.1rem;
+}
+
+
+.csAuto_item{
+    /*position: relative;*/
+    outline: none;
+    cursor: pointer;
+}
+
+.csAuto_list {
+    /*position: relative;*/
+    /*height: 100%;*/
+    /*overflow-y: auto;*/
+}
+
+.csAuto_list .loading {
+    text-align: center;
+    padding: 0.5rem 0rem 0.2rem 0rem;
+    vertical-align: center;
+}
+
+.csAuto_list .item-empty {
+    padding: 1rem 0.6rem;
+}
+
+.csAuto_list div:hover.item-normal{
+
+    background: linear-gradient(180deg,#6371c7,#5563c1);
+    border-color: #3f4eae;
+    box-shadow: inset 0 1px 0 0 #6774c8, 0 1px 0 0 rgba(22,29,37,.05), 0 0 0 0 transparent;
+    color: #fff;
+    fill: #fff;
+}
+
+.csAuto_list div:hover.item-normal span {
+    fill: white;
+}
+
+.csAuto_list div.item-selected{
+    /*display: block;*/
+    /*padding: 1.2rem 1rem;*/
+    background: linear-gradient(180deg,#6371c7,#5563c1);
+    border-color: #3f4eae;
+    box-shadow: inset 0 1px 0 0 #6774c8, 0 1px 0 0 rgba(22,29,37,.05), 0 0 0 0 transparent;
+    color: #fff;
+    fill: #fff;
+}
+
+.csAuto_list a:hover .add-button{
+    display: block;
+    padding: 0.8rem 0.6rem;
+    background-color: #5563c1;
+    border-color: #3f4eae;
+    box-shadow: inset 0 1px 0 0 #6774c8, 0 1px 0 0 rgba(22,29,37,.05), 0 0 0 0 transparent;
+    color: #fff;
+    fill: #fff;
+    cursor: pointer;
+}
+
+.csAuto_list a.add-button{
+    display: block;
+    padding: 0.8rem .6rem;
+    background-color: #5563c1;
+    border-color: #3f4eae;
+    box-shadow: inset 0 1px 0 0 #6774c8, 0 1px 0 0 rgba(22,29,37,.05), 0 0 0 0 transparent;
+    color: #fff;
+    fill: #fff;
+    cursor: pointer;
+}
+
+a.add-button Polaris-Stack {
+    cursor: pointer;
+}
+
+
+.csAuto_list .Polaris-ResourceList__ItemWrapper+.Polaris-ResourceList__ItemWrapper {
+    border-top: none;
+}
+
+.csAuto_list .Polaris-ResourceList-Item__Container{
+    padding: 0;
+    min-height: unset;
+}
+.csAuto_item p{
+    word-wrap: break-word;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    white-space: unset;
+}
+
+.csAuto_item a{
+    position: relative;
+    display: block;
+    padding: 0.8rem 1rem;
+    text-align: left;
+    overflow-wrap: break-word;
+}
+
+.csAuto-fake-item {float:right;}
+.csAuto-fake-item a {
+    height: 1px;
+    display: inline;
+}
+.csAuto_list .Polaris-ResourceList__ItemWrapper {
+    margin: 0rem 0rem;
+}
+
+.Polaris-Popover__Content{
+    position: relative;
+    /*display: inline!important;*/
+
+    max-width:none!important;
+    max-height:none!important;
+}

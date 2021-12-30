@@ -1,0 +1,1 @@
+export { rulesTabs } from "./tab";

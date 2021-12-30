@@ -1,0 +1,1150 @@
+{
+  "status": "Ok",
+  "log": "a2792d84b4bdb1a3d369802d33f328ba",
+  "date": "2019-06-18T13:45:42+00:00",
+  "data": {
+    "103": {
+      "id": "103",
+      "universe": "BookLoader",
+      "display_name": "BookLoader",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "bookloader",
+          "display_name": "Book loader"
+        }
+      ]
+    },
+    "104": {
+      "id": "104",
+      "universe": "Music",
+      "display_name": "Musique",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "musicclassical",
+          "display_name": "Musique Classique"
+        },
+        {
+          "id": "2",
+          "name": "musicpopular",
+          "display_name": "CD &amp; Vinyles"
+        }
+      ]
+    },
+    "105": {
+      "id": "105",
+      "universe": "KindleAccessories",
+      "display_name": "KindleAccessories",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "kindleaccessories",
+          "display_name": "Kindle accessories"
+        }
+      ]
+    },
+    "106": {
+      "id": "106",
+      "universe": "BookLoader",
+      "display_name": "BookLoader",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "bookloader",
+          "display_name": "Book loader"
+        }
+      ]
+    },
+    "107": {
+      "id": "107",
+      "universe": "PetSupplies",
+      "display_name": "Animalerie",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "petsuppliesmisc",
+          "display_name": "Animalerie"
+        }
+      ]
+    },
+    "108": {
+      "id": "108",
+      "universe": "AutoAccessory",
+      "display_name": "Auto et Moto",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "lightmotorvehicle",
+          "display_name": "Light motor vehicle"
+        },
+        {
+          "id": "2",
+          "name": "accessories",
+          "display_name": "Accessories"
+        },
+        {
+          "id": "3",
+          "name": "autooil",
+          "display_name": "Huiles et liquides"
+        },
+        {
+          "id": "4",
+          "name": "autoaccessorymisc",
+          "display_name": "Accessoires auto"
+        },
+        {
+          "id": "5",
+          "name": "autobattery",
+          "display_name": "Batteries de voiture"
+        },
+        {
+          "id": "6",
+          "name": "autochemical",
+          "display_name": "Peinture"
+        },
+        {
+          "id": "7",
+          "name": "autopart",
+          "display_name": "Pi\u00e8ces d\u00e9tach\u00e9es auto"
+        },
+        {
+          "id": "8",
+          "name": "wiper",
+          "display_name": "Wiper"
+        },
+        {
+          "id": "9",
+          "name": "parts",
+          "display_name": "Parts"
+        }
+      ]
+    },
+    "109": {
+      "id": "109",
+      "universe": "TiresAndWheels",
+      "display_name": "Pneus et jantes",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "wheels",
+          "display_name": "Jantes"
+        },
+        {
+          "id": "2",
+          "name": "tires",
+          "display_name": "Pneus"
+        },
+        {
+          "id": "3",
+          "name": "tireandwheelassemblies",
+          "display_name": "Pneus mont\u00e9s sur jantes"
+        }
+      ]
+    },
+    "110": {
+      "id": "110",
+      "universe": "MotoApparel",
+      "display_name": "MotoApparel",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "ridingshirt",
+          "display_name": "Riding shirt"
+        },
+        {
+          "id": "2",
+          "name": "protectivegear",
+          "display_name": "Protective gear"
+        },
+        {
+          "id": "3",
+          "name": "ridingpants",
+          "display_name": "Riding pants"
+        },
+        {
+          "id": "4",
+          "name": "ridingboots",
+          "display_name": "Ridingboots"
+        },
+        {
+          "id": "5",
+          "name": "ridingjacket",
+          "display_name": "Riding jacket"
+        },
+        {
+          "id": "6",
+          "name": "helmet",
+          "display_name": "Helmet"
+        },
+        {
+          "id": "7",
+          "name": "gloves",
+          "display_name": "Gloves"
+        },
+        {
+          "id": "8",
+          "name": "ridingsuit",
+          "display_name": "Riding suit"
+        }
+      ]
+    },
+    "111": {
+      "id": "111",
+      "universe": "Luggage",
+      "display_name": "Bagages",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "luggage",
+          "display_name": "Bagages"
+        }
+      ]
+    },
+    "112": {
+      "id": "112",
+      "universe": "ToysBaby",
+      "display_name": "ToysBaby",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "toysandgames",
+          "display_name": "Toys and games"
+        },
+        {
+          "id": "2",
+          "name": "babyproducts",
+          "display_name": "Baby products"
+        }
+      ]
+    },
+    "113": {
+      "id": "113",
+      "universe": "ProfessionalHealthCare",
+      "display_name": "ProfessionalHealthCare",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "ProfessionalHealthcare",
+          "display_name": "Professional healthcare"
+        }
+      ]
+    },
+    "114": {
+      "id": "114",
+      "universe": "LabSupplies",
+      "display_name": "LabSupplies",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "labsupplies",
+          "display_name": "Lab supplies"
+        },
+        {
+          "id": "2",
+          "name": "safetysupply",
+          "display_name": "Alimentation de s\u00e9curit\u00e9"
+        }
+      ]
+    },
+    "115": {
+      "id": "115",
+      "universe": "Industrial",
+      "display_name": "Industrial",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "precisionmeasuring",
+          "display_name": "Mesure de pr\u00e9cision"
+        },
+        {
+          "id": "2",
+          "name": "abrasives",
+          "display_name": "abrasifs"
+        },
+        {
+          "id": "3",
+          "name": "electroniccomponents",
+          "display_name": "composants \u00e9lectroniques"
+        },
+        {
+          "id": "4",
+          "name": "mechanicalcomponents",
+          "display_name": "Composants m\u00e9caniques"
+        },
+        {
+          "id": "5",
+          "name": "gears",
+          "display_name": "engrenages"
+        },
+        {
+          "id": "6",
+          "name": "industrialwheels",
+          "display_name": "Roues industrielle"
+        },
+        {
+          "id": "7",
+          "name": "industrialhose",
+          "display_name": "tuyau industrielle"
+        },
+        {
+          "id": "8",
+          "name": "cuttingtools",
+          "display_name": "Outils de coupe"
+        },
+        {
+          "id": "9",
+          "name": "adhesivesandsealants",
+          "display_name": "Adh\u00e9sifs et scellants"
+        },
+        {
+          "id": "10",
+          "name": "materialhandling",
+          "display_name": "Manipulation du mat\u00e9riel"
+        },
+        {
+          "id": "11",
+          "name": "orings",
+          "display_name": "Joint torique"
+        },
+        {
+          "id": "12",
+          "name": "holepunch",
+          "display_name": "Hole punch"
+        },
+        {
+          "id": "13",
+          "name": "grommets",
+          "display_name": "\u0153illets"
+        }
+      ]
+    },
+    "116": {
+      "id": "116",
+      "universe": "EducationalSupplies",
+      "display_name": "EducationalSupplies",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "teachingequipment",
+          "display_name": "Teaching equipment"
+        }
+      ]
+    },
+    "117": {
+      "id": "117",
+      "universe": "FoodServiceAndJanSan",
+      "display_name": "FoodServiceAndJanSan",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "JanitorialSupply",
+          "display_name": "Janitorial supply"
+        },
+        {
+          "id": "2",
+          "name": "FoodServiceSupply",
+          "display_name": "Foodservice supply"
+        }
+      ]
+    },
+    "118": {
+      "id": "118",
+      "universe": "Jewelry",
+      "display_name": "Bijoux",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "fashionring",
+          "display_name": "Bagues"
+        },
+        {
+          "id": "2",
+          "name": "fashionother",
+          "display_name": "Fashion other"
+        },
+        {
+          "id": "3",
+          "name": "finering",
+          "display_name": "Bagues"
+        },
+        {
+          "id": "4",
+          "name": "fineearring",
+          "display_name": "Boucles d'Oreilles"
+        },
+        {
+          "id": "5",
+          "name": "fineother",
+          "display_name": "Fine other"
+        },
+        {
+          "id": "6",
+          "name": "fashionnecklacebraceletanklet",
+          "display_name": "Colliers, racelets et Bracelets de cheville"
+        },
+        {
+          "id": "7",
+          "name": "finenecklacebraceletanklet",
+          "display_name": "Colliers, racelets et Bracelets de cheville"
+        },
+        {
+          "id": "8",
+          "name": "fashionearring",
+          "display_name": "Boucles d'Oreilles"
+        }
+      ]
+    },
+    "119": {
+      "id": "119",
+      "universe": "HomeImprovement",
+      "display_name": "Bricolage",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "tools",
+          "display_name": "Outillage \u00e0 main et \u00e9lectroportatif"
+        },
+        {
+          "id": "2",
+          "name": "organizersandstorage",
+          "display_name": "Rangement et organisation"
+        },
+        {
+          "id": "3",
+          "name": "hardware",
+          "display_name": "Quincaillerie"
+        },
+        {
+          "id": "4",
+          "name": "plumbingfixtures",
+          "display_name": "Plomberie"
+        },
+        {
+          "id": "5",
+          "name": "lightingaccessories",
+          "display_name": "Lighting accessories"
+        },
+        {
+          "id": "6",
+          "name": "buildingmaterials",
+          "display_name": "Mat\u00e9riel de construction"
+        },
+        {
+          "id": "7",
+          "name": "securityelectronics",
+          "display_name": "S\u00e9curit\u00e9"
+        }
+      ]
+    },
+    "120": {
+      "id": "120",
+      "universe": "Shoes",
+      "display_name": "Chaussures et Sacs",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "handbag",
+          "display_name": "Sac port\u00e9 main"
+        },
+        {
+          "id": "2",
+          "name": "shoes",
+          "display_name": "Chaussures"
+        },
+        {
+          "id": "3",
+          "name": "boot",
+          "display_name": "Boot"
+        },
+        {
+          "id": "4",
+          "name": "technicalsportshoe",
+          "display_name": "Technical sport shoe"
+        },
+        {
+          "id": "5",
+          "name": "shoeaccessory",
+          "display_name": "Accessoires chaussures"
+        },
+        {
+          "id": "6",
+          "name": "sandal",
+          "display_name": "Sandal"
+        }
+      ]
+    },
+    "121": {
+      "id": "121",
+      "universe": "Office",
+      "display_name": "Fournitures de bureau",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "writinginstruments",
+          "display_name": "Ecriture"
+        },
+        {
+          "id": "2",
+          "name": "inkortoner",
+          "display_name": "Ink or toner"
+        },
+        {
+          "id": "3",
+          "name": "officeproducts",
+          "display_name": "Fournitures de bureau"
+        },
+        {
+          "id": "4",
+          "name": "educationalsupplies",
+          "display_name": "Fournitures Scolaires"
+        },
+        {
+          "id": "5",
+          "name": "paperproducts",
+          "display_name": "Papeterie"
+        },
+        {
+          "id": "6",
+          "name": "artsupplies",
+          "display_name": "Beaux-Arts"
+        }
+      ]
+    },
+    "122": {
+      "id": "122",
+      "universe": "LargeAppliances",
+      "display_name": "Gros \u00e9lectrom\u00e9nager",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "microwaveoven",
+          "display_name": "Fours micro-ondes"
+        },
+        {
+          "id": "2",
+          "name": "cookingoven",
+          "display_name": "Fours"
+        },
+        {
+          "id": "3",
+          "name": "refrigerationappliance",
+          "display_name": "R\u00e9frig\u00e9rateurs"
+        },
+        {
+          "id": "4",
+          "name": "cooktop",
+          "display_name": "Tables de cuisson"
+        },
+        {
+          "id": "5",
+          "name": "trashcompactor",
+          "display_name": "Compacteurs de d\u00e9chets"
+        },
+        {
+          "id": "6",
+          "name": "venthood",
+          "display_name": "Hottes aspirantes"
+        },
+        {
+          "id": "7",
+          "name": "laundryappliance",
+          "display_name": "Lave-linge et S\u00e8che-linge"
+        },
+        {
+          "id": "8",
+          "name": "dishwasher",
+          "display_name": "Lave-vaisselle"
+        },
+        {
+          "id": "9",
+          "name": "range",
+          "display_name": "Cuisini\u00e8res"
+        }
+      ]
+    },
+    "123": {
+      "id": "123",
+      "universe": "ConsumerElectronics",
+      "display_name": "ConsumerElectronics",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "accessoryorpartorsupply",
+          "display_name": "Accessory or part or supply"
+        },
+        {
+          "id": "2",
+          "name": "battery",
+          "display_name": "Battery"
+        },
+        {
+          "id": "3",
+          "name": "digitalcamera",
+          "display_name": "Digital camera"
+        },
+        {
+          "id": "4",
+          "name": "camerapowersupply",
+          "display_name": "Camera power supply"
+        },
+        {
+          "id": "5",
+          "name": "phone",
+          "display_name": "Phone"
+        },
+        {
+          "id": "6",
+          "name": "radio",
+          "display_name": "Radio"
+        },
+        {
+          "id": "7",
+          "name": "avfurniture",
+          "display_name": "Av furniture"
+        },
+        {
+          "id": "8",
+          "name": "camerabagsandcases",
+          "display_name": "Camera bags and cases"
+        },
+        {
+          "id": "9",
+          "name": "powersuppliesorprotection",
+          "display_name": "Power supplies or protection"
+        },
+        {
+          "id": "10",
+          "name": "telescope",
+          "display_name": "Telescope"
+        },
+        {
+          "id": "11",
+          "name": "headphones",
+          "display_name": "Headphones"
+        },
+        {
+          "id": "12",
+          "name": "portableavdevice",
+          "display_name": "Portable av device"
+        },
+        {
+          "id": "13",
+          "name": "speakers",
+          "display_name": "Speakers"
+        },
+        {
+          "id": "14",
+          "name": "cameraflash",
+          "display_name": "Camera flash"
+        },
+        {
+          "id": "15",
+          "name": "videodevice",
+          "display_name": "Video device"
+        },
+        {
+          "id": "16",
+          "name": "photographicstudioitems",
+          "display_name": "Photographic studio items"
+        },
+        {
+          "id": "17",
+          "name": "cableoradapter",
+          "display_name": "Cable or adapter"
+        },
+        {
+          "id": "18",
+          "name": "binocular",
+          "display_name": "Binocular"
+        },
+        {
+          "id": "19",
+          "name": "gpsornavigationsystem",
+          "display_name": "Gps or navigation system"
+        },
+        {
+          "id": "20",
+          "name": "camcorder",
+          "display_name": "Camcorder"
+        },
+        {
+          "id": "21",
+          "name": "phoneaccessory",
+          "display_name": "Phone accessory"
+        },
+        {
+          "id": "22",
+          "name": "audioorvideo",
+          "display_name": "Audio or video"
+        },
+        {
+          "id": "23",
+          "name": "cameralenses",
+          "display_name": "Camera lenses"
+        },
+        {
+          "id": "24",
+          "name": "consumerelectronics",
+          "display_name": "Consumer electronics"
+        },
+        {
+          "id": "25",
+          "name": "carelectronics",
+          "display_name": "Car electronics"
+        },
+        {
+          "id": "26",
+          "name": "cameraotheraccessories",
+          "display_name": "Camera other accessories"
+        },
+        {
+          "id": "27",
+          "name": "television",
+          "display_name": "Television"
+        },
+        {
+          "id": "28",
+          "name": "filmcamera",
+          "display_name": "Film camera"
+        },
+        {
+          "id": "29",
+          "name": "digitalpictureframe",
+          "display_name": "Digital picture frame"
+        },
+        {
+          "id": "30",
+          "name": "remotecontrol",
+          "display_name": "Remote control"
+        }
+      ]
+    },
+    "124": {
+      "id": "124",
+      "universe": "Computers",
+      "display_name": "Informatique",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "printer",
+          "display_name": "Imprimantes"
+        },
+        {
+          "id": "2",
+          "name": "personalcomputer",
+          "display_name": "Ordinateurs de bureau"
+        },
+        {
+          "id": "3",
+          "name": "scanner",
+          "display_name": "Scanners"
+        },
+        {
+          "id": "4",
+          "name": "computerdriveorstorage",
+          "display_name": "P\u00e9riph\u00e9riques externes &amp; stockage de donn\u00e9es"
+        },
+        {
+          "id": "5",
+          "name": "computercomponent",
+          "display_name": "Composants PC"
+        },
+        {
+          "id": "6",
+          "name": "monitor",
+          "display_name": "Ecran PC"
+        },
+        {
+          "id": "7",
+          "name": "videoprojector",
+          "display_name": "Vid\u00e9oprojecteurs"
+        },
+        {
+          "id": "8",
+          "name": "notebookcomputer",
+          "display_name": "Ordinateurs portables"
+        }
+      ]
+    },
+    "125": {
+      "id": "125",
+      "universe": "MusicalInstruments",
+      "display_name": "Instruments de Musique et Sono",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "keyboardinstruments",
+          "display_name": "Pianos &amp; Claviers"
+        },
+        {
+          "id": "2",
+          "name": "instrumentpartsandaccessories",
+          "display_name": "Accessoires g\u00e9n\u00e9riques"
+        },
+        {
+          "id": "3",
+          "name": "percussioninstruments",
+          "display_name": "Batteries &amp; Percussions"
+        },
+        {
+          "id": "4",
+          "name": "stringedinstruments",
+          "display_name": "Instruments \u00e0 Cordes"
+        },
+        {
+          "id": "5",
+          "name": "brassandwoodwindinstruments",
+          "display_name": "Instruments \u00e0 Vent"
+        },
+        {
+          "id": "6",
+          "name": "guitars",
+          "display_name": "Guitares"
+        }
+      ]
+    },
+    "126": {
+      "id": "126",
+      "universe": "LawnAndGarden",
+      "display_name": "LawnAndGarden",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "outdoorliving",
+          "display_name": "Outdoorliving"
+        },
+        {
+          "id": "2",
+          "name": "seedsandplants",
+          "display_name": "Seeds and plants"
+        }
+      ]
+    },
+    "127": {
+      "id": "127",
+      "universe": "ToysBaby",
+      "display_name": "ToysBaby",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "toysandgames",
+          "display_name": "Toys and games"
+        },
+        {
+          "id": "2",
+          "name": "babyproducts",
+          "display_name": "Baby products"
+        }
+      ]
+    },
+    "128": {
+      "id": "128",
+      "universe": "SoftwareVideoGames",
+      "display_name": "SoftwareVideoGames",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "software",
+          "display_name": "Software"
+        },
+        {
+          "id": "2",
+          "name": "softwaregames",
+          "display_name": "Software games"
+        },
+        {
+          "id": "3",
+          "name": "videogameshardware",
+          "display_name": "Video games hardware"
+        },
+        {
+          "id": "4",
+          "name": "videogamesaccessories",
+          "display_name": "Video games accessories"
+        },
+        {
+          "id": "5",
+          "name": "videogames",
+          "display_name": "Video games"
+        }
+      ]
+    },
+    "129": {
+      "id": "129",
+      "universe": "SoftwareVideoGames",
+      "display_name": "SoftwareVideoGames",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "software",
+          "display_name": "Software"
+        },
+        {
+          "id": "2",
+          "name": "softwaregames",
+          "display_name": "Software games"
+        },
+        {
+          "id": "3",
+          "name": "videogameshardware",
+          "display_name": "Video games hardware"
+        },
+        {
+          "id": "4",
+          "name": "videogamesaccessories",
+          "display_name": "Video games accessories"
+        },
+        {
+          "id": "5",
+          "name": "videogames",
+          "display_name": "Video games"
+        }
+      ]
+    },
+    "130": {
+      "id": "130",
+      "universe": "Lighting",
+      "display_name": "Luminaires &amp; Eclairage",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "lightsandfixtures",
+          "display_name": "Eclairage de plafond"
+        },
+        {
+          "id": "2",
+          "name": "lightbulbs",
+          "display_name": "Ampoules"
+        },
+        {
+          "id": "3",
+          "name": "lightingaccessories",
+          "display_name": "Accessoires d'\u00e9clairage"
+        }
+      ]
+    },
+    "131": {
+      "id": "131",
+      "universe": "Eyewear",
+      "display_name": "Eyewear",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "eyewear",
+          "display_name": "Eyewear"
+        }
+      ]
+    },
+    "132": {
+      "id": "132",
+      "universe": "Home",
+      "display_name": "Cuisine &amp; Maison",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "fabric",
+          "display_name": "tissu"
+        },
+        {
+          "id": "2",
+          "name": "bedandbath",
+          "display_name": "Literie et salle de bain"
+        },
+        {
+          "id": "3",
+          "name": "vacuumcleaner",
+          "display_name": "Aspirateur"
+        },
+        {
+          "id": "4",
+          "name": "floorcover",
+          "display_name": "Couvre-plancher"
+        },
+        {
+          "id": "5",
+          "name": "furnitureanddecor",
+          "display_name": "Ameublement et d\u00e9coration"
+        },
+        {
+          "id": "6",
+          "name": "home",
+          "display_name": "D\u00e9coration de la maison"
+        }
+      ]
+    },
+    "133": {
+      "id": "133",
+      "universe": "Watches",
+      "display_name": "Watches",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "watches",
+          "display_name": "Watches"
+        }
+      ]
+    },
+    "134": {
+      "id": "134",
+      "universe": "Kitchen",
+      "display_name": "Kitchen",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "cutlery",
+          "display_name": "Cutlery"
+        },
+        {
+          "id": "2",
+          "name": "bakeware",
+          "display_name": "Bakeware"
+        },
+        {
+          "id": "3",
+          "name": "kitchen",
+          "display_name": "Kitchen"
+        },
+        {
+          "id": "4",
+          "name": "kitchentools",
+          "display_name": "Kitchen tools"
+        },
+        {
+          "id": "5",
+          "name": "dinnerware",
+          "display_name": "Dinnerware"
+        },
+        {
+          "id": "6",
+          "name": "serveware",
+          "display_name": "Serveware"
+        },
+        {
+          "id": "7",
+          "name": "cookware",
+          "display_name": "Cookware"
+        }
+      ]
+    },
+    "135": {
+      "id": "135",
+      "universe": "Sports",
+      "display_name": "Sports et Loisirs",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "gloves",
+          "display_name": "Gloves"
+        },
+        {
+          "id": "2",
+          "name": "fishingequipment",
+          "display_name": "Fishing equipment"
+        },
+        {
+          "id": "3",
+          "name": "sportinggoods",
+          "display_name": "Sporting goods"
+        },
+        {
+          "id": "4",
+          "name": "campingequipment",
+          "display_name": "Camping equipment"
+        },
+        {
+          "id": "5",
+          "name": "cyclingequipment",
+          "display_name": "Cycling equipment"
+        }
+      ]
+    },
+    "136": {
+      "id": "136",
+      "universe": "Clothing",
+      "display_name": "Clothing",
+      "product_types": [
+        {
+          "id": "1",
+          "name": "bra",
+          "display_name": "Bra"
+        },
+        {
+          "id": "2",
+          "name": "sweater",
+          "display_name": "Sweater"
+        },
+        {
+          "id": "3",
+          "name": "shorts",
+          "display_name": "Shorts"
+        },
+        {
+          "id": "4",
+          "name": "suit",
+          "display_name": "Suit"
+        },
+        {
+          "id": "5",
+          "name": "swimwear",
+          "display_name": "Swimwear"
+        },
+        {
+          "id": "6",
+          "name": "pants",
+          "display_name": "Pants"
+        },
+        {
+          "id": "7",
+          "name": "blazer",
+          "display_name": "Blazer"
+        },
+        {
+          "id": "8",
+          "name": "outerwear",
+          "display_name": "Outerwear"
+        },
+        {
+          "id": "9",
+          "name": "sockshosiery",
+          "display_name": "Socks hosiery"
+        },
+        {
+          "id": "10",
+          "name": "accessory",
+          "display_name": "Accessory"
+        },
+        {
+          "id": "11",
+          "name": "dress",
+          "display_name": "Dress"
+        },
+        {
+          "id": "12",
+          "name": "shirt",
+          "display_name": "Shirt"
+        },
+        {
+          "id": "13",
+          "name": "hat",
+          "display_name": "Hat"
+        },
+        {
+          "id": "14",
+          "name": "underwear",
+          "display_name": "Underwear"
+        },
+        {
+          "id": "15",
+          "name": "skirt",
+          "display_name": "Skirt"
+        },
+        {
+          "id": "16",
+          "name": "sleepwear",
+          "display_name": "Sleepwear"
+        }
+      ]
+    }
+  }
+}

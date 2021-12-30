@@ -1,0 +1,336 @@
+:root {
+    --custom-color: limegreen;
+}
+
+.actions{width: 100%;}
+.actions .side-bar {
+    margin-left: -1rem;
+    width: 9rem; padding: 2rem 0;
+}
+.actions .side-bar a{color: #212b36; cursor: pointer; font-size: 1.4rem}
+.actions .side-bar a.selected {color: #5c6ac4; font-weight: 700; font-size: 1.5rem}
+.actions .loading {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.feeds-container .side-bar {
+    width: 11rem; padding: 2rem 0;
+}
+
+.actions .offer-table .Polaris-DataTable__ScrollContainer {margin-left: 0rem !important;}
+.actions .offer-table .Polaris-DataTable__Cell--fixed {position: relative;}
+
+/*.actions .offer-table th{width: 5%; }*/
+.actions .offer-table td{width: 48%; word-break: break-word; white-space: normal}
+
+.actions .export-filter button {border-radius: 0px; padding: .7rem 1.6rem}
+.actions .export-filter .Polaris-Button__Content  span{
+    display: inline-block !important;
+    vertical-align: middle;
+}
+
+.actions .export-filter button .Polaris-Button__Content .Polaris-Icon{
+    display: inline-block !important;
+    vertical-align: middle;
+    margin-left: .7rem;
+}
+.actions .export-search .Polaris-TextField__Backdrop{
+    border-radius: 0;
+    border-top: .1rem solid #c4cdd5;
+    border-bottom: .1rem solid #c4cdd5;
+    border-right: .1rem solid #c4cdd5;
+}
+.actions .product-options{}
+.actions .product-option{width: 300px}
+.actions .catalog-export {
+    .data-table {.Polaris-DataTable__ScrollContainer {margin-left: 0rem !important;}
+        .Polaris-DataTable__Cell--fixed {position: relative;}
+        th{vertical-align: middle;}
+        td{vertical-align: middle; word-wrap: break-word; white-space: normal}
+        td .check{font-size: 1.7rem; font-weight: 500; color: limegreen}
+        th:first-child{width: 2%}
+        th:nth-child(2){width: 57%} //title
+        //th:nth-child(3){width: 12%}
+        //th:nth-child(4){width: 10%}
+        th:nth-child(3){width: 8%; min-width: 13rem; } //ASIN
+        th:nth-child(4){width: 17%} //GROUP
+        th:nth-child(5){width: 7%} //PRICE
+        //th:nth-child(6){width: 7%}
+        th:nth-child(6){width: 7%;} //SYNCED
+        th:nth-child(7){width: 2%;} //existing
+        td:nth-child(3){width: 8%; min-width: 13rem; padding-right: 2rem;}
+        .asin-input {
+            input{padding: 0.5rem 0.7rem}
+        }
+    }
+    .Polaris-DataTable__Cell {
+        padding: 1rem 1rem;
+    }
+}
+
+.actions .catalog .data-table .Polaris-DataTable__ScrollContainer {margin-left: 0rem !important;}
+.actions .catalog .data-table .Polaris-DataTable__Cell--fixed {position: relative;}
+
+.actions .catalog .data-table th{vertical-align: middle;}
+.actions .catalog .data-table td{vertical-align: middle; word-wrap: break-word; white-space: normal}
+.actions .catalog .data-table td .check{font-size: 1.7rem; font-weight: 500; color: limegreen}
+.actions .catalog .data-table th:first-child{width: 3%}
+.actions .catalog .data-table th:nth-child(2){width: 10%}
+.actions .catalog .data-table th:nth-child(3){width: 10%}
+.actions .catalog .data-table th:nth-child(4){width: 35%}
+.actions .catalog .data-table th:nth-child(5){width: 11%}
+.actions .catalog .data-table th:nth-child(6){width: 10%}
+.actions .catalog .data-table th:nth-child(7){width: 15%; min-width: 85px}
+.actions .catalog .data-table th:nth-child(8){width: 3%}
+
+
+.actions .legend {margin-top: 1rem}
+
+
+
+.actions .lookup-table .Polaris-ResourceList-Item{cursor: auto;}
+.actions .lookup-table div.shopify{width: 50%; height: 8rem; float:left; padding-right: 3rem}
+.actions .lookup-table div.amazon{width: 50%; float: right; padding-right: 3rem}
+.actions .lookup-table div.amazon .toggle{position: relative; height: 8rem}
+
+
+.actions .lookup-table  .shopify  a.show{visibility: hidden}
+.actions .lookup-table  .shopify:hover  a.show{font-size: 2rem; cursor: pointer; visibility: visible;color:silver}
+
+.actions .search-table .search-bar{margin: 2rem 0}
+.actions .search-table .table .search-result{display: inline-block; width:49%; vertical-align: top}
+.actions .search-table .table .offer-table{display: inline-block; width:49%; margin-left: 1rem; vertical-align: top}
+.actions .search-table .table button{width: 8rem}
+.actions .search-table .table .Oberlo-link a span{float: left}
+
+.actions .schedule-list{}
+.actions .schedule-list .schedule-table{margin-top: 2rem}
+.actions .schedule-list .schedule-table .Polaris-ResourceList-Item{cursor: inherit}
+.actions .schedule-list .schedule-table .Polaris-ResourceList__FiltersWrapper{padding: 2rem 0}
+.actions .schedule-list .schedule-table .Polaris-Card{margin: 1rem 0 }
+.actions .schedule-list .schedule-table .list-header{display: flex;}
+.actions .schedule-list .schedule-table .list-header div{word-break: break-word; white-space: normal}
+.actions .schedule-list .schedule-table .list-header .flag{ width: 4%; font-size: 1.6rem; font-weight: 600; margin-top: .3rem}
+.actions .schedule-list .schedule-table .list-header .section{ width: 11%}
+.actions .schedule-list .schedule-table .list-header .action{ width: 11%}
+.actions .schedule-list .schedule-table .list-header .operation{ width: 11%}
+.actions .schedule-list .schedule-table .list-header .title{ width: 30%}
+.actions .schedule-list .schedule-table .list-header .created{ width: 13%}
+.actions .schedule-list .schedule-table .list-header .next-exe{ width: 13%}
+.actions .schedule-list .schedule-table .list-header .view{ width: 9%;}
+.actions .schedule-list .schedule-table .list-header .Polaris-Select{width: 85%;}
+.actions .schedule-list .schedule-table .list-header  div > h2{margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
+.actions .schedule-list .schedule-table .list-header button{float: right; min-width: 76px; margin: 0; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
+
+.actions .schedule-list .schedule-table .list-body{display: flex;}
+.actions .schedule-list .schedule-table .list-body div {position: relative; word-break: break-word; white-space: normal}
+.actions .schedule-list .schedule-table .list-body .flag{ width: 4%; font-size: 1.6rem; font-weight: 600; margin-top: .3rem}
+.actions .schedule-list .schedule-table .list-body .section{ width: 11%; padding-left: 1rem}
+.actions .schedule-list .schedule-table .list-body .action{ width: 11%; padding-left: 1rem}
+.actions .schedule-list .schedule-table .list-body .operation{ width: 11%; padding-left: 1rem}
+.actions .schedule-list .schedule-table .list-body .title{ width: 30%}
+.actions .schedule-list .schedule-table .list-body .created{ width: 15%; word-break: break-word; margin-left: 10px; margin-right: 10px;}
+.actions .schedule-list .schedule-table .list-body .next-exe{ width: 13%; word-break: break-word; }
+.actions .schedule-list .schedule-table .list-body .view{ width: 9%;}
+.actions .schedule-list .schedule-table .list-body  div > span{margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
+.actions .schedule-list .schedule-table .list-body button{float: right; min-width: 76px}
+
+.actions .schedule-list .schedule-table .flag span.success{font-size: 1.7rem; font-weight: 500; color: var(--custom-color)}
+.actions .schedule-list .schedule-table .flag span.warning{font-size: 1.7rem; font-weight: 500; color: orangered}
+.actions .schedule-list .schedule-table .flag span.processing{font-size: 1.9rem; font-weight: 500; color: silver}
+
+.actions .schedule-list .detail-log-table{margin-top: 1rem}
+.actions .schedule-list .detail-log-table .Polaris-DataTable__ScrollContainer {margin-left: 0rem !important;}
+.actions .schedule-list .detail-log-table .Polaris-DataTable__Cell--fixed {position: relative;}
+.actions .schedule-list .detail-log-table th{word-wrap: break-word; white-space: normal}
+.actions .schedule-list .detail-log-table th span.symbol {font-size: 1.5rem; font-weight: 500}
+.actions .schedule-list .detail-log-table th span.error {font-size: 1.5rem; font-weight: 500; position:relative; top:-1px}
+
+.actions .schedule-list .detail-log-table th:first-child{width: 45%; min-width: 80px}
+.actions .schedule-list .detail-log-table th:nth-child(2){width: 10%}
+.actions .schedule-list .detail-log-table th:nth-child(3){width: 10%}
+.actions .schedule-list .detail-log-table th:nth-child(4){width: 10%}
+.actions .schedule-list .detail-log-table th:nth-child(5){width: 10%}
+.actions .schedule-list .detail-log-table th:nth-child(6){width: 10%}
+.actions .schedule-list .detail-log-table th:nth-child(7){width: 5%}
+
+.actions .schedule-list .detail-log-table th span.highlight{background-color: yellow}
+.actions .schedule-list .detail-log-table th a.info{text-decoration: none; color: #5c6ac4}
+
+.actions .failure-table .list{display: flex;}
+.actions .failure-table .Polaris-ResourceList-Item{cursor: inherit}
+.actions .failure-table .list div:not(:last-child) {position: relative; margin-right: 1.4em}
+.actions .failure-table .list .title{display: flex;flex-direction: column; width: 20%; word-break: break-all}
+.actions .failure-table .list .message{display: flex;flex-direction: column; width: 50%; word-break: break-all}
+.actions .failure-table .list .batch_id{display: flex;flex-direction: column; width: 20%; word-break: break-all}
+.actions .failure-table .list .stop-date{display: flex;flex-direction: column; width: 10%; flex-basis: 120px }
+.actions .failure-table .list .title span{margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}
+.actions .failure-table .list .stop-date span{margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%); width: max-content;}
+
+.actions .failure-table .download-button svg{width: 2.5rem; height: 2.5rem; fill: #6f7bcb}
+
+
+.actions .pagination{}
+.actions .pagination .Polaris-Stack__Item{padding: 2rem; display: inline-block}
+.actions .pagination .Polaris-Stack__Item:first-child{width: 43%; display: inline-block}
+.actions .pagination .pagination-select {display: inline-block; margin: 0 1rem}
+.actions .pagination .Polaris-Stack__Item:first-child select{display: inline-block}
+.actions .pagination .Polaris-Stack__Item:last-child{width: 60%}
+.actions nav button{width: 120px}
+
+.actions .expand-search-result{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    line-height: 0;
+    text-align:center;
+}
+
+.actions .display-link{
+    /*min-width: 13rem;*/
+    /*padding-right: 2rem;*/
+    margin-right: 8px;
+    word-break: break-word;
+    white-space: normal;
+    display: block;
+}
+
+.actions .display-link a
+{
+    visibility:hidden;
+    cursor:pointer;
+}
+.actions .display-link:hover a
+{
+    visibility: visible;
+}
+
+.actions .csImagePopover a{
+    cursor: pointer;
+}
+
+.actions .report-detail .report-detail-key{width: 140px;}
+.actions .schedule-detail-summary .schedule-detail-key{width: 60px}
+.actions .schedule-detail-summary .Polaris-Badge{line-height: 1.6rem}
+.actions .schedule-detail-summary button svg{width: 2.5rem; height: 2.5rem; fill:#3f4eae}
+.actions .schedule-detail-summary button:hover svg{width: 2.5rem; height: 2.5rem; fill: #6f7bcb}
+
+
+.actions .report-detail button span{
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.export-body, .import-body {
+    margin-top: 1em;
+}
+
+.export-search-box, .import-search-box {
+    margin-top: 1.5em;
+}
+
+.export-search-box .Polaris-Stack:nth-child(2) {
+    margin-top: 0.5em;
+}
+
+.search-matching-group-label {
+    float: left;
+    line-height: 2.2em
+}
+
+.search-matching-group-value {
+    min-width: 25rem;
+    padding-left: 15px;
+    float: right;
+}
+
+.operations-container {
+    padding: 3rem 1rem;
+    width: 100%;
+}
+.operations-label {
+    font-size: 1.2em;
+    /*width: 18em;*/
+}
+
+.actions .display-link {
+    min-width: 128px;
+    padding-right: 2rem;
+    white-space: normal;
+    display: block;
+}
+
+.actions .display-link a {
+    visibility: hidden;
+    cursor: pointer;
+}
+
+.actions .display-link:hover a {
+    visibility: visible;
+}
+
+.admin-tool {
+    .search-box {
+        padding-top: 1rem;
+    }
+    .search-result {
+        margin-top: 1rem;
+        padding: 1rem;
+    }
+    .search-result pre {
+        background-color: #2B2B2B;
+        padding: 1rem;
+    }
+    .search-result code {
+        background-color: #2B2B2B!important;
+        box-shadow: -0.3em 0 0 0.3em #2B2B2B, 0.3em 0 0 0.3em #2B2B2B;
+    }
+}
+
+.export-body .display-link2 {
+    min-width: 128px;
+    padding-right: 2rem;
+    white-space: normal;
+    //display: block;
+}
+
+.export-body .display-link2 {
+    .product-title {
+        //display: flex;
+    }
+    .Polaris-Icon {
+        display: inline-table;
+    }
+}
+
+.export-body .display-link2 a {
+    margin-left: 1rem;
+    visibility: hidden;
+    cursor: pointer;
+
+}
+
+.export-body .display-link2:hover a {
+    visibility: visible;
+}
+
+#AppFrameMain .export-body h2 {
+    margin-bottom: 0.2em;
+
+}
+
+#AppFrameMain .advanced h3 {
+    font-size: 0.9em;
+}
+
+#AppFrameMain .advanced svg {
+    position: relative;
+    top: +1px;
+    left: -5px;
+}
+
+.barcode-negative {
+    color: #ff9900;
+}

@@ -1,0 +1,1 @@
+export { modelTabs } from "./tab";

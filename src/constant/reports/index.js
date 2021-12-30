@@ -1,0 +1,1 @@
+export { reportsTabs } from './tab';

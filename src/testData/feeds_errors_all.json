@@ -1,0 +1,1176 @@
+{
+  "status": "Ok",
+  "log": "49492621494329d2634d86f0f982c578",
+  "date": "2020-01-07T02:14:31+00:00",
+  "data": {
+    "data": [
+      {
+        "id_error": "1",
+        "error_type": "products",
+        "error_code": "13013",
+        "error_lang": "en",
+        "error_details": "<p>This SKU does not exist in your Amazon inventory so we could not process this record. To correct this error for future feeds, add the SKU to your Amazon account.<\/p>",
+        "error_resolution": "<p>You will can use \"Delete &amp; Recreate\" to delete and create new product.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 12:26:02"
+      },
+      {
+        "id_error": "3",
+        "error_type": "products",
+        "error_code": "20000",
+        "error_lang": "en",
+        "error_details": "<p>We could not access your image URL. Ensure the URL is correct and the image is publicly accessible.<\/p>",
+        "error_resolution": "<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:25:16"
+      },
+      {
+        "id_error": "5",
+        "error_type": "products",
+        "error_code": "8005",
+        "error_lang": "en",
+        "error_details": "<p>You are attempting to change an identity attribute for this SKU. To proceed, please delete this SKU and recreate this SKU afresh with the appropriate identity attribute.&nbsp;<\/p>",
+        "error_resolution": "<p>The product data you are submitting has changed. Your product or SKU will now be associated with a different product in the Amazon catalogue using this ASIN, if this data is processed. Before we can process this product data, you must first remove any active offers for this product from Amazon.&nbsp;<\/p>\r\n<p>To resolve this error, please follow these steps:<\/p>\r\n<ol>\r\n<li>Post an inventory feed with a quantity of \"0\" (zero) for this SKU.<\/li>\r\n<li>Post your new product feed.<\/li>\r\n<li>When your product feed has processed successfully, post an inventory feed with a valid quantity for your product.<\/li>\r\n<\/ol>\r\n<p><strong>Solution:<\/strong>&nbsp;Here, below, you can resolve per item click on RE-CREATE button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:25:16"
+      },
+      {
+        "id_error": "6",
+        "error_type": "products",
+        "error_code": "8016",
+        "error_lang": "en",
+        "error_details": "<p>The product data provided was insufficient for creating a variation (parent \/ child) relationship for this SKU.<\/p>",
+        "error_resolution": "<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:25:16"
+      },
+      {
+        "id_error": "7",
+        "error_type": "products",
+        "error_code": "8032",
+        "error_lang": "en",
+        "error_details": "<p>Once assigned, you cannot change the parent SKU for a child SKU but you can delete this relationship and create again. Please delete the child SKU and recreate the SKU with the desired parent SKU.<\/p>",
+        "error_resolution": "<p>Invalid variation relationship: The child variation is already assigned to a parent SKU. Please delete the old relationship before submitting a new relationship.<\/p>\r\n<p>This error code only applies to variation relationships. This error is generated when the child in the variation relationship already has another SKU stored as its parent.&nbsp;You must first delete the old relationship before submitting the new one.<\/p>\r\n<p>To eliminate a relationship, you can delete either the parent or child product. When you delete a parent, you remove the relationship between that parent and all its children.&nbsp;When you delete a child product, you eliminate the relationship between just that one child product and its parent.<\/p>\r\n<p>After you remove the original relationship, you can re-assign the child product to a new parent product.<\/p>\r\n<p><strong>Solution:<\/strong> Here, below, you can resolve per item click on RE-CREATE button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:25:16"
+      },
+      {
+        "id_error": "8",
+        "error_type": "products",
+        "error_code": "8115",
+        "error_lang": "en",
+        "error_details": "<p>Invalid ConditionType for your SKU.<\/p>",
+        "error_resolution": "<p>This error occurs when you submit an invalid Condition Type value. To resolve this error, please check you product Condition Type and replace with a valid condition type matching with Amazon<\/p>\r\n<p>Valid values for Condition Type include the following:<\/p>\r\n<ul>\r\n<li>New<\/li>\r\n<li>Refurbished<\/li>\r\n<li>UsedLikeNew<\/li>\r\n<li>UsedVeryGood<\/li>\r\n<li>UsedGood<\/li>\r\n<li>UsedAcceptable<\/li>\r\n<li>CollectibleLikeNew<\/li>\r\n<li>CollectibleVeryGood<\/li>\r\n<li>CollectibleGood<\/li>\r\n<li>CollectibleAcceptable<\/li>\r\n<\/ul>\r\n<p><strong>Please note that<\/strong> some Condition Type values may not be valid for all product categories.<\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:25:16"
+      },
+      {
+        "id_error": "9",
+        "error_type": "products",
+        "error_code": "8541",
+        "error_lang": "en",
+        "error_details": "<p>Some of the information submitted contradicts information in the Amazon catalogue. If your product is the same as this ASIN, please modify your product data to reflect the following Amazon catalogue values and resubmit. If your product is different than the ASIN, please check that the product_id is correct. If it is correct, please contact Seller Support for proper resolution.<\/p>",
+        "error_resolution": "<p><strong>Solution:<\/strong> Given below is how you can edit per item attributes to solve those contradictions.<\/p>",
+        "error_solved_type": "edit_attribute",
+        "error_priority": "1",
+        "show_message": "1",
+        "allow_overide": "1",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": " conflicting: %s (M%s ''%s'' \/ A%s ''%s'')",
+          "msg_name": [
+            "attribute_field",
+            "Merchant",
+            "Merchant_value",
+            "Amazon",
+            "Amazon_value"
+          ]
+        },
+        "notification_summary": "<p>You have the information submitted contradicts information in the Amazon catalog<\/p>",
+        "date_add": "2015-04-27 13:25:16"
+      },
+      {
+        "id_error": "10",
+        "error_type": "products",
+        "error_code": "8560",
+        "error_lang": "en",
+        "error_details": "<p>Missing Attributes standard_product_id. The SKU does not match any ASIN. Creation of a new ASIN requires the following missing attributes: standard_product_id.<\/p>",
+        "error_resolution": "<p>There are three possible causes for error 8560:<\/p>\r\n<p class=\"code\"><strong>1.&nbsp;Invalid values.<\/strong>&nbsp;Standard product ID values are generally invalid for one of two reasons: they have the wrong number of characters or they fail to conform to industry standards.<\/p>\r\n<ul>\r\n<li>\r\n<div class=\"code\">First, check that your standard product ID meets the character requirements for UPC (12 digits), EAN (13 digits), or ISBN (10 digits, sometimes ending with an X) number.<\/div>\r\n<\/li>\r\n<li>\r\n<div class=\"code\">Second, search the internet for a UPC validation or similar tool. Such tools can tell you whether your standard product ID conforms to industry standards. Note: If your standard product ID starts with a zero and you are working in Excel, Excel may have reformatted the number to remove the leading zero. To fix this, reformat the standard product ID column as text and manually edit the value.<\/div>\r\n<\/li>\r\n<\/ul>\r\n<p class=\"code\">2.&nbsp;<strong>Data not provided.<\/strong>&nbsp;One or more required fields have not been populated in the product data. Add values for the listed fields to your product data before resubmitting. Note: UPC codes starting with 2 and 4 are defined as reserved for local use. As such, our catalogue system will ignore these codes and behave as if you had provided a UPC code in your feed.<\/p>\r\n<p class=\"code\"><strong>If you do not see the required field(s) in your template, verify that:<\/strong><\/p>\r\n<ul>\r\n<li>\r\n<div class=\"code\">You are using the correct file template for your product category. For example, are you trying to list a Toy product with a file template for the Camera &amp; Photo category? In this example, you can resolve the error by re-listing your product using the Toys &amp; Games file template and providing the required data to list a Toys &amp; Games product.<\/div>\r\n<\/li>\r\n<li>\r\n<div class=\"code\">You have populated the Recommended Browse Node field correctly for your product. For example, you are trying to sell a digital camera, but you accidentally specify a Toy-related Browse Node in the Camera &amp; Photo file template. In this example, you can resolve the error by specifying the correct Recommended Browse Node associated with &ldquo;digital-cameras&rdquo; in the Camera &amp; Photo file template, along with the required data to list a Camera &amp; Photo product.&nbsp;<br \/><strong>Note:<\/strong>&nbsp;You can use the Product Classifier tool to help you identify the appropriate product category and refinements for your listings.<\/div>\r\n<\/li>\r\n<\/ul>\r\n<p class=\"code\"><strong>3. Invalid item.<\/strong>&nbsp;You have attempted to match against existing products using just a standard product ID (UPC, EAN, etc.) that does not exist in our catalogue.<\/p>\r\n<ul>\r\n<li>\r\n<div class=\"code\">If you entered the wrong standard product ID, you can correct it and resubmit the product data again.<\/div>\r\n<\/li>\r\n<li>\r\n<div class=\"code\">If the standard product ID is correct, you will need to augment your product data with additional information and resubmit it before the product can be created in the Amazon catalogue.<\/div>\r\n<\/li>\r\n<\/ul>",
+        "error_solved_type": "override",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "<p>StandardProductID<\/p>",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:25:16"
+      },
+      {
+        "id_error": "11",
+        "error_type": "products",
+        "error_code": "8603",
+        "error_lang": "en",
+        "error_details": "<p>You cannot change the ''item_classification'' for the SKU by submitting a feed with a new value.<\/p>",
+        "error_resolution": "<p>To change this attribute, do the following: 1) Submit a feed to delete the existing SKU. 2) Submit a feed to recreate the SKU with the updated ''item_classification''.<\/p>\r\n<p>You will can use \"Delete &amp; Recreate\" to resubmit feed.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:25:16"
+      },
+      {
+        "id_error": "12",
+        "error_type": "products",
+        "error_code": "99003",
+        "error_lang": "en",
+        "error_details": "<p>A required value is missing for the specified variation theme.<\/p>",
+        "error_resolution": "<p>&nbsp;<\/p>\r\n<p>Please check your model is mapped with a correct attribute or for any missing product attributes.<\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:25:16"
+      },
+      {
+        "id_error": "13",
+        "error_type": "products",
+        "error_code": "8007",
+        "error_lang": "en",
+        "error_details": "<p>We cannot recognize your parent this SKU.<\/p>",
+        "error_resolution": "<p>This error occurs when the parent SKU you reference has not been set up properly as a parent. Common reasons include the following:<\/p>\r <ul >\r\n<li>You used the wrong SKU for the parent SKU.<\/li>\r\n<li>You used the right SKU, but you did not designate that SKU as a parent when it was created.<\/li>\r\n<li>You used the right SKU, but other errors prevented the parent SKU from being set up properly.<\/li>\r\n<\/ul>\r\n<p>To resolve this error using tab-delimited inventory files, you should:<\/p>\r <ol >\r\n<li>Ensure you provide the correct SKU in the ParentSKU column of your inventory file.<\/li>\r\n<li>Locate the line for your parent SKU and ensure it contains the value \"parent\" in the parent-sku or Parentage column.<\/li>\r\n<li>Check previous error reports for errors relating to the parent SKU and correct any errors as necessary.<\/li>\r\n<li>Resubmit your inventory file.<\/li>\r\n<\/ol>\r\n<p class=\"attention\"><strong>Please Note:<\/strong>&nbsp; If you received this error after uploading a tab-delimited inventory file, your processing report will reference the incorrect parent SKU in the SKU column.&nbsp;You should refer instead to the original-record-number which indicates the line on which the error occurred.&nbsp; The original-record-number is usually two less than the row number in Microsoft&nbsp;Excel.<\/p>\r\n<p>To resolve this error using XML feeds, you should:<\/p>\r <ol >\r\n<li>Check your relationship feed to ensure that the ParentSKU value is correct.<\/li>\r\n<li>If not, correct the value and post an updated relationship feed. This should fix the problem.<\/li>\r\n<li>If the ParentSKU value is correct, locate the most recent product data feed including the parent SKU.<\/li>\r\n<li>Ensure the parent SKU has a Parentage value of \"parent\".<\/li>\r\n<li>Check previous error reports for product data feed errors relating to the parent SKU and correct any errors.<\/li>\r\n<li>Post your updated product data for the parent SKU using a product data feed.<\/li>\r\n<li>Post your relationship feed.<\/li>\r\n<\/ol>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:31:50"
+      },
+      {
+        "id_error": "14",
+        "error_type": "products",
+        "error_code": "8026",
+        "error_lang": "en",
+        "error_details": "<p>Seller is not authorized to list products in this category.<\/p>",
+        "error_resolution": "<p>Solution is available in the following online tutorial : <br \/> http:\/\/documentation.feed.biz\/seller-is-not-authorized-to-list-products-in-this-category-2\/?lang=en <br \/><br \/> Once you have solved the issue, please click on &ldquo;Solved&rdquo; button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:32:28"
+      },
+      {
+        "id_error": "15",
+        "error_type": "products",
+        "error_code": "8066",
+        "error_lang": "en",
+        "error_details": "<p>Please indicate that the item is a parent regards variation before setting up variation relationships.<\/p>",
+        "error_resolution": "<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:32:50"
+      },
+      {
+        "id_error": "16",
+        "error_type": "products",
+        "error_code": "8211",
+        "error_lang": "en",
+        "error_details": "<p>The data you submitted with this product indicates that it is a parent SKU, but it is being matched to a child ASIN in our catalogue. This could happen if you provided a child ASIN in the Standard Product ID field, or if you incorrectly submitted a parentage of &ldquo;parent&rdquo; for this item.<\/p>",
+        "error_resolution": "",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:33:35"
+      },
+      {
+        "id_error": "17",
+        "error_type": "products",
+        "error_code": "90202",
+        "error_lang": "en",
+        "error_details": "<p>There is a restriction in effect at the item level (because of Item-Level gatings on an offer).&nbsp;The item you are trying to list is currently restricted. This means that only certain sellers are approved to list and sell it.&nbsp;<\/p>",
+        "error_resolution": "<p>To learn more about restricted items, see&nbsp;<a href=\"https:\/\/sellercentral.amazon.com\/gp\/help\/200164330\/ref=ag_200164330_cont_201447710\">Restricted Products.<\/a><\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-04-27 13:34:40"
+      },
+      {
+        "id_error": "20",
+        "error_type": "products",
+        "error_code": "15",
+        "error_lang": "en",
+        "error_details": "<p>Invalid image URL.<\/p>",
+        "error_resolution": "<p>You need to submit an image URL in a standard, supported format. Please check to make sure that your URL has the correct syntax, based on the example below:<\/p>\r\n<p>http:\/\/www.domain.co.uk\/directory\/image-file.jpg<\/p>\r\n<p>Note:<\/p>\r\n<ul>\r\n<li>An image file suffix of.gif or .jpg is not required, but is preferred.<\/li>\r\n<li>You can use http, but not https, ftp or \"file\" protocols.<\/li>\r\n<li>Avoid spaces and nonstandard characters ($, ?, @, &amp;, etc.).<\/li>\r\n<\/ul>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "\"%s\" %s: \"%s\" \/ %s: \"%s\"",
+          "msg_name": [
+            "attribute_field1",
+            "attribute_field2",
+            "attribute_field3"
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 10:02:54"
+      },
+      {
+        "id_error": "22",
+        "error_type": "products",
+        "error_code": "4400",
+        "error_lang": "en",
+        "error_details": "<p>Your Seller Account is not approved to offer seller-fulfilled products in this category at this time.<\/p>",
+        "error_resolution": "<p>You can still sell these products on Amazon by using Fulfilment by Amazon (FBA).&nbsp;<\/p>",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 10:06:23"
+      },
+      {
+        "id_error": "23",
+        "error_type": "",
+        "error_code": "6000",
+        "error_lang": "en",
+        "error_details": "<p>Characters Are Not Decimal<\/p>",
+        "error_resolution": "<p>This error occurs when you use an invalid character to represent a decimal. Common reasons why this may be the case include:<\/p>\r\n<ul>\r\n<li>Using the European convention of a comma (,) rather than a period (.) to represent the decimal point. For example, listing 0,4 to represent four tenths rather than 0.4.<\/li>\r\n<\/ul>\r\n<p>To resolve this error, you should:<\/p>\r\n<ol>\r\n<li>Modify your file by including a period (.) as the decimal point.<\/li>\r\n<li>Save your changes.<\/li>\r\n<li>Resubmit your file.<\/li>\r\n<\/ol>",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 10:06:26"
+      },
+      {
+        "id_error": "24",
+        "error_type": "",
+        "error_code": "6000",
+        "error_lang": "en",
+        "error_details": "<p>Characters Aren't Positive Integers<\/p>",
+        "error_resolution": "<p>To be valid, your value must meet the following conditions:<\/p>\r\n<ul>\r\n<li>Be greater than or equal to one.<\/li>\r\n<li>Be an integer or whole number. In other words, you cannot include a decimal point, fraction, or text. For example, \"3\" is a valid value, but \"3.5\", \"3 1\/2\", and \"3 days\" are invalid.<\/li>\r\n<\/ul>\r\n<p>To resolve this error, you should:<\/p>\r\n<ul>\r\n<li>Modify your file to include a number that is greater than or equal to zero and does not contain a decimal or fraction.<\/li>\r\n<li>Save your changes.<\/li>\r\n<li>Resubmit your file.<\/li>\r\n<\/ul>",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 14:26:43"
+      },
+      {
+        "id_error": "25",
+        "error_type": "",
+        "error_code": "6000",
+        "error_lang": "en",
+        "error_details": "<p>Characters Not Integer<\/p>",
+        "error_resolution": "<p>This error occurs when you provide a value that is not a whole number greater than or equal to zero. In order to be a valid non-negative integer, this value must not include:<\/p>\r\n<ul>\r\n<li>Any non-numeric characters such as letters or punctuation marks.<\/li>\r\n<li>A decimal point.<\/li>\r\n<li>A fraction.<\/li>\r\n<\/ul>\r\n<p>To resolve this error, you should:<\/p>\r\n<ol>\r\n<li>Modify your value to exclude any characters listed in the error message.<\/li>\r\n<li>Save your changes.<\/li>\r\n<li>Resubmit your file.<\/li>\r\n<\/ol>",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 14:27:41"
+      },
+      {
+        "id_error": "26",
+        "error_type": "",
+        "error_code": "6000",
+        "error_lang": "en",
+        "error_details": "<p>Characters Not Integer<\/p>",
+        "error_resolution": "<p>This error occurs when you provide a value that is not a whole number greater than or equal to zero. In order to be a valid non-negative integer, this value must not include:<\/p>\r\n<ul>\r\n<li>Any non-numeric characters such as letters or punctuation marks.<\/li>\r\n<li>A decimal point.<\/li>\r\n<li>A fraction.<\/li>\r\n<\/ul>\r\n<p>To resolve this error, you should:<\/p>\r\n<ol>\r\n<li>Modify your value to exclude any characters listed in the error message.<\/li>\r\n<li>Save your changes.<\/li>\r\n<li>Resubmit your file.<\/li>\r\n<\/ol>",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 14:28:38"
+      },
+      {
+        "id_error": "27",
+        "error_type": "",
+        "error_code": "6000",
+        "error_lang": "en",
+        "error_details": "<p>Characters Not Positive Integer<\/p>",
+        "error_resolution": "<p>This error occurs when you provide a value that is not a whole number greater than zero. In order to be a valid positive integer, this value must not include:<\/p>\r\n<ul>\r\n<li>Any non-numeric characters such as letters or punctuation marks.<\/li>\r\n<li>A decimal point.<\/li>\r\n<li>A fraction.<\/li>\r\n<\/ul>\r\n<p>To resolve this error, you should:<\/p>\r\n<ol>\r\n<li>Modify your value to exclude any characters listed in the error message.<\/li>\r\n<li>Save your changes.<\/li>\r\n<li>Resubmit your file.<\/li>\r\n<\/ol>",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 14:29:29"
+      },
+      {
+        "id_error": "28",
+        "error_type": "",
+        "error_code": "6000",
+        "error_lang": "en",
+        "error_details": "<p>Column Is Missing<\/p>",
+        "error_resolution": "<p>This error occurs when your file is missing a required column. Common reasons why this may be the case include:<\/p>\r\n<ul>\r\n<li>Removing a column from the original template.<\/li>\r\n<li>Failing to export a required column from a database when creating a file.<\/li>\r\n<li>Modifying the name of a column.<\/li>\r\n<\/ul>\r\n<p>To resolve this error, you should:<\/p>\r\n<ol>\r\n<li>Refer to the data definitions for your file. These are located within the Excel-based file template.<\/li>\r\n<li>Make note of the columns that are required for your file.<\/li>\r\n<li>Add any required columns that are missing.<\/li>\r\n<li>Populate those columns with the required data as described in the data definitions.<\/li>\r\n<li>Save your changes.<\/li>\r\n<li>Resubmit your file.<\/li>\r\n<\/ol>",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 14:30:02"
+      },
+      {
+        "id_error": "29",
+        "error_type": "",
+        "error_code": "6000",
+        "error_lang": "en",
+        "error_details": "<p>Column Is Not a Recognized Column<\/p>",
+        "error_resolution": "<p>This error occurs when a column name does not match one of the column names in the inventory file template for this type of product. Because of this, the value you have submitted in that column (field) will be ignored.<\/p>\r\n<p>To avoid repeating this error, you should try the following steps:<\/p>\r\n<ul>\r\n<li>Modify the column name so that it exactly matches one of the column names from the appropriate inventory file template for your product type.<\/li>\r\n<li>Resubmit your data.<\/li>\r\n<\/ul>",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 14:30:31"
+      },
+      {
+        "id_error": "30",
+        "error_type": "",
+        "error_code": "6000",
+        "error_lang": "en",
+        "error_details": "<p>ColumnName Is Duplicated<\/p>",
+        "error_resolution": "<p>This error occurs when you have more than one column in your file with the same name. Common reasons why this may be the case include:<\/p>\r\n<ul>\r\n<li>Modifying one or more column names.<\/li>\r\n<li>Exporting the same column in a database more than once when creating a file<\/li>\r\n<\/ul>\r\n<p>To resolve this error, you should:<\/p>\r\n<ol>\r\n<li>Compare your file with the template available in Seller Central.<\/li>\r\n<li>Ensure that the column names in your file exactly match the column names in the template.<\/li>\r\n<li>Ensure that each column name appears only once in your file.<\/li>\r\n<li>Save your changes.<\/li>\r\n<li>Resubmit your file<\/li>\r\n<\/ol>",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-11 14:31:18"
+      },
+      {
+        "id_error": "32",
+        "error_type": "products",
+        "error_code": "8105",
+        "error_lang": "en",
+        "error_details": "<p>The data you provided for an attribute does not match the list of valid values. Please select a valid value from the Data Definitions and resubmit.<\/p>",
+        "error_resolution": "",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-22 08:47:59"
+      },
+      {
+        "id_error": "33",
+        "error_type": "products",
+        "error_code": "8542",
+        "error_lang": "en",
+        "error_details": "<p>The SKU data provided conflicts with the Amazon catalogue. The standard_product_id value(s) provided correspond to the ASIN, but some information contradicts with the Amazon catalog. If your product is this ASIN, then modify your data to reflect the Amazon catalog values. Else, check your value(s) for standard_product_id to ensure they are correct.<\/p>",
+        "error_resolution": "<p>SKU , (ASIN , ( Merchant: &lt;merchant_value\"\/ Amazon: &lt;amazon_value\", Merchant: &lt;merchant_value\"\/ Amazon: &lt;amazon_value\", ...)), (ASIN , ( Merchant: &lt;merchant_value\"\/ Amazon: &lt;amazon_value\", Merchant: &lt;merchant_value\"\/ Amazon: &lt;amazon_value\", ...)), ....<\/p>\r\n<p>The product_id submitted corresponds to multiple ASINs &lt;asin1, asin2,=\"\" ...=\"\"\"but we are unable to determine which ASIN. Please update your information to best match the appropriate ASIN. If your product is different than any ASIN, please check the product_id. If it is correct, please contact Seller Support for proper resolution.<\/p>\r\n<p>The submission includes a product_id (UPC, EAN, JAN, ISBN, etc.) that is currently associated with two or more ASINs, but other attributes you have provided do not match any of these ASINs. For example, if you try to list a book using \"hardcover\" as the binding but in the Amazon catalogue, the ISBN for that book has a \"paperback\" binding, you will receive this error.<\/p>\r\n<p>To resolve this error, check to make sure the product_id you have provided is correct. If not, correct the product_ID in your file and resubmit.<\/p>\r\n<p>If the product_ID is correct, update the attributes in your file to match those in the catalogue for that item and resubmit. If the information in the Amazon catalog for this product appears to be incorrect, contact Seller Support for further investigation.<\/p>\r\n<p>A common cause of this error is the result of manufacturers reusing UPCs or EANs; for example, in apparel, barcodes are sometimes reused after 3 years. Please ensure you are matching to the correct ASIN.<\/p>",
+        "error_solved_type": "edit_attribute",
+        "error_priority": "1",
+        "show_message": "1",
+        "allow_overide": "1",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": " conflicting: %s (M%s ''%s'' \/ A%s ''%s'')",
+          "msg_name": [
+            "attribute_field",
+            "Merchant",
+            "Merchant_value",
+            "Amazon",
+            "Amazon_value"
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-05-26 11:36:44"
+      },
+      {
+        "id_error": "34",
+        "error_type": "products",
+        "error_code": "8567",
+        "error_lang": "en",
+        "error_details": "<p>The SKU does not match any ASIN and contains invalid values for attributes required for creation of a new ASIN. New ASIN creation requires the following attributes, for which this SKU provided invalid attribute value(s): standard_product_id.<\/p>",
+        "error_resolution": "",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "1",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-08-24 03:20:59"
+      },
+      {
+        "id_error": "35",
+        "error_type": "products",
+        "error_code": "8126",
+        "error_lang": "en",
+        "error_details": "<p>The value provided for the UPC is invalid. The invalid value can cause additional processing warnings and errors. Replace the invalid value with the correct UPC for the product and resubmit your feed.<\/p>",
+        "error_resolution": "",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-08-24 04:32:28"
+      },
+      {
+        "id_error": "36",
+        "error_type": "products",
+        "error_code": "8057",
+        "error_lang": "en",
+        "error_details": "<p>ConditionType for the SKU cannot be modified because it has saleable inventory.&nbsp;<\/p>",
+        "error_resolution": "<p>This error occurs when the ConditionType value you submitted for this SKU differs from the exiting ConditionType value in the Amazon catalogue. You cannot change the ConditionType associated with a product while offers for that product are active on Amazon. To resolve this error, you must first remove any existing offers before you can update the ConditionType value.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-08-24 04:34:15"
+      },
+      {
+        "id_error": "37",
+        "error_type": "products",
+        "error_code": "8058",
+        "error_lang": "en",
+        "error_details": "<p>The following attributes are missing for the SKU.&nbsp;<\/p>",
+        "error_resolution": "<p>This error occurs when you did not provide a value for the specified field name in your inventory file or product data feed. To resolve this error, resubmit your product data with an appropriate value in the required field.<\/p>\r\n<p>To determine the valid values, see the &ldquo;Valid Values&rdquo; tab in the template that you used to upload your inventory. You can download the templates on our Template for Specific Categories help page. - https:\/\/sellercentral.amazon.com\/gp\/help\/201576440\/<\/p>\r\n<p>To learn more about filling in the templates and using valid values, see the Video:&nbsp;<a href=\"https:\/\/sellercentral.amazon.com\/gp\/help\/201467230\/ref=ag_201467230_cont_24501\">How do I Fill Out a Template?<\/a><\/p>",
+        "error_solved_type": "edit_attribute",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "1",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "SKU: [%s]: [%s].%s",
+          "msg_name": [
+            "SKU",
+            "attribute_field",
+            "detail"
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-08-24 04:34:59"
+      },
+      {
+        "id_error": "38",
+        "error_type": "products",
+        "error_code": "99043",
+        "error_lang": "en",
+        "error_details": "<p>The value provided for \"item_type\" is not valid.<\/p>",
+        "error_resolution": "<p>Please use the Product Classifier or download the category-specific Browse Tree Guide from Seller Help to see a list of valid \"Message\/Product\/DescriptionData\/ItemType\" values. This information tells Amazon where your product should be classified and affects how easily customers can find your product.<\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-09-08 08:53:33"
+      },
+      {
+        "id_error": "39",
+        "error_type": "products",
+        "error_code": "99045",
+        "error_lang": "en",
+        "error_details": "<p>The values provided are not a valid combination.&nbsp;<\/p>",
+        "error_resolution": "<p>Download the category-specific Browse Tree Guide from Seller Help to see the list of appropriate value pairings.&nbsp;&nbsp;<\/p>\r\n<p>This information tells Amazon where your product should be classified and affects how easily customers can find your product.<\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-09-08 09:00:23"
+      },
+      {
+        "id_error": "40",
+        "error_type": "products",
+        "error_code": "6024",
+        "error_lang": "en",
+        "error_details": "<p>Seller is not authorized to list products by this brand name in this product line or category.&nbsp;<\/p>",
+        "error_resolution": "<p>Solution is available in the following online tutorial&nbsp;:&nbsp;<br \/><a href=\"http:\/\/documentation.feed.biz\/seller-is-not-authorized-to-list-products-in-this-category-2\" target=\"_blank\">http:\/\/documentation.feed.biz\/seller-is-not-authorized-to-list-products-in-this-category-2<\/a><br \/><br \/>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button, the feed for that product will be resubmitted to Amazon.<\/p>\r\n<p>For more details, see <a href=\"http:\/\/sellercentral.amazon.com\/gp\/errorcode\/6024\" target=\"_blank\">http:\/\/sellercentral.amazon.com\/gp\/errorcode\/6024<\/a><\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2015-09-09 02:33:10"
+      },
+      {
+        "id_error": "41",
+        "error_type": "products",
+        "error_code": "20005",
+        "error_lang": "en",
+        "error_details": "<p>Amazon can not associate an image with the SKU because the SKU was not created due to another error.<\/p>",
+        "error_resolution": "<p>It is due to the products have another error.<\/p>",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-22 09:21:20"
+      },
+      {
+        "id_error": "44",
+        "error_type": "products",
+        "error_code": "5000",
+        "error_lang": "en",
+        "error_details": "<p>XML Parsing Error encountered during reading &amp; interpreting XML. Correct any errors during generation of XML file and run again.<\/p>",
+        "error_resolution": "<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-22 09:32:03"
+      },
+      {
+        "id_error": "88",
+        "error_type": "products",
+        "error_code": "90122",
+        "error_lang": "en",
+        "error_details": "<p>HTML content is not allowed for this column.<\/p>",
+        "error_resolution": "<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-22 09:58:17"
+      },
+      {
+        "id_error": "89",
+        "error_type": "products",
+        "error_code": "99001",
+        "error_lang": "en",
+        "error_details": "<p>A value is required for this column<\/p>",
+        "error_resolution": "<p>Add the required columns or assign the correct values, and then resubmit your feed.<\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-22 10:01:41"
+      },
+      {
+        "id_error": "91",
+        "error_type": "products",
+        "error_code": "99041",
+        "error_lang": "en",
+        "error_details": "<p>A value was not provided for \"ATTRIBUTE NAME\".&nbsp;<\/p>",
+        "error_resolution": "<p>Please provide a value for \"ATTRIBUTE NAME\".<\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 02:18:39"
+      },
+      {
+        "id_error": "94",
+        "error_type": "products",
+        "error_code": "8801",
+        "error_lang": "en",
+        "error_details": "<p>The child SKU could not be added to parent SKU because another SKU has the same variation attributes and is already associated with the parent SKU.<\/p>",
+        "error_resolution": "<p>Please check your variation theme on the&nbsp;models is match with your product variation attributes or the products are missing the variation attributes.<\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 02:34:37"
+      },
+      {
+        "id_error": "96",
+        "error_type": "products",
+        "error_code": "8802",
+        "error_lang": "en",
+        "error_details": "<p>Your feed has a parent\/child relationship between parent SKU ($1) and child SKU ($2) that cannot be created. Your child SKU is assigned to ASIN ($4), which already has a variation parent. You do not need to take any further action.<\/p>",
+        "error_resolution": "",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 02:45:13"
+      },
+      {
+        "id_error": "98",
+        "error_type": "products",
+        "error_code": "8805",
+        "error_lang": "en",
+        "error_details": "<p>This product has requested an update of Attribute.<\/p>",
+        "error_resolution": "<p>If you would like to add this product to the variation family, please ensure the values are consistent.<\/p>\r\n<p><strong>Solution:<\/strong>&nbsp;Here, below, you can resolve per item click on RE-CREATE button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 02:59:17"
+      },
+      {
+        "id_error": "100",
+        "error_type": "products",
+        "error_code": "8907",
+        "error_lang": "en",
+        "error_details": "<p>You did not provide value(s) for the key attribute(s) product_type.&nbsp;<\/p>",
+        "error_resolution": "<p>To benefit from the Amazon Brand Registry, provide valid key attribute(s) product_type for this SKU.<\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 03:03:20"
+      },
+      {
+        "id_error": "102",
+        "error_type": "products",
+        "error_code": "8008",
+        "error_lang": "en",
+        "error_details": "<p>We cannot recognize the child SKU [%s] you are trying to relate to the parent SKU [%s].<\/p>",
+        "error_resolution": "<p>This error occurs when the child SKU you reference in your relationship feed has not been set up properly using a product data feed. Common reasons why this may be the case include the following:<\/p>\r\n<ul>\r\n<li>You used the wrong SKU for the child SKU.<\/li>\r\n<li>You used the right SKU, but you did not designate that SKU as a child in a product data feed.<\/li>\r\n<li>You used the right SKU, but errors in your product data feed prevented the child SKU from being set up properly.<\/li>\r\n<\/ul>\r\n<p>To resolve this error using XML feeds, you should:<\/p>\r\n<ol>\r\n<li>Check your relationship feed to make sure that the SKU value is correct.<\/li>\r\n<li>If not, correct the value and post an updated relationship feed. This should fix the problem.<\/li>\r\n<li>If the SKU value is correct, locate the most recent product data feed including the child SKU.<\/li>\r\n<li>Ensure the child SKU has a Parentage value of \"child\".<\/li>\r\n<li>Check previous error reports for product data feed errors relating to the child SKU and correct any errors.<\/li>\r\n<li>Post your updated product data for the child SKU via a product data feed.<\/li>\r\n<li>Post your relationship feed.<\/li>\r\n<\/ol>\r\n<p>For help with this error, see <a href=\"http:\/\/sellercentral.amazon.co.uk\/gp\/help\/23701\">http:\/\/sellercentral.amazon.co.uk\/gp\/help\/23701<\/a><\/p>\r\n<p><strong>Solution:<\/strong>&nbsp;Here, below, you can resolve per item click on RE-CREATE button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 03:06:15"
+      },
+      {
+        "id_error": "104",
+        "error_type": "products",
+        "error_code": "8031",
+        "error_lang": "en",
+        "error_details": "<p>Invalid variation relationship: The same SKU is specified as both a variation child and a variation parent.<\/p>",
+        "error_resolution": "<p>Please resubmit with different SKU for variation child and variation parent relationships.<br \/><br \/><strong>Solution:<\/strong>&nbsp;Here, below, you can resolve per item click on RE-CREATE button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 03:24:51"
+      },
+      {
+        "id_error": "106",
+        "error_type": "products",
+        "error_code": "8804",
+        "error_lang": "en",
+        "error_details": "<p>The variation family you are trying to create contains inconsistent information. [Attributes] must be the same for all members of the family. Your products were listed successfully but the variation relationship was not created.&nbsp;<\/p>",
+        "error_resolution": "<p>Please ensure all products in a variation family have the same value for [Attributes].<\/p>\r\n<p><strong>Solution:<\/strong>&nbsp;Here, below, you can resolve per item click on RE-CREATE button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 03:29:49"
+      },
+      {
+        "id_error": "108",
+        "error_type": "products",
+        "error_code": "8803",
+        "error_lang": "en",
+        "error_details": "<p>Your feed has a parent\/child relationship between parent SKU '$1' and child SKU '$2' that cannot be created. Your child SKU shares the same variation attributes with another child ASIN '$4', which is not allowed.&nbsp;<\/p>",
+        "error_resolution": "<p>Do one of the following and then resubmit your feed:<\/p>\r\n<p>1) Correct the variation attributes for your child SKU.<\/p>\r\n<p>2) Update your child SKU to match ASIN '$4'.<\/p>\r\n<p>3) Assign a different parent SKU to your child SKU.<\/p>\r\n<p>4) Remove the variation theme on your child SKU, and remove the relationship to your child SKU.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Solution:<\/strong>&nbsp;Here, below, you can resolve per item click on RE-CREATE button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "1",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 03:36:59"
+      },
+      {
+        "id_error": "110",
+        "error_type": "products",
+        "error_code": "8045",
+        "error_lang": "en",
+        "error_details": "<p>The SKU is a variation Parent in one or more marketplaces and a variation Child in another marketplace(s). A SKU needs to have the same Parentage in all marketplaces.&nbsp;<\/p>",
+        "error_resolution": "<p>Please resubmit the SKU with the correct ''Parentage'' to ensure it is consistent across all marketplaces.<\/p>\r\n<p>You can read more about Parent\/Child relationships at: <a href=\"http:\/\/sellercentral.amazon.fr\/gp\/help\/8841\">http:\/\/sellercentral.amazon.fr\/gp\/help\/8841<\/a><\/p>\r\n<p><strong>Solution:<\/strong>&nbsp;Here, below, you can resolve per item click on RE-CREATE button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 03:43:38"
+      },
+      {
+        "id_error": "112",
+        "error_type": "products",
+        "error_code": "8566",
+        "error_lang": "en",
+        "error_details": "<p>SKU does not match any ASIN and the product data provided is not eligible for ASIN creation.<\/p>",
+        "error_resolution": "",
+        "error_solved_type": "",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 03:46:26"
+      },
+      {
+        "id_error": "114",
+        "error_type": "products",
+        "error_code": "8572",
+        "error_lang": "en",
+        "error_details": "<p>You are using UPCs, EANs, ISBNs, ASINs, or JAN codes that do not match the products you are trying to list.&nbsp;<\/p>",
+        "error_resolution": "<p>Using incorrect UPCs, EANs, ISBNs, ASINs or JAN codes is prohibited and it can result in your ASIN creation privileges being suspended or permanently removed.<\/p>\r\n<p>Please ensure you are always using the appropriate UPC, EAN, ISBN, ASIN or JAN code when listing a product. If you have reached this message in error, please contact Seller Support using the following link: <a href=\"https:\/\/sellercentral.amazon.fr\/hz\/contact-us.\">https:\/\/sellercentral.amazon.fr\/hz\/contact-us.<\/a><\/p>\r\n<p>For more information, refer to the ASIN Creation Policy Help Page - <a href=\"https:\/\/sellercentral.amazon.fr\/gp\/help\/201844590\">https:\/\/sellercentral.amazon.fr\/gp\/help\/201844590<\/a><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button, the feed for that product will be resubmitted to Amazon.<\/p>\r\n<p>&nbsp;<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "0",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-06-27 03:48:48"
+      },
+      {
+        "id_error": "116",
+        "error_type": "products",
+        "error_code": "99036",
+        "error_lang": "en",
+        "error_details": "<p>The \"Message\/Product\/DescriptionData\/MerchantShippingGroupName\" field contains an invalid value.<\/p>",
+        "error_resolution": "<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "",
+        "date_add": "2016-09-05 07:58:57"
+      },
+      {
+        "id_error": "118",
+        "error_type": "products",
+        "error_code": "99038",
+        "error_lang": "en",
+        "error_details": "<p>The fields contains an invalid value.&nbsp;<\/p>",
+        "error_resolution": "<p>Please provide a valid value for the field and try again.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "<p>Error 99038 : The fields contains an invalid value.<\/p>",
+        "date_add": "2017-04-20 01:53:11"
+      },
+      {
+        "id_error": "120",
+        "error_type": "products",
+        "error_code": "20002",
+        "error_lang": "en",
+        "error_details": "<p>The variation theme is different from the variation theme that already exists for this product in the Amazon catalog.<\/p>",
+        "error_resolution": "<p>Your variation theme must be identical to, or include the existing theme.<\/p>\r\n<p>For more information, see <a href=\"http:\/\/sellercentral.amazon.fr\/gp\/errorcode\/20002\" target=\"_blank\">http:\/\/sellercentral.amazon.fr\/gp\/errorcode\/20002<\/a><\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "<p>Error&nbsp;20002 :&nbsp;The variation theme is different from the variation theme that already exists for this product in the Amazon catalog.<\/p>",
+        "date_add": "2017-04-20 01:57:38"
+      },
+      {
+        "id_error": "122",
+        "error_type": "products",
+        "error_code": "96008",
+        "error_lang": "en",
+        "error_details": "<p>Condition notes are not accepted for products with a new condition type. Condition note contributions have been ignored for SKU \"Message\/Product\/SKU\".<\/p>",
+        "error_resolution": "<p>Please provide a valid value for the field and try again.<\/p>\r\n<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "<p>Error 96008 :&nbsp;Condition notes are not accepted for products with a new condition type.&nbsp;<\/p>",
+        "date_add": "2017-04-20 02:01:41"
+      },
+      {
+        "id_error": "125",
+        "error_type": "products",
+        "error_code": "4000",
+        "error_lang": "en",
+        "error_details": "<p>The file you are submitting is causing the same error repeatedly, leading to processing failures.<\/p>",
+        "error_resolution": "<p>The product data you are submitting has changed. Your product or SKU will now be associated with a different product in the Amazon catalogue using this ASIN, if this data is processed. Before we can process this product data, you must first remove any active offers for this product from Amazon.&nbsp;<\/p>\r\n<p>To resolve this error, please follow these steps:<\/p>\r\n<ol>\r\n<li>Post an inventory feed with a quantity of \"0\" (zero) for this SKU.<\/li>\r\n<li>Post your new product feed.<\/li>\r\n<li>When your product feed has processed successfully, post an inventory feed with a valid quantity for your product.<\/li>\r\n<\/ol>\r\n<p><strong>Solution:<\/strong>&nbsp;Here, below, you can resolve per item click on RE-CREATE button, the feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "recreate",
+        "error_priority": "0",
+        "show_message": "1",
+        "allow_overide": "0",
+        "other": "",
+        "message_pattern": {
+          "msg_pattern": "",
+          "msg_name": [
+            ""
+          ]
+        },
+        "notification_summary": "<p>The file you are submitting is causing the same error repeatedly, leading to processing failures.<\/p>",
+        "date_add": "2017-06-08 08:58:11"
+      }
+    ]
+  }
+}

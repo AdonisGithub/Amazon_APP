@@ -1,0 +1,121 @@
+
+.help-center-main {
+    width: 87rem;
+    margin: 3px;
+}
+
+.help-center-link {
+    margin: 0.5rem;
+}
+
+.help-button:hover {
+    cursor: pointer;
+}
+
+.help-button-s .Polaris-Icon {
+}
+
+.help-button-m .Polaris-Icon {
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
+
+.help-popover {
+    max-height: 100%;
+    width: auto;
+    /*margin-left: 6rem;*/
+    /*display: block;*/
+    /*box-shadow:0 0 0 1px rgba(6, 44, 82, 0.1), 0 2px 16px rgba(33, 43, 54, 0.08);*/
+    /*border-radius:3px;*/
+}
+
+.Polaris-Popover {
+    /*box-shadow: inherit;*/
+    /*margin-left: 3rem;*/
+}
+
+.Polaris-Popover__Wrapper{
+    /*overflow:inherit!important;*/
+    /*background-color: inherit;*/
+}
+
+.Polaris-Popover__Content{
+    position: relative;
+    /*display: inline!important;*/
+
+    max-width:none!important;
+    max-height:none!important;
+}
+
+
+.markdown h1{
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+.markdown h2{
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+.markdown h3{
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+.markdown h4{
+    display: block;
+    font-size: 1em;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+.markdown h5{
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+.markdown h6{
+    display: block;
+    font-size: .67em;
+    margin-top: 2.33em;
+    margin-bottom: 2.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+.markdown p{
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.markdown blockquote {
+    margin-top: 41px;
+    margin-bottom: 34px;
+    font-weight: 400;
+    border-left: 5px solid #ddd;
+    background-color: #eee;
+    padding: 10px 20px;
+}

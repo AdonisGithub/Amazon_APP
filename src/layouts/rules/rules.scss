@@ -1,0 +1,85 @@
+.rules{
+    .list .Polaris-Card__Footer{padding: 2rem 2rem 2rem}
+}
+
+.shipping-unit .Polaris-Select{min-width: 5.5rem}
+
+.markup-list{
+    display: flex;
+    div{margin-right: 1rem}
+    .markup{width: 10%}
+    .from{width: 10%}
+    .to{width: 10%}
+    .example{width: 50%; word-break: break-word; white-space: normal; }
+    .sale{width: 10%}
+    .price{width: 10%}
+}
+
+.sale-list{
+    display: flex;
+    div{margin-right: 1rem}
+    .sale-from{width: 8%}
+    .sale-to{width: 8%}
+    .sale-example{width: 48%; word-break: break-word; white-space: normal; padding-left: 1rem}
+    .sale-price{width: 14%}
+    .sale-sale-price{width: 22%}
+}
+
+.filter-list{
+    display: flex;
+    div{margin-right: 1rem}
+    .example{width: 85%; word-break: break-word; white-space: normal;}
+    .action{width: 15%}
+}
+
+.inventory-list{
+    display: flex;
+    div{margin-right: 1rem}
+    .example{width: 75%; word-break: break-word; white-space: normal;}
+    .action{width: 15%}
+    .quantity{width: 10%}
+}
+
+.business-list{
+    display: flex;
+    div{margin-right: 1rem}
+    .example{width: 40%; word-break: break-word; white-space: normal;}
+    .price{width: 10%}
+    .business-price{width: 10%}
+    .quantity-discounts{width:40%}
+}
+
+
+.csRulesVideo svg {
+    position: relative;
+    left: -8px;
+    top: 3px;
+}
+
+.csRulesVideoEmptyState svg {
+    position: relative;
+    left: -6px;
+    top: 3px;
+}
+
+.tax-rule-form {
+    .tax-rate-input {
+
+    }
+}
+
+.safe-options {
+    display: flex;
+    .safe-option {
+        display: flex;
+        align-items: center;
+        input {
+            width: 3.5rem;
+            padding-left: 0.5rem;
+        }
+        margin-right: 2rem;
+        .field-label {
+            margin-right: 0.5rem;
+        }
+    }
+}

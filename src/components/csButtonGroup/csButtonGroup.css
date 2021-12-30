@@ -1,0 +1,23 @@
+.csButtonGroup-normal {
+    background-color: #F3F3F3; /* Green */
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: -1px 2px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.csButtonGroup-normal:focus {
+    outline: 0;
+}
+
+.csButtonGroup-selected {
+    background-color: #020202;
+    color:white;
+}
+

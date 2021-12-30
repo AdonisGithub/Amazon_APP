@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "operation": "update_shopify_catalog",
+      "status": "ready",
+      "remain_time": "0"
+    },
+    {
+      "operation": "import_amazon_catalog",
+      "status": "waiting",
+      "remain_time": "100"
+    },
+    {
+      "operation": "update_amazon_inventory",
+      "status": "ready",
+      "remain_time": "0"
+    },
+    {
+      "operation": "import_amazon_order",
+      "status": "waiting",
+      "remain_time": "310"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "extra_fields": [
+    {
+      "name": "MaterialType",
+      "display_name": "Material Type",
+      "has_custom_value": false,
+      "valid_values": ["","Gold", "Sliver", "Bronze"],
+      "attributes": ["KG", "G", "LB", "GZ"]
+    },
+    {
+      "name": "ModelName",
+      "display_name": "Model Name",
+      "has_custom_value": true,
+      "valid_values": ["Playstation", "Xbox", "Famicom"],
+      "attributes": []
+    },
+    {
+      "name": "Os",
+      "display_name": "Os",
+      "has_custom_value": false,
+      "valid_values": ["android", "windows", "ios"],
+      "attributes": []
+    },
+    {
+      "name": "CollectionName",
+      "display_name": "Collection Name",
+      "has_custom_value": true,
+      "valid_values": ["autumn-2019"],
+      "attributes": []
+    },
+    {
+      "name": "DisplaySize",
+      "display_name": "Display Size",
+      "has_custom_value": true,
+      "valid_values": ["32"],
+      "attributes": ["inch", "cm", "mm", "m"]
+    },
+    {
+      "name": "ItemHeight",
+      "display_name": "Item Height",
+      "has_custom_value": true,
+      "valid_values": ["20"],
+      "attributes": ["inch", "cm", "mm", "m"]
+    },
+    {
+      "name": "ItemWidth",
+      "display_name": "Item Width",
+      "has_custom_value": true,
+      "valid_values": ["30"],
+      "attributes": ["inch", "cm", "mm", "m"]
+    },
+    {
+      "name": "ItemLength",
+      "display_name": "Item Length",
+      "has_custom_value": true,
+      "valid_values": ["35"],
+      "attributes": ["inch", "cm", "mm", "m"]
+    },
+    {
+      "name": "MaterialType1",
+      "display_name": "Material Type",
+      "has_custom_value": true,
+      "valid_values": ["Gold", "Sliver", "Bronze"],
+      "attributes": ["KG", "G", "LB", "GZ"]
+    },
+    {
+      "name": "MaterialType2",
+      "display_name": "Material Type",
+      "has_custom_value": true,
+      "valid_values": ["Gold", "Sliver", "Bronze"],
+      "attributes": ["KG", "G", "LB", "GZ"]
+    },
+    {
+      "name": "MaterialType3",
+      "display_name": "Material Type",
+      "has_custom_value": true,
+      "valid_values": ["Gold", "Sliver", "Bronze"],
+      "attributes": ["KG", "G", "LB", "GZ"]
+    },
+    {
+      "name": "MaterialType4",
+      "display_name": "Material Type",
+      "has_custom_value": true,
+      "valid_values": ["Gold", "Sliver", "Bronze"],
+      "attributes": ["KG", "G", "LB", "GZ"]
+    },
+    {
+      "name": "MaterialType5",
+      "display_name": "Material Type",
+      "has_custom_value": true,
+      "valid_values": ["Gold", "Sliver", "Bronze"],
+      "attributes": ["KG", "G", "LB", "GZ"]
+    },
+    {
+      "name": "MaterialType6",
+      "display_name": "Material Type",
+      "has_custom_value": true,
+      "valid_values": ["Gold", "Sliver", "Bronze"],
+      "attributes": ["KG", "G", "LB", "GZ"]
+    },
+    {
+      "name": "MaterialType7",
+      "display_name": "Material Type",
+      "has_custom_value": true,
+      "valid_values": ["Gold", "Sliver", "Bronze"],
+      "attributes": ["KG", "G", "LB", "GZ"]
+    },
+    {
+      "name": "MaterialType8",
+      "display_name": "Material Type",
+      "has_custom_value": true,
+      "valid_values": ["Gold", "Sliver", "Bronze"],
+      "attributes": ["KG", "G", "LB", "GZ"]
+    }
+  ]
+}

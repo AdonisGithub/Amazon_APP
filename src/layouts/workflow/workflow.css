@@ -1,0 +1,11 @@
+.workflow{}
+
+.workflow .Polaris-Layout__Annotation{flex: 1 1 10rem}
+
+.marketplace-location {
+    min-width: 20rem;
+}
+
+.multiple-choices fieldset ul {
+    padding-left: 1.5em
+}

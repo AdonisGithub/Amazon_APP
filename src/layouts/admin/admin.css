@@ -1,0 +1,27 @@
+.admin{}
+
+.admin .loading{text-align: center}
+
+.admin .log-table {margin-top: 1rem}
+.admin .log-table .list{display: flex}
+.admin .log-table .list div{word-break: break-word; white-space: normal;}
+
+.admin .log-table .list .store{width: 15%}
+.admin .log-table .list .configuration{width: 10%}
+.admin .log-table .list .title{width: 15%}
+.admin .log-table .list .message{width: 45%}
+.admin .log-table .list .date{width: 10%}
+.admin .log-table .list .store .Polaris-Select{width: 90%}
+.admin .log-table .list .configuration .Polaris-Select{width: 90%}
+.admin .log-table .list .download{width: 5%; text-align: right; min-width: 7rem}
+.admin .log-table .list .download button svg{width: 3rem; height: 3rem; fill:#3f4eae}
+.admin .log-table .list .download button:hover svg{width: 3rem; height: 3rem; fill: #6f7bcb}
+
+
+.admin .pagination{}
+.admin .pagination .Polaris-Stack__Item{padding: 2rem; display: inline-block}
+.admin .pagination .Polaris-Stack__Item:first-child{width: 43%; display: inline-block}
+.admin .pagination .pagination-select {display: inline-block; margin: 0 1rem}
+.admin .pagination .Polaris-Stack__Item:first-child select{display: inline-block}
+.admin .pagination .Polaris-Stack__Item:last-child{width: 60%}
+.admin nav button{width: 120px}

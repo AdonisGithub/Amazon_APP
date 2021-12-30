@@ -1,0 +1,120 @@
+
+
+.actions .order-table{}
+.actions .order-table .Polaris-DataTable__ScrollContainer {
+    margin-left: 0rem !important;
+}
+
+.actions .order-table .Polaris-DataTable__Cell--fixed {
+    /*width: 3em !important;*/
+    position: relative;
+}
+
+/*.actions .order-table td{word-break: break-word; white-space: normal}*/
+.order-table th:first-child{width: 5%}
+.order-table th:nth-child(2){width: 45%; word-wrap: break-word; word-break: break-word}
+.order-table th:nth-child(3){width: 15%; word-wrap: break-word; word-break: break-word}
+.order-table th:nth-child(4){width: 5%}
+.order-table th:nth-child(5){width: 5%}
+.order-table th:nth-child(6){width: 10%}
+.order-table th:last-child{width: 5%}
+.order-table th:last-child h2 {margin-right: 1rem}
+.actions .select-state {
+    width: 12rem;
+}
+
+.actions tr .order-from {
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+.actions tr .order-from a{
+    display: inline-block;
+    margin-left: .5rem;
+    visibility: hidden;
+}
+
+.actions tr:hover .order-from a{
+    display: inline-block;
+    margin-left: .5rem;
+    visibility: visible;
+}
+
+.actions tr .order-date{
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+
+.actions .order-detail .header a{
+    margin-left: 1rem;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.actions .order-detail .header button{
+    display: inline-block;
+}
+
+.actions .order-detail .header button span{
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.actions .order-detail .order-key{
+    width: 140px;
+}
+
+.actions .order-detail .table .Polaris-DataTable__ScrollContainer {
+    /*margin-left: 4rem !important;*/
+}
+
+.actions .order-detail .table .Polaris-DataTable__Cell--fixed {
+    width: 3em !important;
+}
+
+.actions .order-detail .table th:first-child{width: 5%}
+.actions .order-detail .table th:nth-child(2){width: 40%}
+.actions .order-detail .table th:nth-child(3){width: 15%}
+.actions .order-detail .table th:nth-child(4){width: 15%}
+.actions .order-detail .table th:nth-child(5){width: 15%}
+.actions .order-detail .table th:nth-child(6){width: 15%}
+
+.actions .order-detail .table p{
+    word-break: break-word;
+    white-space: normal;
+}
+
+.actions .modal-item-name{
+    width: 400px;
+}
+
+.actions .modal-item-name span{
+    word-break: break-word;
+    white-space: normal;
+}
+
+.actions .modal-item-qty .Polaris-TextField{
+    width: 6rem;
+}
+
+.actions .modal-item-total{
+    width: 100px;
+}
+
+.actions .order-detail a.Polaris-Link{
+    display: inline-block;
+}
+
+.actions .order-detail a.Polaris-Link .Polaris-Icon{
+    display: inline-block;
+    vertical-align: bottom;
+    margin-right: .3rem;
+}
+
+.actions .order-lookup{padding-left: 2rem; padding-bottom: 2rem}
+
+.button-fulfillment svg {
+    fill: #108043;
+}
+

@@ -1,0 +1,6307 @@
+{
+  "status": "Ok",
+  "log": "a8c65265e8cb2303f41b9e37bc66cf50",
+  "date": "2019-09-01T15:05:13+02:00",
+  "data": {
+    "variation": {
+      "theme": {
+        "AgeGenderCategory": {
+          "name": "AgeGenderCategory",
+          "display_name": "Age Gender Category",
+          "fields": [
+            "AgeGenderCategory"
+          ]
+        },
+        "Amperage": {
+          "name": "Amperage",
+          "display_name": "Amperage",
+          "fields": [
+            "Amperage"
+          ]
+        },
+        "BikeRimSize": {
+          "name": "BikeRimSize",
+          "display_name": "Bike Rim Size",
+          "fields": [
+            "BikeRimSize"
+          ]
+        },
+        "BikeRimSizeMaterial": {
+          "name": "BikeRimSizeMaterial",
+          "display_name": "Bike Rim Size Material",
+          "fields": [
+            "BikeRimSize",
+            "Material"
+          ]
+        },
+        "BootSize": {
+          "name": "BootSize",
+          "display_name": "Boot Size",
+          "fields": [
+            "BootSize"
+          ]
+        },
+        "BootSizeCalfSize": {
+          "name": "BootSizeCalfSize",
+          "display_name": "Boot Size Calf Size",
+          "fields": [
+            "BootSize",
+            "CalfSize"
+          ]
+        },
+        "CalfSize": {
+          "name": "CalfSize",
+          "display_name": "Calf Size",
+          "fields": [
+            "CalfSize"
+          ]
+        },
+        "Caliber": {
+          "name": "Caliber",
+          "display_name": "Caliber",
+          "fields": [
+            "Caliber"
+          ]
+        },
+        "CaliberRounds": {
+          "name": "CaliberRounds",
+          "display_name": "Caliber Rounds",
+          "fields": [
+            "Caliber",
+            "Rounds"
+          ]
+        },
+        "Capacity": {
+          "name": "Capacity",
+          "display_name": "Capacity",
+          "fields": [
+            "Capacity"
+          ]
+        },
+        "Color": {
+          "name": "Color",
+          "display_name": "Color",
+          "fields": [
+            "Color"
+          ]
+        },
+        "ColorName": {
+          "name": "ColorName",
+          "display_name": "Color Name",
+          "fields": [
+            "ColorName"
+          ]
+        },
+        "ColorDesign": {
+          "name": "ColorDesign",
+          "display_name": "Color Design",
+          "fields": [
+            "Color",
+            "Design"
+          ]
+        },
+        "ColorFlavor": {
+          "name": "ColorFlavor",
+          "display_name": "Color Flavor",
+          "fields": [
+            "Color",
+            "Flavor"
+          ]
+        },
+        "ColorItemThickness": {
+          "name": "ColorItemThickness",
+          "display_name": "Color Item Thickness",
+          "fields": [
+            "Color",
+            "ItemThickness"
+          ]
+        },
+        "ColorLength": {
+          "name": "ColorLength",
+          "display_name": "Color Length",
+          "fields": [
+            "Color",
+            "Length"
+          ]
+        },
+        "ColorLensColor": {
+          "name": "ColorLensColor",
+          "display_name": "Color Lens Color",
+          "fields": [
+            "Color",
+            "LensColor"
+          ]
+        },
+        "ColorQuantity": {
+          "name": "ColorQuantity",
+          "display_name": "Color Quantity",
+          "fields": [
+            "Color",
+            "Quantity"
+          ]
+        },
+        "ColorRounds": {
+          "name": "ColorRounds",
+          "display_name": "Color Rounds",
+          "fields": [
+            "Color",
+            "Rounds"
+          ]
+        },
+        "ColorShaftMaterial": {
+          "name": "ColorShaftMaterial",
+          "display_name": "Color Shaft Material",
+          "fields": [
+            "Color",
+            "ShaftMaterial"
+          ]
+        },
+        "ColorShaftType": {
+          "name": "ColorShaftType",
+          "display_name": "Color Shaft Type",
+          "fields": [
+            "Color",
+            "ShaftType"
+          ]
+        },
+        "ColorShape": {
+          "name": "ColorShape",
+          "display_name": "Color Shape",
+          "fields": [
+            "Color",
+            "Shape"
+          ]
+        },
+        "ColorSize": {
+          "name": "ColorSize",
+          "display_name": "Color Size",
+          "fields": [
+            "Color",
+            "Size"
+          ]
+        },
+        "ColorStyle": {
+          "name": "ColorStyle",
+          "display_name": "Color Style",
+          "fields": [
+            "Color",
+            "Style"
+          ]
+        },
+        "ColorTensionLevel": {
+          "name": "ColorTensionLevel",
+          "display_name": "Color Tension Level",
+          "fields": [
+            "Color",
+            "TensionLevel"
+          ]
+        },
+        "ColorWattage": {
+          "name": "ColorWattage",
+          "display_name": "Color Wattage",
+          "fields": [
+            "Color",
+            "Wattage"
+          ]
+        },
+        "ColorWeight": {
+          "name": "ColorWeight",
+          "display_name": "Color Weight",
+          "fields": [
+            "Color",
+            "Weight"
+          ]
+        },
+        "ColorWheelSize": {
+          "name": "ColorWheelSize",
+          "display_name": "Color Wheel Size",
+          "fields": [
+            "Color",
+            "WheelSize"
+          ]
+        },
+        "ColorWidth": {
+          "name": "ColorWidth",
+          "display_name": "Color Width",
+          "fields": [
+            "Color",
+            "Width"
+          ]
+        },
+        "Curvature": {
+          "name": "Curvature",
+          "display_name": "Curvature",
+          "fields": [
+            "Curvature"
+          ]
+        },
+        "CurvatureHand": {
+          "name": "CurvatureHand",
+          "display_name": "Curvature Hand",
+          "fields": [
+            "Curvature",
+            "Hand"
+          ]
+        },
+        "Design": {
+          "name": "Design",
+          "display_name": "Design",
+          "fields": [
+            "Design"
+          ]
+        },
+        "DesignFlavor": {
+          "name": "DesignFlavor",
+          "display_name": "Design Flavor",
+          "fields": [
+            "Design",
+            "Flavor"
+          ]
+        },
+        "DesignLength": {
+          "name": "DesignLength",
+          "display_name": "Design Length",
+          "fields": [
+            "Design",
+            "Length"
+          ]
+        },
+        "DesignLensColor": {
+          "name": "DesignLensColor",
+          "display_name": "Design Lens Color",
+          "fields": [
+            "Design",
+            "LensColor"
+          ]
+        },
+        "DesignShaftMaterial": {
+          "name": "DesignShaftMaterial",
+          "display_name": "Design Shaft Material",
+          "fields": [
+            "Design",
+            "ShaftMaterial"
+          ]
+        },
+        "DesignShaftType": {
+          "name": "DesignShaftType",
+          "display_name": "Design Shaft Type",
+          "fields": [
+            "Design",
+            "ShaftType"
+          ]
+        },
+        "DesignShape": {
+          "name": "DesignShape",
+          "display_name": "Design Shape",
+          "fields": [
+            "Design",
+            "Shape"
+          ]
+        },
+        "DesignSize": {
+          "name": "DesignSize",
+          "display_name": "Design Size",
+          "fields": [
+            "Design",
+            "Size"
+          ]
+        },
+        "DesignStyle": {
+          "name": "DesignStyle",
+          "display_name": "Design Style",
+          "fields": [
+            "Design",
+            "Style"
+          ]
+        },
+        "DesignTensionLevel": {
+          "name": "DesignTensionLevel",
+          "display_name": "Design Tension Level",
+          "fields": [
+            "Design",
+            "TensionLevel"
+          ]
+        },
+        "DesignWeight": {
+          "name": "DesignWeight",
+          "display_name": "Design Weight",
+          "fields": [
+            "Design",
+            "Weight"
+          ]
+        },
+        "DesignWheelSize": {
+          "name": "DesignWheelSize",
+          "display_name": "Design Wheel Size",
+          "fields": [
+            "Design",
+            "WheelSize"
+          ]
+        },
+        "DesignWidth": {
+          "name": "DesignWidth",
+          "display_name": "Design Width",
+          "fields": [
+            "Design",
+            "Width"
+          ]
+        },
+        "Diameter": {
+          "name": "Diameter",
+          "display_name": "Diameter",
+          "fields": [
+            "Diameter"
+          ]
+        },
+        "DivingHoodThickness": {
+          "name": "DivingHoodThickness",
+          "display_name": "Diving Hood Thickness",
+          "fields": [
+            "DivingHoodThickness"
+          ]
+        },
+        "FencingPommelType": {
+          "name": "FencingPommelType",
+          "display_name": "Fencing Pommel Type",
+          "fields": [
+            "FencingPommelType"
+          ]
+        },
+        "FencingPommelTypeGripType": {
+          "name": "FencingPommelTypeGripType",
+          "display_name": "Fencing Pommel Type Grip Type",
+          "fields": [
+            "FencingPommelType",
+            "GripType"
+          ]
+        },
+        "Flavor": {
+          "name": "Flavor",
+          "display_name": "Flavor",
+          "fields": [
+            "Flavor"
+          ]
+        },
+        "FlavorSize": {
+          "name": "FlavorSize",
+          "display_name": "Flavor Size",
+          "fields": [
+            "Flavor",
+            "Size"
+          ]
+        },
+        "GolfFlex": {
+          "name": "GolfFlex",
+          "display_name": "Golf Flex",
+          "fields": [
+            "GolfFlex"
+          ]
+        },
+        "GolfFlexGolfLoft": {
+          "name": "GolfFlexGolfLoft",
+          "display_name": "Golf Flex Golf Loft",
+          "fields": [
+            "GolfFlex",
+            "GolfLoft"
+          ]
+        },
+        "GolfFlexMaterial": {
+          "name": "GolfFlexMaterial",
+          "display_name": "Golf Flex Material",
+          "fields": [
+            "GolfFlex",
+            "Material"
+          ]
+        },
+        "GolfFlexShaftMaterial": {
+          "name": "GolfFlexShaftMaterial",
+          "display_name": "Golf Flex Shaft Material",
+          "fields": [
+            "GolfFlex",
+            "ShaftMaterial"
+          ]
+        },
+        "GolfLoft": {
+          "name": "GolfLoft",
+          "display_name": "Golf Loft",
+          "fields": [
+            "GolfLoft"
+          ]
+        },
+        "GolfLoftShaftMaterial": {
+          "name": "GolfLoftShaftMaterial",
+          "display_name": "Golf Loft Shaft Material",
+          "fields": [
+            "GolfLoft",
+            "ShaftMaterial"
+          ]
+        },
+        "GripSize": {
+          "name": "GripSize",
+          "display_name": "Grip Size",
+          "fields": [
+            "GripSize"
+          ]
+        },
+        "GripSizeGripType": {
+          "name": "GripSizeGripType",
+          "display_name": "Grip Size Grip Type",
+          "fields": [
+            "GripSize",
+            "GripType"
+          ]
+        },
+        "GripSizeHeadSize": {
+          "name": "GripSizeHeadSize",
+          "display_name": "Grip Size Head Size",
+          "fields": [
+            "GripSize",
+            "HeadSize"
+          ]
+        },
+        "GripType": {
+          "name": "GripType",
+          "display_name": "Grip Type",
+          "fields": [
+            "GripType"
+          ]
+        },
+        "Hand": {
+          "name": "Hand",
+          "display_name": "Hand",
+          "fields": [
+            "Hand"
+          ]
+        },
+        "HandBounceGolfFlex": {
+          "name": "HandBounceGolfFlex",
+          "display_name": "Hand Bounce Golf Flex",
+          "fields": [
+            "Hand",
+            "Bounce",
+            "GolfFlex"
+          ]
+        },
+        "HandBounceShaftTypeGolfFlex": {
+          "name": "HandBounceShaftTypeGolfFlex",
+          "display_name": "Hand Bounce Shaft Type Golf Flex",
+          "fields": [
+            "Hand",
+            "Bounce",
+            "ShaftType",
+            "GolfFlex"
+          ]
+        },
+        "HandClubGolfFlex": {
+          "name": "HandClubGolfFlex",
+          "display_name": "Hand Club Golf Flex",
+          "fields": [
+            "Hand",
+            "Club",
+            "GolfFlex"
+          ]
+        },
+        "HandClubShaftTypeGolfFlex": {
+          "name": "HandClubShaftTypeGolfFlex",
+          "display_name": "Hand Club Shaft Type Golf Flex",
+          "fields": [
+            "Hand",
+            "Club",
+            "ShaftType",
+            "GolfFlex"
+          ]
+        },
+        "HandGolfFlex": {
+          "name": "HandGolfFlex",
+          "display_name": "Hand Golf Flex",
+          "fields": [
+            "Hand",
+            "GolfFlex"
+          ]
+        },
+        "HandIronsGolfFlex": {
+          "name": "HandIronsGolfFlex",
+          "display_name": "Hand Irons Golf Flex",
+          "fields": [
+            "Hand",
+            "Irons",
+            "GolfFlex"
+          ]
+        },
+        "HandIronsLieAngleGolfFlex": {
+          "name": "HandIronsLieAngleGolfFlex",
+          "display_name": "Hand Irons Lie Angle Golf Flex",
+          "fields": [
+            "Hand",
+            "Irons",
+            "LieAngle",
+            "GolfFlex"
+          ]
+        },
+        "HandIronsLieAngleShaftTypeGolfFlex": {
+          "name": "HandIronsLieAngleShaftTypeGolfFlex",
+          "display_name": "Hand Irons Lie Angle Shaft Type Golf Flex",
+          "fields": [
+            "Hand",
+            "Irons",
+            "LieAngle",
+            "ShaftType",
+            "GolfFlex"
+          ]
+        },
+        "HandIronsShaftTypeGolfFlex": {
+          "name": "HandIronsShaftTypeGolfFlex",
+          "display_name": "Hand Irons Shaft Type Golf Flex",
+          "fields": [
+            "Hand",
+            "Irons",
+            "ShaftType",
+            "GolfFlex"
+          ]
+        },
+        "HandLength": {
+          "name": "HandLength",
+          "display_name": "Hand Length",
+          "fields": [
+            "Hand",
+            "Length"
+          ]
+        },
+        "HandLieAngle": {
+          "name": "HandLieAngle",
+          "display_name": "Hand Lie Angle",
+          "fields": [
+            "Hand",
+            "LieAngle"
+          ]
+        },
+        "HandLieAngleGolfFlex": {
+          "name": "HandLieAngleGolfFlex",
+          "display_name": "Hand Lie Angle Golf Flex",
+          "fields": [
+            "Hand",
+            "LieAngle",
+            "GolfFlex"
+          ]
+        },
+        "HandLieAngleLength": {
+          "name": "HandLieAngleLength",
+          "display_name": "Hand Lie Angle Length",
+          "fields": [
+            "Hand",
+            "LieAngle",
+            "Length"
+          ]
+        },
+        "HandLieAngleShaftType": {
+          "name": "HandLieAngleShaftType",
+          "display_name": "Hand Lie Angle Shaft Type",
+          "fields": [
+            "Hand",
+            "LieAngle",
+            "ShaftType"
+          ]
+        },
+        "HandLieAngleShaftTypeGolfFlex": {
+          "name": "HandLieAngleShaftTypeGolfFlex",
+          "display_name": "Hand Lie Angle Shaft Type Golf Flex",
+          "fields": [
+            "Hand",
+            "LieAngle",
+            "ShaftType",
+            "GolfFlex"
+          ]
+        },
+        "HandLieAngleShaftTypeLength": {
+          "name": "HandLieAngleShaftTypeLength",
+          "display_name": "Hand Lie Angle Shaft Type Length",
+          "fields": [
+            "Hand",
+            "LieAngle",
+            "ShaftType",
+            "Length"
+          ]
+        },
+        "HandGolfLoftBounceGolfFlex": {
+          "name": "HandGolfLoftBounceGolfFlex",
+          "display_name": "Hand Golf Loft Bounce Golf Flex",
+          "fields": [
+            "Hand",
+            "GolfLoft",
+            "Bounce",
+            "GolfFlex"
+          ]
+        },
+        "HandGolfLoftBounceShaftTypeGolfFlex": {
+          "name": "HandGolfLoftBounceShaftTypeGolfFlex",
+          "display_name": "Hand Golf Loft Bounce Shaft Type Golf Flex",
+          "fields": [
+            "Hand",
+            "GolfLoft",
+            "Bounce",
+            "ShaftType",
+            "GolfFlex"
+          ]
+        },
+        "HandGolfLoftGolfFlex": {
+          "name": "HandGolfLoftGolfFlex",
+          "display_name": "Hand Golf Loft Golf Flex",
+          "fields": [
+            "Hand",
+            "GolfLoft",
+            "GolfFlex"
+          ]
+        },
+        "HandGolfLoftShaftTypeGolfFlex": {
+          "name": "HandGolfLoftShaftTypeGolfFlex",
+          "display_name": "Hand Golf Loft Shaft Type Golf Flex",
+          "fields": [
+            "Hand",
+            "GolfLoft",
+            "ShaftType",
+            "GolfFlex"
+          ]
+        },
+        "HandModel": {
+          "name": "HandModel",
+          "display_name": "Hand Model",
+          "fields": [
+            "Hand",
+            "Model"
+          ]
+        },
+        "HandModelLength": {
+          "name": "HandModelLength",
+          "display_name": "Hand Model Length",
+          "fields": [
+            "Hand",
+            "Model",
+            "Length"
+          ]
+        },
+        "HandModelShaftType": {
+          "name": "HandModelShaftType",
+          "display_name": "Hand Model Shaft Type",
+          "fields": [
+            "Hand",
+            "Model",
+            "ShaftType"
+          ]
+        },
+        "HandModelShaftTypeLength": {
+          "name": "HandModelShaftTypeLength",
+          "display_name": "Hand Model Shaft Type Length",
+          "fields": [
+            "Hand",
+            "Model",
+            "ShaftType",
+            "Length"
+          ]
+        },
+        "HandShaftLength": {
+          "name": "HandShaftLength",
+          "display_name": "Hand Shaft Length",
+          "fields": [
+            "Hand",
+            "ShaftLength"
+          ]
+        },
+        "HandShaftMaterialGolfFlex": {
+          "name": "HandShaftMaterialGolfFlex",
+          "display_name": "Hand Shaft Material Golf Flex",
+          "fields": [
+            "Hand",
+            "ShaftMaterial",
+            "GolfFlex"
+          ]
+        },
+        "HandShaftMaterialGolfFlexGolfLoft": {
+          "name": "HandShaftMaterialGolfFlexGolfLoft",
+          "display_name": "Hand Shaft Material Golf Flex Golf Loft",
+          "fields": [
+            "Hand",
+            "ShaftMaterial",
+            "GolfFlex",
+            "GolfLoft"
+          ]
+        },
+        "HandShaftType": {
+          "name": "HandShaftType",
+          "display_name": "Hand Shaft Type",
+          "fields": [
+            "Hand",
+            "ShaftType"
+          ]
+        },
+        "HandShaftTypeGolfFlex": {
+          "name": "HandShaftTypeGolfFlex",
+          "display_name": "Hand Shaft Type Golf Flex",
+          "fields": [
+            "Hand",
+            "ShaftType",
+            "GolfFlex"
+          ]
+        },
+        "HandShaftTypeLength": {
+          "name": "HandShaftTypeLength",
+          "display_name": "Hand Shaft Type Length",
+          "fields": [
+            "Hand",
+            "ShaftType",
+            "Length"
+          ]
+        },
+        "HandSize": {
+          "name": "HandSize",
+          "display_name": "Hand Size",
+          "fields": [
+            "Hand",
+            "Size"
+          ]
+        },
+        "HandTensionLevel": {
+          "name": "HandTensionLevel",
+          "display_name": "Hand Tension Level",
+          "fields": [
+            "Hand",
+            "TensionLevel"
+          ]
+        },
+        "HandWeight": {
+          "name": "HandWeight",
+          "display_name": "Hand Weight",
+          "fields": [
+            "Hand",
+            "Weight"
+          ]
+        },
+        "HandWoodGolfFlex": {
+          "name": "HandWoodGolfFlex",
+          "display_name": "Hand Wood Golf Flex",
+          "fields": [
+            "Hand",
+            "Wood",
+            "GolfFlex"
+          ]
+        },
+        "HandWoodShaftTypeGolfFlex": {
+          "name": "HandWoodShaftTypeGolfFlex",
+          "display_name": "Hand Wood Shaft Type Golf Flex",
+          "fields": [
+            "Hand",
+            "Wood",
+            "ShaftType",
+            "GolfFlex"
+          ]
+        },
+        "HeadSize": {
+          "name": "HeadSize",
+          "display_name": "Head Size",
+          "fields": [
+            "Head",
+            "Size"
+          ]
+        },
+        "HeadSizeShape": {
+          "name": "HeadSizeShape",
+          "display_name": "Head Size Shape",
+          "fields": [
+            "Head",
+            "Size",
+            "Shape"
+          ]
+        },
+        "Height": {
+          "name": "Height",
+          "display_name": "Height",
+          "fields": [
+            "Height"
+          ]
+        },
+        "HeightSize": {
+          "name": "HeightSize",
+          "display_name": "Height Size",
+          "fields": [
+            "Height",
+            "Size"
+          ]
+        },
+        "HeightStyle": {
+          "name": "HeightStyle",
+          "display_name": "Height Style",
+          "fields": [
+            "Height",
+            "Style"
+          ]
+        },
+        "HeightWeight": {
+          "name": "HeightWeight",
+          "display_name": "Height Weight",
+          "fields": [
+            "Height",
+            "Weight"
+          ]
+        },
+        "HeightWidth": {
+          "name": "HeightWidth",
+          "display_name": "Height Width",
+          "fields": [
+            "Height",
+            "Width"
+          ]
+        },
+        "ItemThickness": {
+          "name": "ItemThickness",
+          "display_name": "Item Thickness",
+          "fields": [
+            "ItemThickness"
+          ]
+        },
+        "Length": {
+          "name": "Length",
+          "display_name": "Length",
+          "fields": [
+            "Length"
+          ]
+        },
+        "LengthLineCapacity": {
+          "name": "LengthLineCapacity",
+          "display_name": "Length Line Capacity",
+          "fields": [
+            "Length",
+            "LineCapacity"
+          ]
+        },
+        "LengthLineWeight": {
+          "name": "LengthLineWeight",
+          "display_name": "Length Line Weight",
+          "fields": [
+            "Length",
+            "LineWeight"
+          ]
+        },
+        "LengthMaterial": {
+          "name": "LengthMaterial",
+          "display_name": "Length Material",
+          "fields": [
+            "Length",
+            "Material"
+          ]
+        },
+        "LengthShaftType": {
+          "name": "LengthShaftType",
+          "display_name": "Length Shaft Type",
+          "fields": [
+            "Length",
+            "ShaftType"
+          ]
+        },
+        "LengthSize": {
+          "name": "LengthSize",
+          "display_name": "Length Size",
+          "fields": [
+            "Length",
+            "Size"
+          ]
+        },
+        "LengthStyle": {
+          "name": "LengthStyle",
+          "display_name": "Length Style",
+          "fields": [
+            "Length",
+            "Style"
+          ]
+        },
+        "LengthWeight": {
+          "name": "LengthWeight",
+          "display_name": "Length Weight",
+          "fields": [
+            "Length",
+            "Weight"
+          ]
+        },
+        "LengthWeightSupported": {
+          "name": "LengthWeightSupported",
+          "display_name": "Length Weight Supported",
+          "fields": [
+            "Length",
+            "WeightSupported"
+          ]
+        },
+        "LengthWidth": {
+          "name": "LengthWidth",
+          "display_name": "Length Width",
+          "fields": [
+            "Length",
+            "Width"
+          ]
+        },
+        "LensColor": {
+          "name": "LensColor",
+          "display_name": "Lens Color",
+          "fields": [
+            "LensColor"
+          ]
+        },
+        "LensColorMaterial": {
+          "name": "LensColorMaterial",
+          "display_name": "Lens Color Material",
+          "fields": [
+            "LensColor",
+            "Material"
+          ]
+        },
+        "LensColorShape": {
+          "name": "LensColorShape",
+          "display_name": "Lens Color Shape",
+          "fields": [
+            "LensColor",
+            "Shape"
+          ]
+        },
+        "LineCapacity": {
+          "name": "LineCapacity",
+          "display_name": "Line Capacity",
+          "fields": [
+            "LineCapacity"
+          ]
+        },
+        "LineCapacitySize": {
+          "name": "LineCapacitySize",
+          "display_name": "Line Capacity Size",
+          "fields": [
+            "LineCapacity",
+            "Size"
+          ]
+        },
+        "LineCapacityWeight": {
+          "name": "LineCapacityWeight",
+          "display_name": "Line Capacity Weight",
+          "fields": [
+            "LineCapacity",
+            "Weight"
+          ]
+        },
+        "LineWeight": {
+          "name": "LineWeight",
+          "display_name": "Line Weight",
+          "fields": [
+            "LineWeight"
+          ]
+        },
+        "LineWeightSize": {
+          "name": "LineWeightSize",
+          "display_name": "Line Weight Size",
+          "fields": [
+            "LineWeight",
+            "Size"
+          ]
+        },
+        "Material": {
+          "name": "Material",
+          "display_name": "Material",
+          "fields": [
+            "Material"
+          ]
+        },
+        "MaterialShape": {
+          "name": "MaterialShape",
+          "display_name": "Material Shape",
+          "fields": [
+            "Material",
+            "Shape"
+          ]
+        },
+        "MaterialSize": {
+          "name": "MaterialSize",
+          "display_name": "Material Size",
+          "fields": [
+            "Material",
+            "Size"
+          ]
+        },
+        "MaterialStyle": {
+          "name": "MaterialStyle",
+          "display_name": "Material Style",
+          "fields": [
+            "Material",
+            "Style"
+          ]
+        },
+        "MaterialTensionLevel": {
+          "name": "MaterialTensionLevel",
+          "display_name": "Material Tension Level",
+          "fields": [
+            "Material",
+            "TensionLevel"
+          ]
+        },
+        "MaterialWeight": {
+          "name": "MaterialWeight",
+          "display_name": "Material Weight",
+          "fields": [
+            "Material",
+            "Weight"
+          ]
+        },
+        "MaterialWheelSize": {
+          "name": "MaterialWheelSize",
+          "display_name": "Material Wheel Size",
+          "fields": [
+            "Material",
+            "WheelSize"
+          ]
+        },
+        "MaterialWidth": {
+          "name": "MaterialWidth",
+          "display_name": "Material Width",
+          "fields": [
+            "Material",
+            "Width"
+          ]
+        },
+        "Quantity": {
+          "name": "Quantity",
+          "display_name": "Quantity",
+          "fields": [
+            "Quantity"
+          ]
+        },
+        "QuantityShape": {
+          "name": "QuantityShape",
+          "display_name": "Quantity Shape",
+          "fields": [
+            "Quantity",
+            "Shape"
+          ]
+        },
+        "QuantitySize": {
+          "name": "QuantitySize",
+          "display_name": "Quantity Size",
+          "fields": [
+            "Quantity",
+            "Size"
+          ]
+        },
+        "QuantityWeight": {
+          "name": "QuantityWeight",
+          "display_name": "Quantity Weight",
+          "fields": [
+            "Quantity",
+            "Weight"
+          ]
+        },
+        "Rounds": {
+          "name": "Rounds",
+          "display_name": "Rounds",
+          "fields": [
+            "Rounds"
+          ]
+        },
+        "RoundsSize": {
+          "name": "RoundsSize",
+          "display_name": "Rounds Size",
+          "fields": [
+            "Rounds",
+            "Size"
+          ]
+        },
+        "ShaftMaterial": {
+          "name": "ShaftMaterial",
+          "display_name": "Shaft Material",
+          "fields": [
+            "ShaftMaterial"
+          ]
+        },
+        "ShaftMaterialShaftType": {
+          "name": "ShaftMaterialShaftType",
+          "display_name": "Shaft Material Shaft Type",
+          "fields": [
+            "ShaftMaterial",
+            "ShaftType"
+          ]
+        },
+        "ShaftType": {
+          "name": "ShaftType",
+          "display_name": "Shaft Type",
+          "fields": [
+            "ShaftType"
+          ]
+        },
+        "Shape": {
+          "name": "Shape",
+          "display_name": "Shape",
+          "fields": [
+            "Shape"
+          ]
+        },
+        "ShapeSize": {
+          "name": "ShapeSize",
+          "display_name": "Shape Size",
+          "fields": [
+            "Shape",
+            "Size"
+          ]
+        },
+        "ShapeTensionLevel": {
+          "name": "ShapeTensionLevel",
+          "display_name": "Shape Tension Level",
+          "fields": [
+            "Shape",
+            "TensionLevel"
+          ]
+        },
+        "ShapeWeight": {
+          "name": "ShapeWeight",
+          "display_name": "Shape Weight",
+          "fields": [
+            "Shape",
+            "Weight"
+          ]
+        },
+        "Size": {
+          "name": "Size",
+          "display_name": "Size",
+          "fields": [
+            "Size"
+          ]
+        },
+        "SizeStyle": {
+          "name": "SizeStyle",
+          "display_name": "Size Style",
+          "fields": [
+            "Size",
+            "Style"
+          ]
+        },
+        "SizeTensionLevel": {
+          "name": "SizeTensionLevel",
+          "display_name": "Size Tension Level",
+          "fields": [
+            "Size",
+            "TensionLevel"
+          ]
+        },
+        "SizeWattage": {
+          "name": "SizeWattage",
+          "display_name": "Size Wattage",
+          "fields": [
+            "Size",
+            "Wattage"
+          ]
+        },
+        "SizeWeight": {
+          "name": "SizeWeight",
+          "display_name": "Size Weight",
+          "fields": [
+            "Size",
+            "Weight"
+          ]
+        },
+        "SizeWeightSupported": {
+          "name": "SizeWeightSupported",
+          "display_name": "Size Weight Supported",
+          "fields": [
+            "Size",
+            "WeightSupported"
+          ]
+        },
+        "SizeWheelSize": {
+          "name": "SizeWheelSize",
+          "display_name": "Size Wheel Size",
+          "fields": [
+            "Size",
+            "WheelSize"
+          ]
+        },
+        "SizeWidth": {
+          "name": "SizeWidth",
+          "display_name": "Size Width",
+          "fields": [
+            "Size",
+            "Width"
+          ]
+        },
+        "StyleTensionLevel": {
+          "name": "StyleTensionLevel",
+          "display_name": "Style Tension Level",
+          "fields": [
+            "Style",
+            "TensionLevel"
+          ]
+        },
+        "StyleWeight": {
+          "name": "StyleWeight",
+          "display_name": "Style Weight",
+          "fields": [
+            "Style",
+            "Weight"
+          ]
+        },
+        "StyleWheelSize": {
+          "name": "StyleWheelSize",
+          "display_name": "Style Wheel Size",
+          "fields": [
+            "Style",
+            "WheelSize"
+          ]
+        },
+        "StyleWidth": {
+          "name": "StyleWidth",
+          "display_name": "Style Width",
+          "fields": [
+            "Style",
+            "Width"
+          ]
+        },
+        "TemperatureRating": {
+          "name": "TemperatureRating",
+          "display_name": "Temperature Rating",
+          "fields": [
+            "TemperatureRating"
+          ]
+        },
+        "TemperatureRatingColor": {
+          "name": "TemperatureRatingColor",
+          "display_name": "Temperature Rating Color",
+          "fields": [
+            "TemperatureRating",
+            "Color"
+          ]
+        },
+        "TemperatureRatingDesign": {
+          "name": "TemperatureRatingDesign",
+          "display_name": "Temperature Rating Design",
+          "fields": [
+            "TemperatureRating",
+            "Design"
+          ]
+        },
+        "TemperatureRatingHand": {
+          "name": "TemperatureRatingHand",
+          "display_name": "Temperature Rating Hand",
+          "fields": [
+            "TemperatureRating",
+            "Hand"
+          ]
+        },
+        "TemperatureRatingLength": {
+          "name": "TemperatureRatingLength",
+          "display_name": "Temperature Rating Length",
+          "fields": [
+            "TemperatureRating",
+            "Length"
+          ]
+        },
+        "TemperatureRatingMaterial": {
+          "name": "TemperatureRatingMaterial",
+          "display_name": "Temperature Rating Material",
+          "fields": [
+            "TemperatureRating",
+            "Material"
+          ]
+        },
+        "TemperatureRatingShape": {
+          "name": "TemperatureRatingShape",
+          "display_name": "Temperature Rating Shape",
+          "fields": [
+            "TemperatureRating",
+            "Shape"
+          ]
+        },
+        "TemperatureRatingSize": {
+          "name": "TemperatureRatingSize",
+          "display_name": "Temperature Rating Size",
+          "fields": [
+            "TemperatureRating",
+            "Size"
+          ]
+        },
+        "TensionLevel": {
+          "name": "TensionLevel",
+          "display_name": "Tension Level",
+          "fields": [
+            "TensionLevel"
+          ]
+        },
+        "TensionLevelWeight": {
+          "name": "TensionLevelWeight",
+          "display_name": "Tension Level Weight",
+          "fields": [
+            "TensionLevel",
+            "Weight"
+          ]
+        },
+        "TensionLevelWeightSupported": {
+          "name": "TensionLevelWeightSupported",
+          "display_name": "Tension Level Weight Supported",
+          "fields": [
+            "TensionLevel",
+            "WeightSupported"
+          ]
+        },
+        "Wattage": {
+          "name": "Wattage",
+          "display_name": "Wattage",
+          "fields": [
+            "Wattage"
+          ]
+        },
+        "Weight": {
+          "name": "Weight",
+          "display_name": "Weight",
+          "fields": [
+            "Weight"
+          ]
+        },
+        "WeightSupported": {
+          "name": "WeightSupported",
+          "display_name": "Weight Supported",
+          "fields": [
+            "WeightSupported"
+          ]
+        },
+        "WeightWidth": {
+          "name": "WeightWidth",
+          "display_name": "Weight Width",
+          "fields": [
+            "Weight",
+            "Width"
+          ]
+        },
+        "WheelSize": {
+          "name": "WheelSize",
+          "display_name": "Wheel Size",
+          "fields": [
+            "WheelSize"
+          ]
+        },
+        "WheelSizeWeight": {
+          "name": "WheelSizeWeight",
+          "display_name": "Wheel Size Weight",
+          "fields": [
+            "WheelSize",
+            "Weight"
+          ]
+        },
+        "Width": {
+          "name": "Width",
+          "display_name": "Width",
+          "fields": [
+            "Width"
+          ]
+        },
+        "CustomerPackageType": {
+          "name": "CustomerPackageType",
+          "display_name": "Customer Package Type",
+          "fields": [
+            "CustomerPackageType"
+          ]
+        },
+        "ColorName-CustomerPackageType": {
+          "name": "ColorName-CustomerPackageType",
+          "display_name": "Color Name - Customer Package Type",
+          "fields": [
+            "ColorName",
+            "CustomerPackageType"
+          ]
+        },
+        "SizeName-CustomerPackageType": {
+          "name": "SizeName-CustomerPackageType",
+          "display_name": "Size Name - Customer Package Type",
+          "fields": [
+            "SizeName",
+            "CustomerPackageType"
+          ]
+        },
+        "SizeName-ColorName-CustomerPackageType": {
+          "name": "SizeName-ColorName-CustomerPackageType",
+          "display_name": "Size Name - Color Name - Customer Package Type",
+          "fields": [
+            "SizeName",
+            "ColorName",
+            "CustomerPackageType"
+          ]
+        },
+        "StyleName-CustomerPackageType": {
+          "name": "StyleName-CustomerPackageType",
+          "display_name": "Style Name - Customer Package Type",
+          "fields": [
+            "StyleName",
+            "CustomerPackageType"
+          ]
+        },
+        "SizeName-StyleName-CustomerPackageType": {
+          "name": "SizeName-StyleName-CustomerPackageType",
+          "display_name": "Size Name - Style Name - Customer Package Type",
+          "fields": [
+            "SizeName",
+            "StyleName",
+            "CustomerPackageType"
+          ]
+        }
+      },
+      "fields": {
+        "AgeGenderCategory": {
+          "name": "AgeGenderCategory",
+          "display_name": "Age Gender Category",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Amperage": {
+          "name": "Amperage",
+          "display_name": "Amperage",
+          "attributes": [
+            "amps",
+            "kiloamps",
+            "microamps",
+            "milliamps",
+            "nanoamps",
+            "picoamps"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "BikeRimSize": {
+          "name": "BikeRimSize",
+          "display_name": "Bike Rim Size",
+          "attributes": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Material": {
+          "name": "Material",
+          "display_name": "Material Type",
+          "attributes": false,
+          "valid_values": [
+            "100-percent-cotton-jersey",
+            "100-percent-cotton-rib-knit",
+            "acrylic",
+            "aluminum",
+            "aluminum-alloy",
+            "blend",
+            "canvas",
+            "carbon-steel",
+            "carinessa",
+            "cashmere",
+            "cellulose",
+            "chiffon",
+            "corduroy",
+            "cotton",
+            "cotton-poly-jersey",
+            "cotton-poly-rib-knit",
+            "denim",
+            "double-knit-fabric",
+            "double-weave",
+            "dri-lux",
+            "drisilque",
+            "elasticized-fabric",
+            "english-willow",
+            "felt",
+            "fiberglass",
+            "flannel",
+            "flat-knit",
+            "fleece",
+            "foam",
+            "goose-down",
+            "graphite",
+            "graphite-lined-aluminum",
+            "graphite-titanium-lined",
+            "hardwood",
+            "jersey",
+            "kashmir-willow",
+            "latex",
+            "linen",
+            "lycaspandex",
+            "mesh",
+            "metallic-fiber",
+            "microfiber",
+            "neoprene",
+            "net",
+            "nonwoven-fabric",
+            "nylon",
+            "nylon-",
+            "nylon-mesh",
+            "olefin",
+            "organza",
+            "other",
+            "oxford",
+            "pine",
+            "plastic",
+            "plush",
+            "polarguard",
+            "polyester",
+            "polypropylene",
+            "poplin",
+            "quallofil",
+            "rayon",
+            "rip-stop",
+            "rock-wool",
+            "rubber",
+            "sateen",
+            "satin",
+            "silk",
+            "solid-wood",
+            "stainless-steel",
+            "steel",
+            "straw",
+            "suede",
+            "tackle-twill",
+            "taffeta",
+            "terry",
+            "thermax",
+            "thermolite",
+            "titanium",
+            "titanium-lined-aluminum",
+            "tricot",
+            "tulle",
+            "tweed",
+            "velcro",
+            "velour",
+            "velvet",
+            "virgin-wool",
+            "viscose",
+            "wire",
+            "wire-free",
+            "wood",
+            "wood-composite",
+            "wool",
+            "worsted"
+          ],
+          "has_custom_value": true
+        },
+        "BootSize": {
+          "name": "BootSize",
+          "display_name": "Boot Size",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "CalfSize": {
+          "name": "CalfSize",
+          "display_name": "Calf Size",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Caliber": {
+          "name": "Caliber",
+          "display_name": "Caliber",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Rounds": {
+          "name": "Rounds",
+          "display_name": "Rounds",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Capacity": {
+          "name": "Capacity",
+          "display_name": "Capacity",
+          "attributes": [
+            "cubic-cm",
+            "cubic-ft",
+            "cubic-in",
+            "cubic-m",
+            "cubic-yd",
+            "cup",
+            "fluid-oz",
+            "gallon",
+            "liter",
+            "milliliter",
+            "ounce",
+            "pint",
+            "quart",
+            "liters",
+            "deciliters",
+            "centiliters",
+            "milliliters",
+            "microliters",
+            "nanoliters",
+            "picoliters"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Color": {
+          "name": "Color",
+          "display_name": "Color",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "ColorName": {
+          "name": "ColorName",
+          "display_name": "Color Name",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Design": {
+          "name": "Design",
+          "display_name": "Design",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Flavor": {
+          "name": "Flavor",
+          "display_name": "Flavor",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "ItemThickness": {
+          "name": "ItemThickness",
+          "display_name": "Item Thickness",
+          "attributes": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Length": {
+          "name": "Length",
+          "display_name": "Length",
+          "attributes": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "LensColor": {
+          "name": "LensColor",
+          "display_name": "Lens Color",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Quantity": {
+          "name": "Quantity",
+          "display_name": "Quantity",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "ShaftMaterial": {
+          "name": "ShaftMaterial",
+          "display_name": "Shaft Material",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "ShaftType": {
+          "name": "ShaftType",
+          "display_name": "Shaft Type",
+          "attributes": false,
+          "valid_values": [
+            "attacker-shafts",
+            "defender-shafts",
+            "goalie-shafts",
+            "midfielder-shafts"
+          ],
+          "has_custom_value": true
+        },
+        "Shape": {
+          "name": "Shape",
+          "display_name": "Shape",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Size": {
+          "name": "Size",
+          "display_name": "Size",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Style": {
+          "name": "Style",
+          "display_name": "Style",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "TensionLevel": {
+          "name": "TensionLevel",
+          "display_name": "Tension Level",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Wattage": {
+          "name": "Wattage",
+          "display_name": "Wattage",
+          "attributes": [
+            "watts",
+            "kilowatts"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Weight": {
+          "name": "Weight",
+          "display_name": "Weight",
+          "attributes": [
+            "GR",
+            "KG",
+            "OZ",
+            "LB",
+            "MG"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "WheelSize": {
+          "name": "WheelSize",
+          "display_name": "Wheel Size",
+          "attributes": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Width": {
+          "name": "Width",
+          "display_name": "Width",
+          "attributes": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Curvature": {
+          "name": "Curvature",
+          "display_name": "Curvature",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Hand": {
+          "name": "Hand",
+          "display_name": "Hand",
+          "attributes": false,
+          "valid_values": [
+            "left",
+            "right"
+          ],
+          "has_custom_value": true
+        },
+        "Diameter": {
+          "name": "Diameter",
+          "display_name": "Diameter",
+          "attributes": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "DivingHoodThickness": {
+          "name": "DivingHoodThickness",
+          "display_name": "Diving Hood Thickness",
+          "attributes": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "FencingPommelType": {
+          "name": "FencingPommelType",
+          "display_name": "Fencing Pommel Type",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "GripType": {
+          "name": "GripType",
+          "display_name": "Grip Type",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "GolfFlex": {
+          "name": "GolfFlex",
+          "display_name": "Golf Flex",
+          "attributes": false,
+          "valid_values": [
+            "Ladies",
+            "Regular",
+            "Senior",
+            "Stiff",
+            "X-Stiff",
+            "XX-Stiff",
+            "XXX-Stiff"
+          ],
+          "has_custom_value": true
+        },
+        "GolfLoft": {
+          "name": "GolfLoft",
+          "display_name": "Golf Loft",
+          "attributes": [
+            "degrees",
+            "microradian",
+            "arc_minute",
+            "arc_sec",
+            "milliradian",
+            "radians",
+            "turns",
+            "revolutions"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "GripSize": {
+          "name": "GripSize",
+          "display_name": "Grip Size",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "HeadSize": {
+          "name": "HeadSize",
+          "display_name": "Head Size",
+          "attributes": false,
+          "valid_values": [
+            "X-Small",
+            "Small",
+            "Medium",
+            "Large",
+            "One size",
+            "XX-Large",
+            "X-Large",
+            "XXX-Large"
+          ],
+          "has_custom_value": true
+        },
+        "Bounce": {
+          "name": "Bounce",
+          "display_name": "Bounce",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Club": {
+          "name": "Club",
+          "display_name": "Club",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Irons": {
+          "name": "Irons",
+          "display_name": "Irons",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "LieAngle": {
+          "name": "LieAngle",
+          "display_name": "Lie Angle",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Model": {
+          "name": "Model",
+          "display_name": "Model",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "ShaftLength": {
+          "name": "ShaftLength",
+          "display_name": "Shaft Length",
+          "attributes": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Wood": {
+          "name": "Wood",
+          "display_name": "Wood",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Head": {
+          "name": "Head",
+          "display_name": "Head",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "Height": {
+          "name": "Height",
+          "display_name": "Height",
+          "attributes": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "LineCapacity": {
+          "name": "LineCapacity",
+          "display_name": "Line Capacity",
+          "attributes": [
+            "cubic-cm",
+            "cubic-ft",
+            "cubic-in",
+            "cubic-m",
+            "cubic-yd",
+            "cup",
+            "fluid-oz",
+            "gallon",
+            "liter",
+            "milliliter",
+            "ounce",
+            "pint",
+            "quart",
+            "liters",
+            "deciliters",
+            "centiliters",
+            "milliliters",
+            "microliters",
+            "nanoliters",
+            "picoliters"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "LineWeight": {
+          "name": "LineWeight",
+          "display_name": "Line Weight",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "WeightSupported": {
+          "name": "WeightSupported",
+          "display_name": "Weight Supported",
+          "attributes": [
+            "GR",
+            "KG",
+            "OZ",
+            "LB",
+            "MG"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "TemperatureRating": {
+          "name": "TemperatureRating",
+          "display_name": "Temperature Rating",
+          "attributes": [
+            "degrees-celsius",
+            "degrees-fahrenheit",
+            "kelvin"
+          ],
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "CustomerPackageType": {
+          "name": "CustomerPackageType",
+          "display_name": "Customer Package Type",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "SizeName": {
+          "name": "SizeName",
+          "display_name": "Size Name",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        },
+        "StyleName": {
+          "name": "StyleName",
+          "display_name": "Style Name",
+          "attributes": false,
+          "valid_values": [],
+          "has_custom_value": true
+        }
+      }
+    },
+    "shopify_options": {
+      "Size": [
+        "M",
+        "S",
+        "L",
+        "XL",
+        "XS",
+        "XXS"
+      ]
+    },
+    "definitions": [
+      {
+        "id": 28068,
+        "universe_id": 154,
+        "data_definition_id": 210,
+        "attribute_name": "item_weight",
+        "local_label_name": "Item Weight",
+        "occurrence": 0,
+        "definition_and_use": "The weight of the product.",
+        "accepted_values": "A number with up to 10 digits to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "2.33, 20.75, 10000.00",
+        "required": 2,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "ItemWeight",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "GR",
+            "KG",
+            "OZ",
+            "LB",
+            "MG"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28072,
+        "universe_id": 154,
+        "data_definition_id": 214,
+        "attribute_name": "battery_type",
+        "local_label_name": "Battery type\/size",
+        "occurrence": 3,
+        "definition_and_use": "Specify the type of battery in the product.",
+        "accepted_values": "",
+        "example": "battery_type_lithium_ion",
+        "required": 2,
+        "valid_value_attribute_id": 30742,
+        "has_valid_values": 1,
+        "xsd_element": "BatteryType",
+        "special_attributes": false,
+        "valid_values": [
+          "battery_type_2\/3A",
+          "battery_type_4\/3A",
+          "battery_type_4\/5A",
+          "battery_type_9v",
+          "battery_type_12v",
+          "battery_type_a",
+          "battery_type_a76",
+          "battery_type_aa",
+          "battery_type_aaa",
+          "battery_type_aaaa",
+          "battery_type_c",
+          "battery_type_cr123a",
+          "battery_type_cr2",
+          "battery_type_cr5",
+          "battery_type_d",
+          "battery_type_lithium_ion",
+          "battery_type_lithium_metal",
+          "battery_type_L-SC",
+          "battery_type_p76",
+          "battery_type_product_specific",
+          "battery_type_SC"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": false
+      },
+      {
+        "id": 28073,
+        "universe_id": 154,
+        "data_definition_id": 215,
+        "attribute_name": "number_of_batteries",
+        "local_label_name": "Number of batteries",
+        "occurrence": 3,
+        "definition_and_use": "Number of batteries, including spares (total batteries, not cells per battery)",
+        "accepted_values": "Any integer greater than or equal to zero",
+        "example": "3",
+        "required": 2,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "NumberOfBatteries",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28074,
+        "universe_id": 154,
+        "data_definition_id": 216,
+        "attribute_name": "lithium_battery_energy_content",
+        "local_label_name": "Watt hours per battery",
+        "occurrence": 0,
+        "definition_and_use": "Commonly printed on the battery or outer packaging",
+        "accepted_values": "Watt hrs of\u00a0each battery (or cell) in unit",
+        "example": "1, 2, 3",
+        "required": 2,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "LithiumBatteryEnergyContent",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "kilowatt_hours",
+            "btu",
+            "kilowatts",
+            "watt_hours"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28075,
+        "universe_id": 154,
+        "data_definition_id": 217,
+        "attribute_name": "lithium_battery_packaging",
+        "local_label_name": "Lithium Battery Packaging",
+        "occurrence": 0,
+        "definition_and_use": "\u201cBatteries only\u201d: the battery or batteries are sold alone or with items they are not meant to power. \u201cWith equipment\u201d: the battery is included in the package but not pre-installed. \u201cIn equipment\u201d: the battery is pre-installed in the item.",
+        "accepted_values": "",
+        "example": "batteries_contained_in_equipment",
+        "required": 2,
+        "valid_value_attribute_id": 30745,
+        "has_valid_values": 1,
+        "xsd_element": "LithiumBatteryPackaging",
+        "special_attributes": false,
+        "valid_values": [
+          "batteries_contained_in_equipment",
+          "batteries_only",
+          "batteries_packed_with_equipment"
+        ],
+        "value_type": "1",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": false
+      },
+      {
+        "id": 28076,
+        "universe_id": 154,
+        "data_definition_id": 218,
+        "attribute_name": "lithium_battery_weight",
+        "local_label_name": "Lithium content (grams)",
+        "occurrence": 0,
+        "definition_and_use": "Commonly found in manufacturer's technical information",
+        "accepted_values": "A number with up to 10 digits to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "0",
+        "required": 2,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "LithiumBatteryWeight",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "GR",
+            "KG",
+            "OZ",
+            "LB",
+            "MG"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28077,
+        "universe_id": 154,
+        "data_definition_id": 219,
+        "attribute_name": "number_of_lithium_ion_cells",
+        "local_label_name": "Number of Lithium-ion Cells",
+        "occurrence": 0,
+        "definition_and_use": "Total number of Lithium cells (of type Ion) in the product,\u00a0 where the cell isn't contained in an encased battery.",
+        "accepted_values": "Total number of Lithium cells (of type Ion) in the product,\u00a0 where the cell isn't contained in an encased battery.",
+        "example": "1, 2, 3",
+        "required": 2,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "NumberOfLithiumIonCells",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28078,
+        "universe_id": 154,
+        "data_definition_id": 220,
+        "attribute_name": "number_of_lithium_metal_cells",
+        "local_label_name": "Number of Lithium Metal Cells",
+        "occurrence": 0,
+        "definition_and_use": "Total number of Lithium cells (of type Metal) in the product,\u00a0 where the cell isn't contained in an encased battery.",
+        "accepted_values": "Total number of Lithium cells (of type Metal) in the product,\u00a0 where the cell isn't contained in an encased battery.",
+        "example": "1, 2, 3",
+        "required": 2,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "NumberOfLithiumMetalCells",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28079,
+        "universe_id": 154,
+        "data_definition_id": 221,
+        "attribute_name": "battery_cell_composition",
+        "local_label_name": "Battery composition",
+        "occurrence": 0,
+        "definition_and_use": "Commonly printed on the battery or outer packaging",
+        "accepted_values": "",
+        "example": "Lithium Ion",
+        "required": 2,
+        "valid_value_attribute_id": 30748,
+        "has_valid_values": 1,
+        "xsd_element": "BatteryCellComposition",
+        "special_attributes": false,
+        "valid_values": [
+          "NiCAD",
+          "NiMh",
+          "alkaline",
+          "aluminum_oxygen",
+          "lead_acid",
+          "lead_calcium",
+          "lithium",
+          "lithium_ion",
+          "lithium_manganese_dioxide",
+          "lithium_metal",
+          "lithium_polymer",
+          "manganese",
+          "polymer",
+          "silver_oxide",
+          "zinc"
+        ],
+        "value_type": "1",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": false
+      },
+      {
+        "id": 28080,
+        "universe_id": 154,
+        "data_definition_id": 222,
+        "attribute_name": "battery_weight",
+        "local_label_name": "Battery weight (grams)",
+        "occurrence": 0,
+        "definition_and_use": "Provide the total net weight of the batteries included. This is the weight of the standalone batteries not including packaging or the device it may be used in.",
+        "accepted_values": "Number up to 10 digits and 2 decimal points long.",
+        "example": "150",
+        "required": 2,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "BatteryWeight",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "GR",
+            "KG",
+            "OZ",
+            "LB",
+            "MG"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28084,
+        "universe_id": 154,
+        "data_definition_id": 226,
+        "attribute_name": "supplier_declared_dg_hz_regulation",
+        "local_label_name": "Applicable Dangerous Goods Regulations",
+        "occurrence": 5,
+        "definition_and_use": "Select the purposes for which your product is regulated as a dangerous good or hazardous material (hazmat) (e.g. dangerous good for transportation, hazmat for waste). Common products can be regulated as dangerous goods (e.g. nail polish, aerosols, cleaning products). For more information, refer to the help pages.",
+        "accepted_values": "",
+        "example": "Transportation,Storage,Waste",
+        "required": 2,
+        "valid_value_attribute_id": 30764,
+        "has_valid_values": 1,
+        "xsd_element": "SupplierDeclaredDGHZRegulation",
+        "special_attributes": false,
+        "valid_values": [
+          "ghs",
+          "storage",
+          "waste",
+          "not_applicable",
+          "transportation",
+          "other",
+          "unknown"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": false
+      },
+      {
+        "id": 28085,
+        "universe_id": 154,
+        "data_definition_id": 227,
+        "attribute_name": "hazmat_united_nations_regulatory_id",
+        "local_label_name": "UN number",
+        "occurrence": 0,
+        "definition_and_use": "Usually found in the Safety Data Sheet or procured from the manufacturer\/distributor. For more information, refer to the help pages.",
+        "accepted_values": "Hazmat United Nationals Regulatory ID",
+        "example": "UN1950",
+        "required": 2,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "HazmatUnitedNationsRegulatoryID",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28086,
+        "universe_id": 154,
+        "data_definition_id": 228,
+        "attribute_name": "safety_data_sheet_url",
+        "local_label_name": "Safety Data Sheet (SDS) URL",
+        "occurrence": 0,
+        "definition_and_use": "Can be procured from the manufacturer\/distributor. For more information, refer to the help pages.",
+        "accepted_values": "Holds link to the externally hosted SDS (Safety Data Sheet) for an item",
+        "example": "http:\/\/www.sigmaaldrich.com\/MSDS\/MSDS\/DisplayMSDSPage.do?country=US&amp;language=en&amp;productNumber=84985&amp;brand=ALDRICH&amp;PageToGoToURL=http%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Faldrich%2F84985%3Flang%3Den",
+        "required": 2,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "SafetyDataSheetURL",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28087,
+        "universe_id": 154,
+        "data_definition_id": 229,
+        "attribute_name": "item_volume",
+        "local_label_name": "Volume",
+        "occurrence": 0,
+        "definition_and_use": "Indicates the volume capacity of a product.",
+        "accepted_values": "A number with up to 10 digits to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "34",
+        "required": 2,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "ItemVolume",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "cubic-cm",
+            "cubic-ft",
+            "cubic-in",
+            "cubic-m",
+            "cubic-yd",
+            "cup",
+            "fluid-oz",
+            "gallon",
+            "liter",
+            "milliliter",
+            "ounce",
+            "pint",
+            "quart",
+            "liters",
+            "deciliters",
+            "centiliters",
+            "milliliters",
+            "microliters",
+            "nanoliters",
+            "picoliters"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28090,
+        "universe_id": 154,
+        "data_definition_id": 232,
+        "attribute_name": "ghs_classification_class",
+        "local_label_name": "Categorization\/GHS pictograms (select all that apply)",
+        "occurrence": 3,
+        "definition_and_use": "Commonly found in the Safety Data Sheet or on the product packaging.",
+        "accepted_values": "",
+        "example": "[{class:Explosive,subcategory:Liquid}]",
+        "required": 2,
+        "valid_value_attribute_id": 30774,
+        "has_valid_values": 1,
+        "xsd_element": "GHSClassificationClass",
+        "special_attributes": false,
+        "valid_values": [
+          "explosive",
+          "oxidizing",
+          "toxic",
+          "corrosive",
+          "amzn_specific_no_label_with_warning",
+          "flammable",
+          "irritant",
+          "health_hazard",
+          "environmentally_damaging",
+          "compressed_gas"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": false
+      },
+      {
+        "id": 27904,
+        "universe_id": 154,
+        "data_definition_id": 46,
+        "attribute_name": "event_name",
+        "local_label_name": "Event Name",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the sporting event that relates to this item. Check the valid values tab for the appropriate value.  Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "PGA Golf Championship, Rose Bowl",
+        "required": 3,
+        "valid_value_attribute_id": 30532,
+        "has_valid_values": 1,
+        "xsd_element": "EventName",
+        "special_attributes": false,
+        "valid_values": [
+          "Fiesta Bowl",
+          "Fiesta-Bowl",
+          "French Open",
+          "French-Open",
+          "Grand Prix of Monaco",
+          "Grand-Prix-of-Monaco",
+          "Hula Bowl",
+          "Hula-Bowl",
+          "Indianapolis 500",
+          "Indianapolis-500",
+          "Italian Open",
+          "Italian-Open",
+          "Kentucky Derby",
+          "Kentucky-Derby",
+          "NCAA Men's Basketball Final Four",
+          "NCAA Women's Basketball Final Four",
+          "NCAA-Men's-Basketball-Final-Four",
+          "NCAA-Women's-Basketball-Final-Four",
+          "PGA Golf Championship",
+          "PGA-Golf-Championship",
+          "Rose Bowl",
+          "Rose-Bowl",
+          "Sugar Bowl",
+          "Sugar-Bowl",
+          "Super Bowl",
+          "Super-Bowl",
+          "Tour de France",
+          "Tour-de-France",
+          "Wimbledon Tennis Championship",
+          "Wimbledon-Tennis-Championship",
+          "World Figure Skating Championship",
+          "World Series of Poker",
+          "World-Figure-Skating-Championship",
+          "World-Series-of-Poker",
+          "World Cup Football Tournament",
+          "World-Cup-Football-Tournament",
+          "Euro Cup Football Tournament",
+          "Euro-Cup-Football-Tournament",
+          "UEFA Cup Football Tournament",
+          "UEFA-Cup-Football-Tournament",
+          "Six Nations Rugby Tournament",
+          "Six-Nations-Rugby-Tournament"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27905,
+        "universe_id": 154,
+        "data_definition_id": 47,
+        "attribute_name": "material_type",
+        "local_label_name": "Material Type",
+        "occurrence": 0,
+        "definition_and_use": "Specify the material type for your product. Please refer to the data definition tab for a list of valid Material Types. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "aluminum",
+        "required": 3,
+        "valid_value_attribute_id": 30535,
+        "has_valid_values": 1,
+        "xsd_element": "Material",
+        "special_attributes": false,
+        "valid_values": [
+          "100-percent-cotton-jersey",
+          "100-percent-cotton-rib-knit",
+          "acrylic",
+          "aluminum",
+          "aluminum-alloy",
+          "blend",
+          "canvas",
+          "carbon-steel",
+          "carinessa",
+          "cashmere",
+          "cellulose",
+          "chiffon",
+          "corduroy",
+          "cotton",
+          "cotton-poly-jersey",
+          "cotton-poly-rib-knit",
+          "denim",
+          "double-knit-fabric",
+          "double-weave",
+          "dri-lux",
+          "drisilque",
+          "elasticized-fabric",
+          "english-willow",
+          "felt",
+          "fiberglass",
+          "flannel",
+          "flat-knit",
+          "fleece",
+          "foam",
+          "goose-down",
+          "graphite",
+          "graphite-lined-aluminum",
+          "graphite-titanium-lined",
+          "hardwood",
+          "jersey",
+          "kashmir-willow",
+          "latex",
+          "linen",
+          "lycaspandex",
+          "mesh",
+          "metallic-fiber",
+          "microfiber",
+          "neoprene",
+          "net",
+          "nonwoven-fabric",
+          "nylon",
+          "nylon-",
+          "nylon-mesh",
+          "olefin",
+          "organza",
+          "other",
+          "oxford",
+          "pine",
+          "plastic",
+          "plush",
+          "polarguard",
+          "polyester",
+          "polypropylene",
+          "poplin",
+          "quallofil",
+          "rayon",
+          "rip-stop",
+          "rock-wool",
+          "rubber",
+          "sateen",
+          "satin",
+          "silk",
+          "solid-wood",
+          "stainless-steel",
+          "steel",
+          "straw",
+          "suede",
+          "tackle-twill",
+          "taffeta",
+          "terry",
+          "thermax",
+          "thermolite",
+          "titanium",
+          "titanium-lined-aluminum",
+          "tricot",
+          "tulle",
+          "tweed",
+          "velcro",
+          "velour",
+          "velvet",
+          "virgin-wool",
+          "viscose",
+          "wire",
+          "wire-free",
+          "wood",
+          "wood-composite",
+          "wool",
+          "worsted"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27906,
+        "universe_id": 154,
+        "data_definition_id": 48,
+        "attribute_name": "seasons",
+        "local_label_name": "Season",
+        "occurrence": 0,
+        "definition_and_use": "Please refer to the data definition tab for a list of valid Seasons. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "autumn\/winter",
+        "required": 3,
+        "valid_value_attribute_id": 30538,
+        "has_valid_values": 1,
+        "xsd_element": "Season",
+        "special_attributes": false,
+        "valid_values": [
+          "autumn\/winter",
+          "spring\/summer",
+          "clearance\/deal buys",
+          "continuity"
+        ],
+        "value_type": "1",
+        "value_min": "0",
+        "value_max": "100",
+        "has_custom_value": true
+      },
+      {
+        "id": 27908,
+        "universe_id": 154,
+        "data_definition_id": 50,
+        "attribute_name": "sport_type",
+        "local_label_name": "Sport",
+        "occurrence": 0,
+        "definition_and_use": "Name of the game or activity.  Please refer to the valid values tab for a list of standard sport values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "baseball, soccer",
+        "required": 3,
+        "valid_value_attribute_id": 30541,
+        "has_valid_values": 1,
+        "xsd_element": "Sport",
+        "special_attributes": false,
+        "valid_values": [
+          "Aikido",
+          "Airsoft",
+          "Alpine-Skiing",
+          "Archery",
+          "Auto-racing",
+          "Backcountry-Skiing",
+          "Baseball",
+          "Basketball",
+          "Bat-and-Trap",
+          "Biathlon",
+          "Billiards",
+          "BMX",
+          "Boating",
+          "Boccia",
+          "Bowling",
+          "Boxing",
+          "Br\u00e4nnboll",
+          "British-baseball",
+          "Camping-&amp;-Hiking",
+          "Canoeing",
+          "Canyoneering",
+          "Capoeira",
+          "Caving",
+          "Cheerleading",
+          "Climbing",
+          "Coaches-&amp;-Referees-Gear",
+          "Corkball",
+          "Cricket",
+          "Cross-Country-Skiing",
+          "Cycling",
+          "Dance",
+          "Darts",
+          "Decathlon",
+          "Diving",
+          "Dodgeball",
+          "Equestrian",
+          "Escrima",
+          "Exercise-&amp;-Fitness",
+          "Fencing",
+          "Field-Hockey",
+          "Fishing",
+          "Football",
+          "Goalball",
+          "Golf",
+          "Gymnastics",
+          "Handball",
+          "Hockey",
+          "Hunting",
+          "Ice-Climbing",
+          "Ice-Skating",
+          "Jai-Alai",
+          "Ju_Jutsu",
+          "Judo",
+          "Karate",
+          "Kayaking",
+          "K-Ball",
+          "Kendo",
+          "Kickboxing",
+          "Kite-Surfing",
+          "Kneeboarding",
+          "Kung_Fu",
+          "Lacrosse",
+          "Lapta",
+          "Martial-Arts",
+          "M\u00e9ta-and-longa-m\u00e9ta",
+          "Mixed-Martial-Arts",
+          "Mountaineering",
+          "Multi-Sport",
+          "Ninjutsu",
+          "Oina",
+          "Old-Cat",
+          "Over-the-line",
+          "Paintball",
+          "Pes\u00e4pallo",
+          "Pilates",
+          "Podex",
+          "Polo",
+          "Racquetball",
+          "Rafting",
+          "Roller-Hockey",
+          "Roller-Skating-\/-Roller-Blading",
+          "Rounders",
+          "Rowing",
+          "Rugby",
+          "Running",
+          "Sailing",
+          "Scooter",
+          "Scrub-baseball",
+          "Skateboarding",
+          "Skating",
+          "Skydiving",
+          "Skysurfing",
+          "Sledding",
+          "Snowboarding",
+          "Snowmobiling",
+          "Snowshoeing",
+          "Snow-Skiing",
+          "Soccer",
+          "Softball",
+          "Spanish-Wiffleball",
+          "Squash",
+          "Stickball",
+          "Stool-ball",
+          "Streetluge",
+          "Surfing",
+          "Swimming",
+          "Table-Tennis",
+          "Taekwondo",
+          "Tai_Chi",
+          "T-Ball",
+          "Tennis",
+          "The-Massachusetts-Game",
+          "Town-ball",
+          "Track-&amp;-Field",
+          "Triathlon",
+          "Uniforms",
+          "Vigoro",
+          "Volleyball",
+          "Wakeboarding",
+          "Walking",
+          "Water-Polo",
+          "Waterskiing",
+          "Weightlifting",
+          "Wiffleball",
+          "Windsurfing",
+          "Wireball",
+          "Wrestling",
+          "Yoga"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27909,
+        "universe_id": 154,
+        "data_definition_id": 51,
+        "attribute_name": "department_name",
+        "local_label_name": "Department",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the merchandizing department for which the product is made. Please refer to the valid values list for a list of values appropriate for this field.",
+        "accepted_values": "",
+        "example": "Men, Women, Children",
+        "required": 3,
+        "valid_value_attribute_id": 30546,
+        "has_valid_values": 1,
+        "xsd_element": "Department",
+        "special_attributes": false,
+        "valid_values": [
+          "Children",
+          "Men",
+          "Women"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27910,
+        "universe_id": 154,
+        "data_definition_id": 52,
+        "attribute_name": "glove_type",
+        "local_label_name": "Glove Type",
+        "occurrence": 0,
+        "definition_and_use": "Indicates whether it is primarily for athletic or outdoor recreational use.",
+        "accepted_values": "",
+        "example": "Outdoor",
+        "required": 3,
+        "valid_value_attribute_id": 30551,
+        "has_valid_values": 1,
+        "xsd_element": "GloveType",
+        "special_attributes": false,
+        "valid_values": [
+          "Bag-Gloves",
+          "Batting-Gloves",
+          "Catcher-Mitts",
+          "Customized-Gloves",
+          "Fast-Pitch",
+          "First-Base",
+          "Hand-Warmers",
+          "Lineman-Gloves",
+          "Punch-Mitts",
+          "Receiver-Gloves",
+          "Slow-Pitch",
+          "Training-Gloves",
+          "Winter",
+          "Fielding",
+          "First-Base-Mitts"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27911,
+        "universe_id": 154,
+        "data_definition_id": 53,
+        "attribute_name": "theme",
+        "local_label_name": "Theme",
+        "occurrence": 0,
+        "definition_and_use": "Indicates the theme of the costume or novelty clothing.",
+        "accepted_values": "",
+        "example": "Animal",
+        "required": 3,
+        "valid_value_attribute_id": 30554,
+        "has_valid_values": 1,
+        "xsd_element": "Theme",
+        "special_attributes": false,
+        "valid_values": [
+          "Animal",
+          "Cartoon",
+          "Classic Monster",
+          "Classic-Monster",
+          "Fairytale",
+          "Famous People",
+          "Famous-People",
+          "Food &amp; Beverage",
+          "Food-&amp;-Beverage",
+          "Historical &amp; Period",
+          "Historical-&amp;-Period",
+          "Horror",
+          "Humorous",
+          "Insects",
+          "Mascots",
+          "Occupational-Professional",
+          "Occupational\/Professional",
+          "Religious",
+          "Scary",
+          "Science Fiction",
+          "Science-Fiction",
+          "Sexy",
+          "Sports",
+          "Superhero",
+          "TV-Movies",
+          "Tv &amp; Movies",
+          "Western"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27912,
+        "universe_id": 154,
+        "data_definition_id": 54,
+        "attribute_name": "top_style",
+        "local_label_name": "Top Style",
+        "occurrence": 0,
+        "definition_and_use": "Describes the style of the top article of clothing in cases where there is a top and bottom piece.",
+        "accepted_values": "",
+        "example": "Halter",
+        "required": 3,
+        "valid_value_attribute_id": 30557,
+        "has_valid_values": 1,
+        "xsd_element": "TopStyle",
+        "special_attributes": false,
+        "valid_values": [
+          "Bandeaux",
+          "Button Down",
+          "Button-Down",
+          "Cami",
+          "Halter",
+          "One Shoulder",
+          "One-Shoulder",
+          "Racerback",
+          "Strapless\/Tube",
+          "Tank",
+          "Triangle Tops",
+          "Triangle-Tops"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27913,
+        "universe_id": 154,
+        "data_definition_id": 55,
+        "attribute_name": "golf_club_loft",
+        "local_label_name": "Golf Loft",
+        "occurrence": 0,
+        "definition_and_use": "For Golf products where relevant, please specify Loft",
+        "accepted_values": "A numerical value in degrees. Please do not use commas.",
+        "example": "14, 10.5",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "GolfLoft",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "degrees",
+            "microradian",
+            "arc_minute",
+            "arc_sec",
+            "milliradian",
+            "radians",
+            "turns",
+            "revolutions"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 27914,
+        "universe_id": 154,
+        "data_definition_id": 56,
+        "attribute_name": "speed",
+        "local_label_name": "Speed",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the chain speed for this product.",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "9 speed compatible",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Speed",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27915,
+        "universe_id": 154,
+        "data_definition_id": 57,
+        "attribute_name": "maximum_horsepower",
+        "local_label_name": "HP",
+        "occurrence": 0,
+        "definition_and_use": "Indicates the maximum horsepower of the motor",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "20, 50",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "HP",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 27916,
+        "universe_id": 154,
+        "data_definition_id": 58,
+        "attribute_name": "water_resistance_depth",
+        "local_label_name": "Water Resistance Rating",
+        "occurrence": 0,
+        "definition_and_use": "what is the depth rating",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "500",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "WaterResistanceRating",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 27919,
+        "universe_id": 154,
+        "data_definition_id": 61,
+        "attribute_name": "lens_color",
+        "local_label_name": "Lens Colour",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the Color of lens.",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "clear, blue",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "LensColor",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27920,
+        "universe_id": 154,
+        "data_definition_id": 62,
+        "attribute_name": "temperature_rating_degrees",
+        "local_label_name": "Warmth Rating",
+        "occurrence": 0,
+        "definition_and_use": "minimum TemperatureRating",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "-20",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "TemperatureRating",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "degrees-celsius",
+            "degrees-fahrenheit",
+            "kelvin"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 27922,
+        "universe_id": 154,
+        "data_definition_id": 64,
+        "attribute_name": "luminous_intensity",
+        "local_label_name": "Luminous Intensity",
+        "occurrence": 0,
+        "definition_and_use": "measure of the wavelength-Weighted power emitted by a light source in a particular direction per unit solid angle, based on the luminosity function, a standardized model of the sensitivity of the human eye. The unit of measure is candela.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "6, 12",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "LightIntensity",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 27923,
+        "universe_id": 154,
+        "data_definition_id": 65,
+        "attribute_name": "magnification_minimum",
+        "local_label_name": "Magnification Minimum",
+        "occurrence": 0,
+        "definition_and_use": "Indicates the minimum magnification.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "50",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "MinimumMagnification",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 27924,
+        "universe_id": 154,
+        "data_definition_id": 66,
+        "attribute_name": "league_name",
+        "local_label_name": "League Name",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the professional body that governs the competition of the team or group you are listing.",
+        "accepted_values": "",
+        "example": "MLB",
+        "required": 3,
+        "valid_value_attribute_id": 30569,
+        "has_valid_values": 1,
+        "xsd_element": "LeagueName",
+        "special_attributes": false,
+        "valid_values": [
+          "Dutch-Eredivisie",
+          "English-Premiership",
+          "European Soccer League",
+          "Federaci\u00f3n-Mexicana-de-F\u00fatbol-Asociaci\u00f3n",
+          "Formula-1",
+          "French-Ligue-1",
+          "German-Bundesliga",
+          "Italian-Serie-A",
+          "LPGA",
+          "MLB",
+          "MLS",
+          "Minor-League-Baseball",
+          "NASCAR",
+          "NBA",
+          "NCAA",
+          "NFL",
+          "NHL",
+          "PGA",
+          "Scottish-Premier-League",
+          "Spanish-Primera-Liga",
+          "Tennis",
+          "WNBA",
+          "WUSA",
+          "World-Baseball-Classic",
+          "World-Cup-Soccer",
+          "X-Games"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27926,
+        "universe_id": 154,
+        "data_definition_id": 68,
+        "attribute_name": "wattage",
+        "local_label_name": "Wattage",
+        "occurrence": 0,
+        "definition_and_use": "A measure of the electrical power used by a device. For most electrical devices, watts are derived by multiplying amperes (amps) by volts:\n\namps x volts = watts",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "150",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Wattage",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "watts",
+            "kilowatts"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 27927,
+        "universe_id": 154,
+        "data_definition_id": 69,
+        "attribute_name": "seating_capacity",
+        "local_label_name": "Seating Capacity",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the number of people who can be seated in the product  in terms of the physical space available.",
+        "accepted_values": "A positive integer with up to 12 digits.",
+        "example": "200",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "SeatingCapacity",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 27928,
+        "universe_id": 154,
+        "data_definition_id": 70,
+        "attribute_name": "athlete",
+        "local_label_name": "Player Name",
+        "occurrence": 0,
+        "definition_and_use": "Name of the player the product represents.",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "Peyton Manning\nLaDainian Tomlinson\nTom Brady",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "PlayerName",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27930,
+        "universe_id": 154,
+        "data_definition_id": 72,
+        "attribute_name": "team_name",
+        "local_label_name": "Team Name",
+        "occurrence": 0,
+        "definition_and_use": "Name of the team the product represents. Please enter the valid name of the team your product is associated with. Not using the appropriate name can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "Arsenal",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "TeamName",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27931,
+        "universe_id": 154,
+        "data_definition_id": 73,
+        "attribute_name": "power_source_type",
+        "local_label_name": "Power Source",
+        "occurrence": 0,
+        "definition_and_use": "What type of power source does this item have?  Please refer to the valid values tab for a list of standard power source values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "battery, electric-powered",
+        "required": 3,
+        "valid_value_attribute_id": 30577,
+        "has_valid_values": 1,
+        "xsd_element": "PowerSource",
+        "special_attributes": false,
+        "valid_values": [
+          "air-powered",
+          "batteries",
+          "disposable-battery",
+          "electric-powered",
+          "generator-powered",
+          "magnet",
+          "rechargeable-battery",
+          "solar",
+          "spring-powered"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27933,
+        "universe_id": 154,
+        "data_definition_id": 75,
+        "attribute_name": "memory_storage_capacity",
+        "local_label_name": "Memory",
+        "occurrence": 0,
+        "definition_and_use": "what is the Memory capacity of the item",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "8",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Memory",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "TB",
+            "GB",
+            "MB",
+            "KB",
+            "KO",
+            "MO",
+            "GO",
+            "TO",
+            "bytes"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 27935,
+        "universe_id": 154,
+        "data_definition_id": 77,
+        "attribute_name": "display_resolution_maximum",
+        "local_label_name": "Pixels",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the number of pixels that can be displayed on the screen.",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "1400x1200",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Pixels",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "megapixels",
+            "pixels",
+            "lines_per_inch"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27936,
+        "universe_id": 154,
+        "data_definition_id": 78,
+        "attribute_name": "compatible_devices",
+        "local_label_name": "Compatible Devices",
+        "occurrence": 0,
+        "definition_and_use": "Indicate with what devices this product can be used. Please refer to the list of valid values of devices for which you product may be compatible. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "Eyewear",
+        "required": 3,
+        "valid_value_attribute_id": 30582,
+        "has_valid_values": 1,
+        "xsd_element": "CompatibleDevices",
+        "special_attributes": false,
+        "valid_values": [
+          "eyewear",
+          "helmet"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27937,
+        "universe_id": 154,
+        "data_definition_id": 79,
+        "attribute_name": "lithium_battery_voltage",
+        "local_label_name": "Lithium Battery Voltage",
+        "occurrence": 0,
+        "definition_and_use": "Voltage of each battery (or cell) in unit expressed in volts.",
+        "accepted_values": "A positive whole number.",
+        "example": "12, 9, 1",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "LithiumBatteryVoltage",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "volts",
+            "millivolts",
+            "microvolts",
+            "nanovolts",
+            "kilovolts"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 27942,
+        "universe_id": 154,
+        "data_definition_id": 84,
+        "attribute_name": "battery_description",
+        "local_label_name": "Battery Description",
+        "occurrence": 0,
+        "definition_and_use": "Describes the specific batteries required and any notable features of those batteries.",
+        "accepted_values": "",
+        "example": "AAA Rechargeable",
+        "required": 3,
+        "valid_value_attribute_id": 30585,
+        "has_valid_values": 1,
+        "xsd_element": "BatteryDescription",
+        "special_attributes": false,
+        "valid_values": [
+          "battery_type_12v",
+          "battery_type_9v",
+          "battery_type_a",
+          "battery_type_aa",
+          "battery_type_aaa",
+          "battery_type_aaaa",
+          "battery_type_c",
+          "battery_type_cr123a",
+          "battery_type_cr2",
+          "battery_type_cr5",
+          "battery_type_d",
+          "battery_type_lithium_ion",
+          "battery_type_lithium_metal",
+          "battery_type_p76",
+          "battery_type_product_specific"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27951,
+        "universe_id": 154,
+        "data_definition_id": 93,
+        "attribute_name": "material_composition",
+        "local_label_name": "Material Composition",
+        "occurrence": 0,
+        "definition_and_use": "The material composition (80% cotton, 20% polyester, etc) as provided on the article of clothing.  This information is displayed prominently on the product details page.  We highly recommend that you fill out this field.  This meets the material marking regulation.",
+        "accepted_values": "An alphanumeric string up to a maximum of 1,000 characters in length.",
+        "example": "80% cotton, 20% polyester",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "MaterialComposition",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "1000",
+        "has_custom_value": true
+      },
+      {
+        "id": 27954,
+        "universe_id": 154,
+        "data_definition_id": 96,
+        "attribute_name": "battery_form_factor",
+        "local_label_name": "Battery Form Factor",
+        "occurrence": 0,
+        "definition_and_use": "Indicate if the battery is removable or is part of the device.",
+        "accepted_values": "Select from",
+        "example": "Amovible",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "BatteryFormFactor",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27955,
+        "universe_id": 154,
+        "data_definition_id": 97,
+        "attribute_name": "seller_warranty_description",
+        "local_label_name": "Seller Warranty Description",
+        "occurrence": 0,
+        "definition_and_use": "Use this to specify the information regarding any warranty that you, the seller, are providing for this product.",
+        "accepted_values": "A text string; 1,000 characters maximum in length.",
+        "example": "1 year warranty on parts and labor",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "SellerWarrantyDescription",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "1000",
+        "has_custom_value": true
+      },
+      {
+        "id": 27956,
+        "universe_id": 154,
+        "data_definition_id": 98,
+        "attribute_name": "skill_level",
+        "local_label_name": "Skill Level",
+        "occurrence": 0,
+        "definition_and_use": "What is the skill level of the user?  Please refer to the valid values tab for a list of standard skill level values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "advanced, beginner",
+        "required": 3,
+        "valid_value_attribute_id": 30589,
+        "has_valid_values": 1,
+        "xsd_element": "SkillLevel",
+        "special_attributes": false,
+        "valid_values": [
+          "Advanced",
+          "Beginner",
+          "Expert",
+          "Intermediate",
+          "Professional"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27957,
+        "universe_id": 154,
+        "data_definition_id": 99,
+        "attribute_name": "resistance_mechanism",
+        "local_label_name": "Resistance Mechanism",
+        "occurrence": 0,
+        "definition_and_use": "Why kind of resistance system does this equipment have?  Please refer to the valid values tab for a list of standard Resistance Mechanism  values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "manually-adjustable magnetic resistance",
+        "required": 3,
+        "valid_value_attribute_id": 30590,
+        "has_valid_values": 1,
+        "xsd_element": "ResistanceMechanism",
+        "special_attributes": false,
+        "valid_values": [
+          "ECB",
+          "eddy-current-resistance-system",
+          "electromagnetic",
+          "exercise-straps",
+          "manually-adjustable-magnetic-resistance",
+          "particle-brake-system",
+          "pilates-fitness-circles",
+          "pilates-flexbands",
+          "resistance-bike-trainers"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27958,
+        "universe_id": 154,
+        "data_definition_id": 100,
+        "attribute_name": "speed_rating",
+        "local_label_name": "Speed Rating",
+        "occurrence": 0,
+        "definition_and_use": "What is the range of speeds for this treadmill?",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": ".5 to 10 mph",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "SpeedRating",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27959,
+        "universe_id": 154,
+        "data_definition_id": 101,
+        "attribute_name": "bottom_style",
+        "local_label_name": "Bottom Style",
+        "occurrence": 0,
+        "definition_and_use": "Bottom style describes the style of the bottom article of clothing in cases where there is a top and bottom piece. Please refer to the valid values tab for a list of standard fit values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "Bikini",
+        "required": 3,
+        "valid_value_attribute_id": 30593,
+        "has_valid_values": 1,
+        "xsd_element": "BottomStyle",
+        "special_attributes": false,
+        "valid_values": [
+          "bikini",
+          "bodysuit",
+          "boy-short",
+          "brief",
+          "g-string",
+          "hipster",
+          "pant",
+          "short",
+          "skirt",
+          "skort",
+          "thong"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27960,
+        "universe_id": 154,
+        "data_definition_id": 102,
+        "attribute_name": "sleeve_type",
+        "local_label_name": "Sleeve Type",
+        "occurrence": 0,
+        "definition_and_use": "Describes details of sleeve.",
+        "accepted_values": "",
+        "example": "Short Sleeve",
+        "required": 3,
+        "valid_value_attribute_id": 30596,
+        "has_valid_values": 1,
+        "xsd_element": "SleeveType",
+        "special_attributes": false,
+        "valid_values": [
+          "3\/4-Sleeve",
+          "Cap-Sleeve",
+          "Long-Sleeve",
+          "Short-Sleeve",
+          "Sleeveless",
+          "Tanks"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27961,
+        "universe_id": 154,
+        "data_definition_id": 103,
+        "attribute_name": "ultraviolet_light_protection",
+        "local_label_name": "UV Protection",
+        "occurrence": 0,
+        "definition_and_use": "The level of UV Protection provided by this product.",
+        "accepted_values": "A whole number. Percentage will be automatically added.",
+        "example": "25",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "UVProtection",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 27962,
+        "universe_id": 154,
+        "data_definition_id": 104,
+        "attribute_name": "wheel_type",
+        "local_label_name": "Wheel Type",
+        "occurrence": 0,
+        "definition_and_use": "Describes type of wheel used on luggage.",
+        "accepted_values": "",
+        "example": "Rollerboard",
+        "required": 3,
+        "valid_value_attribute_id": 30597,
+        "has_valid_values": 1,
+        "xsd_element": "WheelType",
+        "special_attributes": false,
+        "valid_values": [
+          "Inline-Skate",
+          "Rollerboard",
+          "Sealed-Bearings",
+          "Spinner"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27963,
+        "universe_id": 154,
+        "data_definition_id": 105,
+        "attribute_name": "golf_club_flex",
+        "local_label_name": "Golf Flex",
+        "occurrence": 0,
+        "definition_and_use": "For Golf products where relevant, please specify Flex",
+        "accepted_values": "",
+        "example": "regular",
+        "required": 3,
+        "valid_value_attribute_id": 30600,
+        "has_valid_values": 1,
+        "xsd_element": "GolfFlex",
+        "special_attributes": false,
+        "valid_values": [
+          "Ladies",
+          "Regular",
+          "Senior",
+          "Stiff",
+          "X-Stiff",
+          "XX-Stiff",
+          "XXX-Stiff"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27964,
+        "universe_id": 154,
+        "data_definition_id": 106,
+        "attribute_name": "grip_material_type",
+        "local_label_name": "Grip Material Type",
+        "occurrence": 0,
+        "definition_and_use": "What kind of material is the grip? Please refer to the valid values tab for a list of standard material values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "rubber",
+        "required": 3,
+        "valid_value_attribute_id": 30603,
+        "has_valid_values": 1,
+        "xsd_element": "GripMaterialType",
+        "special_attributes": false,
+        "valid_values": [
+          "composite",
+          "hard",
+          "rubber",
+          "soft"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27965,
+        "universe_id": 154,
+        "data_definition_id": 107,
+        "attribute_name": "bike_type",
+        "local_label_name": "Mountain Bike Type",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the mountain bike type.  Please refer to the valid values tab for a list of standard Mountain Bike types. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "Tandem",
+        "required": 3,
+        "valid_value_attribute_id": 30604,
+        "has_valid_values": 1,
+        "xsd_element": "MountainBikeType",
+        "special_attributes": false,
+        "valid_values": [
+          "All-Mountain",
+          "Cross-Country",
+          "Cyclocross",
+          "Downhill",
+          "Freeride",
+          "Freestyle",
+          "Jump-Dirt",
+          "Jumping",
+          "Race",
+          "Road-Racing",
+          "Road-Sport-Touring",
+          "Road-Touring",
+          "Tandem",
+          "Track",
+          "Triathalon"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27966,
+        "universe_id": 154,
+        "data_definition_id": 108,
+        "attribute_name": "frame_material_type",
+        "local_label_name": "Frame Material",
+        "occurrence": 0,
+        "definition_and_use": "What material is the frame? Please refer to the data definition for valid values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "aluminum, steel",
+        "required": 3,
+        "valid_value_attribute_id": 30605,
+        "has_valid_values": 1,
+        "xsd_element": "FrameMaterial",
+        "special_attributes": false,
+        "valid_values": [
+          "aluminum",
+          "aluminum-carbon-fiber",
+          "carbon-fiber",
+          "steel",
+          "titanium"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27967,
+        "universe_id": 154,
+        "data_definition_id": 109,
+        "attribute_name": "lock_type",
+        "local_label_name": "Lock Type",
+        "occurrence": 0,
+        "definition_and_use": "What type of lock is on this product?",
+        "accepted_values": "",
+        "example": "liner-lock, frame-lock",
+        "required": 3,
+        "valid_value_attribute_id": 30606,
+        "has_valid_values": 1,
+        "xsd_element": "LockType",
+        "special_attributes": false,
+        "valid_values": [
+          "axis-lock",
+          "frame-lock",
+          "liner-lock",
+          "lock-Back",
+          "switchblade"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27968,
+        "universe_id": 154,
+        "data_definition_id": 110,
+        "attribute_name": "tension_level",
+        "local_label_name": "Tension Level",
+        "occurrence": 0,
+        "definition_and_use": "Tension is the measure of the force tending to stretch something.  Indicate here how much force the item can stand and still work.",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "55 lbs",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "TensionLevel",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27969,
+        "universe_id": 154,
+        "data_definition_id": 111,
+        "attribute_name": "number_of_speeds",
+        "local_label_name": "Number Of Speeds",
+        "occurrence": 0,
+        "definition_and_use": "How many speeds does this have?",
+        "accepted_values": "A positive whole number.",
+        "example": "5",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "NumberOfSpeeds",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 27970,
+        "universe_id": 154,
+        "data_definition_id": 112,
+        "attribute_name": "action",
+        "local_label_name": "Action",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the action associated with this pole or line. Please refer to the valid values tab for a list of standard gender values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "Wake, slow fall, fast fall",
+        "required": 3,
+        "valid_value_attribute_id": 30607,
+        "has_valid_values": 1,
+        "xsd_element": "Action",
+        "special_attributes": false,
+        "valid_values": [
+          "Multiplier",
+          "fast-fall",
+          "heavy",
+          "light",
+          "medium",
+          "medium-heavy",
+          "slow-fall",
+          "ultra-light",
+          "wake"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27971,
+        "universe_id": 154,
+        "data_definition_id": 113,
+        "attribute_name": "handle_material",
+        "local_label_name": "Handle Material",
+        "occurrence": 0,
+        "definition_and_use": "Product used on the reel handle. Please refer to the valid values tab for a list of standard material values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "cork",
+        "required": 3,
+        "valid_value_attribute_id": 30608,
+        "has_valid_values": 1,
+        "xsd_element": "HandleMaterial",
+        "special_attributes": false,
+        "valid_values": [
+          "Bone",
+          "EVAFoamslidering",
+          "Horn",
+          "Ivory",
+          "Shell",
+          "aluminum",
+          "anodized",
+          "bead-blasted",
+          "carbon-fiber",
+          "g-10",
+          "micarta",
+          "stag",
+          "titanium",
+          "zytel"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27972,
+        "universe_id": 154,
+        "data_definition_id": 114,
+        "attribute_name": "display_type",
+        "local_label_name": "Display Type",
+        "occurrence": 0,
+        "definition_and_use": "What type of display does this device have?  Please refer to the valid values tab for a list of standard Display Type values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "Film SuperTwist LCD",
+        "required": 3,
+        "valid_value_attribute_id": 30609,
+        "has_valid_values": 1,
+        "xsd_element": "DisplayType",
+        "special_attributes": false,
+        "valid_values": [
+          "LCD",
+          "LED",
+          "alphanumeric-display",
+          "film",
+          "graphic",
+          "numeric-display",
+          "supertwist"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27973,
+        "universe_id": 154,
+        "data_definition_id": 115,
+        "attribute_name": "number_of_power_levels",
+        "local_label_name": "Number Of Levels",
+        "occurrence": 0,
+        "definition_and_use": "Indicate number of power levels",
+        "accepted_values": "A positive whole number.",
+        "example": "4",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "NumberOfLevels",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 27974,
+        "universe_id": 154,
+        "data_definition_id": 116,
+        "attribute_name": "blade_edge_type",
+        "local_label_name": "Blade Type",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the type of blade. Please refer to the valid values tab for the appropriate list of values to use in this field. Please refer to the valid values tab for a list of standard material values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "clip-point",
+        "required": 3,
+        "valid_value_attribute_id": 30610,
+        "has_valid_values": 1,
+        "xsd_element": "BladeType",
+        "special_attributes": false,
+        "valid_values": [
+          "Athame",
+          "Boot",
+          "Combat",
+          "Diving",
+          "Fixed Blade",
+          "Folding",
+          "Gentlemans",
+          "KnifeStyle",
+          "Kris",
+          "Pocket",
+          "Police",
+          "Practice",
+          "Puukko",
+          "Rescue",
+          "Sgian-Dubh",
+          "Shiv",
+          "Stiletto",
+          "Stockman",
+          "Survival",
+          "Tactical",
+          "Throwing",
+          "Trench",
+          "Utility",
+          "Clip-point",
+          "Clipped",
+          "Curved",
+          "Curving-edge",
+          "Droppoint",
+          "Normal",
+          "Spear-point"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27975,
+        "universe_id": 154,
+        "data_definition_id": 117,
+        "attribute_name": "fill_material_type",
+        "local_label_name": "Fill Material Type",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the fill type of the product. Please refer the Valid Values tab for possible values to use in this field. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "Cotton",
+        "required": 3,
+        "valid_value_attribute_id": 30611,
+        "has_valid_values": 1,
+        "xsd_element": "FillMaterialType",
+        "special_attributes": false,
+        "valid_values": [
+          "Goose Down",
+          "Syntetic Fibre",
+          "Cotton"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27976,
+        "universe_id": 154,
+        "data_definition_id": 118,
+        "attribute_name": "lamp_type",
+        "local_label_name": "Lamp Type",
+        "occurrence": 0,
+        "definition_and_use": "What type of lamp is included in this product?",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "oil",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "LampType",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27977,
+        "universe_id": 154,
+        "data_definition_id": 119,
+        "attribute_name": "number_of_blades",
+        "local_label_name": "Number Of Blades",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the number of blades",
+        "accepted_values": "A positive whole number.",
+        "example": "3",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "NumberOfBlades",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 27978,
+        "universe_id": 154,
+        "data_definition_id": 120,
+        "attribute_name": "lens_material_type",
+        "local_label_name": "Lens Material",
+        "occurrence": 0,
+        "definition_and_use": "What material is the lens. Please refer to the valid values tab for a list of standard material values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "plastic",
+        "required": 3,
+        "valid_value_attribute_id": 30612,
+        "has_valid_values": 1,
+        "xsd_element": "LensMaterial",
+        "special_attributes": false,
+        "valid_values": [
+          "anti-reflective",
+          "aspheric",
+          "glass",
+          "hi-index",
+          "photochromatic",
+          "plastic",
+          "polarized",
+          "polycarbonate",
+          "scratch-resistant",
+          "trivex"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27979,
+        "universe_id": 154,
+        "data_definition_id": 121,
+        "attribute_name": "insulation_material_type",
+        "local_label_name": "Insulation Type",
+        "occurrence": 0,
+        "definition_and_use": "What type of insulation",
+        "accepted_values": "",
+        "example": "open cell foam, air",
+        "required": 3,
+        "valid_value_attribute_id": 30613,
+        "has_valid_values": 1,
+        "xsd_element": "InsulationType",
+        "special_attributes": false,
+        "valid_values": [
+          "Goose Down",
+          "PolarGuard",
+          "Quallofil",
+          "Rock wool",
+          "Thermolite",
+          "air",
+          "cellulose",
+          "cotton",
+          "fiberglass",
+          "foam",
+          "open-cell",
+          "other"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27980,
+        "universe_id": 154,
+        "data_definition_id": 122,
+        "attribute_name": "occupancy",
+        "local_label_name": "Sleeping Capacity",
+        "occurrence": 0,
+        "definition_and_use": "how many people can sleep in the tent",
+        "accepted_values": "A positive whole number.",
+        "example": "3, 1",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Occupancy",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27981,
+        "universe_id": 154,
+        "data_definition_id": 123,
+        "attribute_name": "folded_size",
+        "local_label_name": "Packed Size",
+        "occurrence": 0,
+        "definition_and_use": "What is the volume of the tent when packed?",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "6x6x19",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "PackedSize",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27982,
+        "universe_id": 154,
+        "data_definition_id": 124,
+        "attribute_name": "light_source_type",
+        "local_label_name": "Bulb Type",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the type of bulb is used. Please refer to the valid values tab for the appropriate term to use in this field.",
+        "accepted_values": "",
+        "example": "fluorescent",
+        "required": 3,
+        "valid_value_attribute_id": 30614,
+        "has_valid_values": 1,
+        "xsd_element": "BulbType",
+        "special_attributes": false,
+        "valid_values": [
+          "Compact-Fluorescent Light",
+          "Fluorescent-tube",
+          "HID",
+          "Halogen",
+          "High-Pressure-Sodium",
+          "Incandescent",
+          "Infrared-Heat",
+          "Krypton",
+          "LED",
+          "Low-Pressure-Mercury-Discharge",
+          "Mercury-Vapor",
+          "Meta-halide",
+          "Neon",
+          "Xenon",
+          "compact-fluorescent",
+          "fluorescent",
+          "halogen",
+          "incandescent"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27983,
+        "universe_id": 154,
+        "data_definition_id": 125,
+        "attribute_name": "hand_orientation",
+        "local_label_name": "Hand",
+        "occurrence": 0,
+        "definition_and_use": "Use to specify the hand orientation of your product",
+        "accepted_values": "",
+        "example": "left",
+        "required": 3,
+        "valid_value_attribute_id": 30615,
+        "has_valid_values": 1,
+        "xsd_element": "Hand",
+        "special_attributes": false,
+        "valid_values": [
+          "left",
+          "right"
+        ],
+        "value_type": "1",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 27984,
+        "universe_id": 154,
+        "data_definition_id": 126,
+        "attribute_name": "head_size",
+        "local_label_name": "Head Size",
+        "occurrence": 0,
+        "definition_and_use": "For tennis rackets, use to specify the head size",
+        "accepted_values": "",
+        "example": "Medium",
+        "required": 3,
+        "valid_value_attribute_id": 30618,
+        "has_valid_values": 1,
+        "xsd_element": "HeadSize",
+        "special_attributes": false,
+        "valid_values": [
+          "X-Small",
+          "Small",
+          "Medium",
+          "Large",
+          "X-Large",
+          "XX-Large",
+          "XXX-Large",
+          "One size"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27985,
+        "universe_id": 154,
+        "data_definition_id": 127,
+        "attribute_name": "shaft_style_type",
+        "local_label_name": "Shaft Type",
+        "occurrence": 0,
+        "definition_and_use": "Use to specify the shaft type for lacrosse shaft products",
+        "accepted_values": "",
+        "example": "attacker-shafts",
+        "required": 3,
+        "valid_value_attribute_id": 30621,
+        "has_valid_values": 1,
+        "xsd_element": "ShaftType",
+        "special_attributes": false,
+        "valid_values": [
+          "attacker-shafts",
+          "defender-shafts",
+          "goalie-shafts",
+          "midfielder-shafts"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27986,
+        "universe_id": 154,
+        "data_definition_id": 128,
+        "attribute_name": "uniform_number",
+        "local_label_name": "Uniform Number",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the uniform number of the team member listed in your product",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "11, A1",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "UniformNumber",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27987,
+        "universe_id": 154,
+        "data_definition_id": 129,
+        "attribute_name": "guard_material_type",
+        "local_label_name": "Guard Material Type",
+        "occurrence": 0,
+        "definition_and_use": "What kind of material is the guard? Please refer to the valid values tab for a list of standard material values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "rubber",
+        "required": 3,
+        "valid_value_attribute_id": 30622,
+        "has_valid_values": 1,
+        "xsd_element": "GuardMaterialType",
+        "special_attributes": false,
+        "valid_values": [
+          "gel",
+          "shell"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27988,
+        "universe_id": 154,
+        "data_definition_id": 130,
+        "attribute_name": "native_resolution",
+        "local_label_name": "Resolution",
+        "occurrence": 0,
+        "definition_and_use": "What is the screen resolution?",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "320x320 resolution",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Resolution",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27989,
+        "universe_id": 154,
+        "data_definition_id": 131,
+        "attribute_name": "included_components",
+        "local_label_name": "Whats In The Box",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the components that ship with the product.",
+        "accepted_values": "A text string; 1,000 characters maximum in length.",
+        "example": "Instructions, team sports accessory components, batteries, cover",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "WhatsInTheBox",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "1000",
+        "has_custom_value": true
+      },
+      {
+        "id": 27990,
+        "universe_id": 154,
+        "data_definition_id": 132,
+        "attribute_name": "display_color_support",
+        "local_label_name": "Screen Colour",
+        "occurrence": 0,
+        "definition_and_use": "Indicate screen color support",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "black or white, or color, or touch color",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "ScreenColor",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27991,
+        "universe_id": 154,
+        "data_definition_id": 133,
+        "attribute_name": "battery_average_life",
+        "local_label_name": "Battery Average Life",
+        "occurrence": 0,
+        "definition_and_use": "The average expected lifespan for the battery measured in hours.",
+        "accepted_values": "A positive number.",
+        "example": "2",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "BatteryAverageLife",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 27992,
+        "universe_id": 154,
+        "data_definition_id": 134,
+        "attribute_name": "head_size_name",
+        "local_label_name": "Head Size",
+        "occurrence": 0,
+        "definition_and_use": "Describe the size of the head? This should be used   specifically for golf clubs, tennis rackets, or  any other products which are often classified by  head size.",
+        "accepted_values": "",
+        "example": "Medium",
+        "required": 3,
+        "valid_value_attribute_id": 30623,
+        "has_valid_values": 1,
+        "xsd_element": "HeadSize",
+        "special_attributes": false,
+        "valid_values": [
+          "X-Small",
+          "Small",
+          "Medium",
+          "Large",
+          "One size",
+          "XX-Large",
+          "X-Large",
+          "XXX-Large"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 28000,
+        "universe_id": 154,
+        "data_definition_id": 142,
+        "attribute_name": "website_shipping_weight",
+        "local_label_name": "Shipping Weight",
+        "occurrence": 0,
+        "definition_and_use": "The weight of the product when packaged to ship. This is displayed on the product page and used to calculate shipping costs for weight-based shipping, if available.  If you've chosen the weight-based shipping option, you must supply a value in this cell for all of your shippable products.",
+        "accepted_values": "A number with up to 10 digits to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "2.33, 20.75, 10000.00",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "ShippingWeight",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "GR",
+            "KG",
+            "OZ",
+            "LB",
+            "MG"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28003,
+        "universe_id": 154,
+        "data_definition_id": 145,
+        "attribute_name": "cup_size",
+        "local_label_name": "Cup Size",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the cup size of the item. Please refer to the valid values list for the appropriate value in this field.",
+        "accepted_values": "",
+        "example": "AA",
+        "required": 3,
+        "valid_value_attribute_id": 30651,
+        "has_valid_values": 1,
+        "xsd_element": "CupSize",
+        "special_attributes": false,
+        "valid_values": [
+          "A",
+          "AA",
+          "B",
+          "C",
+          "D",
+          "DD",
+          "DDD",
+          "E",
+          "EE",
+          "F",
+          "FF",
+          "G",
+          "GG",
+          "H",
+          "I",
+          "J"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 28004,
+        "universe_id": 154,
+        "data_definition_id": 146,
+        "attribute_name": "shoe_width",
+        "local_label_name": "Shoe Width",
+        "occurrence": 0,
+        "definition_and_use": "Indicates width of shoe. Please refer to the valid values tab for a list of standard material values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "AAA",
+        "required": 3,
+        "valid_value_attribute_id": 30654,
+        "has_valid_values": 1,
+        "xsd_element": "ShoeWidth",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [
+          "A",
+          "AA",
+          "AAA",
+          "AAAA",
+          "B",
+          "C",
+          "D",
+          "E",
+          "EE",
+          "EEE",
+          "EEEE",
+          "EEEEE"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 28005,
+        "universe_id": 154,
+        "data_definition_id": 147,
+        "attribute_name": "item_display_width",
+        "local_label_name": "Waist Width",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the width of the waist of the product.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "16",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Width",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28007,
+        "universe_id": 154,
+        "data_definition_id": 149,
+        "attribute_name": "waist_size",
+        "local_label_name": "Waist Size",
+        "occurrence": 0,
+        "definition_and_use": "waist circumference",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "32",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "WaistSize",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28009,
+        "universe_id": 154,
+        "data_definition_id": 151,
+        "attribute_name": "grip_size",
+        "local_label_name": "Grip Size",
+        "occurrence": 0,
+        "definition_and_use": "For racquet products where relevant, indicate Grip Size.",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "3&quot;&quot;",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "GripSize",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 28010,
+        "universe_id": 154,
+        "data_definition_id": 152,
+        "attribute_name": "rim_size",
+        "local_label_name": "Bike Rim Size",
+        "occurrence": 0,
+        "definition_and_use": "Use this field to indicate the BikeRimSize for Bike products that vary by such field.  Please indicate in inches.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas or dollar signs.",
+        "example": "26",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "BikeRimSize",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28012,
+        "universe_id": 154,
+        "data_definition_id": 154,
+        "attribute_name": "wheel_size",
+        "local_label_name": "Wheel Size",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the size of the wheel",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "24",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "WheelSize",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28014,
+        "universe_id": 154,
+        "data_definition_id": 156,
+        "attribute_name": "inseam_length",
+        "local_label_name": "Inseam",
+        "occurrence": 0,
+        "definition_and_use": "How long is the inseam of this product?",
+        "accepted_values": "A whole number.",
+        "example": "12, 44",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Inseam",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28015,
+        "universe_id": 154,
+        "data_definition_id": 157,
+        "attribute_name": "frame_size",
+        "local_label_name": "Frame Height",
+        "occurrence": 0,
+        "definition_and_use": "What is the height of the frame?",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "43",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "FrameHeight",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28017,
+        "universe_id": 154,
+        "data_definition_id": 159,
+        "attribute_name": "volume_capacity_name",
+        "local_label_name": "Line Capacity",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the volume of your product",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "175\/12",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "VolumeCapacityName",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "cubic-cm",
+            "cubic-ft",
+            "cubic-in",
+            "cubic-m",
+            "cubic-yd",
+            "cup",
+            "fluid-oz",
+            "gallon",
+            "liter",
+            "milliliter",
+            "ounce",
+            "pint",
+            "quart",
+            "liters",
+            "deciliters",
+            "centiliters",
+            "milliliters",
+            "microliters",
+            "nanoliters",
+            "picoliters"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28018,
+        "universe_id": 154,
+        "data_definition_id": 160,
+        "attribute_name": "item_display_length",
+        "local_label_name": "Display Length",
+        "occurrence": 0,
+        "definition_and_use": "What is the length of this product?",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas or dollar signs.",
+        "example": "8",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "DisplayLength",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28020,
+        "universe_id": 154,
+        "data_definition_id": 162,
+        "attribute_name": "item_display_weight",
+        "local_label_name": "Display Weight",
+        "occurrence": 0,
+        "definition_and_use": "What is the Weight of the item when fully assembled and out of the packaging?",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "25 Lbs",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "DisplayWeight",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "GR",
+            "KG",
+            "OZ",
+            "LB",
+            "MG"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28022,
+        "universe_id": 154,
+        "data_definition_id": 164,
+        "attribute_name": "capacity",
+        "local_label_name": "Capacity",
+        "occurrence": 0,
+        "definition_and_use": "The maximum amount that can be contained by the item.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "5",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Capacity",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "cubic-cm",
+            "cubic-ft",
+            "cubic-in",
+            "cubic-m",
+            "cubic-yd",
+            "cup",
+            "fluid-oz",
+            "gallon",
+            "liter",
+            "milliliter",
+            "ounce",
+            "pint",
+            "quart",
+            "liters",
+            "deciliters",
+            "centiliters",
+            "milliliters",
+            "microliters",
+            "nanoliters",
+            "picoliters"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28023,
+        "universe_id": 154,
+        "data_definition_id": 165,
+        "attribute_name": "item_display_volume",
+        "local_label_name": "Display Volume",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the capacity that the water bottle holds.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "12, 2",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "DisplayVolume",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "cubic-cm",
+            "cubic-ft",
+            "cubic-in",
+            "cubic-m",
+            "cubic-yd",
+            "cup",
+            "fluid-oz",
+            "gallon",
+            "liter",
+            "milliliter",
+            "ounce",
+            "pint",
+            "quart",
+            "liters",
+            "deciliters",
+            "centiliters",
+            "milliliters",
+            "microliters",
+            "nanoliters",
+            "picoliters"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28025,
+        "universe_id": 154,
+        "data_definition_id": 167,
+        "attribute_name": "blade_length",
+        "local_label_name": "Blade Length",
+        "occurrence": 0,
+        "definition_and_use": "Please indicate the length of the blade. You must populate BladeLengthUnitOfMeasure if you populate BladeLength.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "24",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "BladeLength",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28027,
+        "universe_id": 154,
+        "data_definition_id": 169,
+        "attribute_name": "maximum_height_recommendation",
+        "local_label_name": "Maximum Height Recommendation",
+        "occurrence": 0,
+        "definition_and_use": "what size person can fit in this sleeping bag?",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "5",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "MaximumHeight",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28029,
+        "universe_id": 154,
+        "data_definition_id": 171,
+        "attribute_name": "objective_lens_diameter",
+        "local_label_name": "Objective Lens Size",
+        "occurrence": 0,
+        "definition_and_use": "this is the diameter or aperture.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "24",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "ObjectiveLensSize",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28031,
+        "universe_id": 154,
+        "data_definition_id": 173,
+        "attribute_name": "shaft_length",
+        "local_label_name": "Shaft Length",
+        "occurrence": 0,
+        "definition_and_use": "For golf clubs, the length of the shaft.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "26",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "ShaftLength",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28033,
+        "universe_id": 154,
+        "data_definition_id": 175,
+        "attribute_name": "item_shape",
+        "local_label_name": "Item Shape",
+        "occurrence": 0,
+        "definition_and_use": "Describe the shape of the item.",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "Round, concave, flat",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Shape",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 28034,
+        "universe_id": 154,
+        "data_definition_id": 176,
+        "attribute_name": "display_maximum_weight_recommendation",
+        "local_label_name": "Weight Supported",
+        "occurrence": 0,
+        "definition_and_use": "For fishing products, use this to indicate the supported weight for any products that may vary by such field",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "20",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "WeightSupported",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "GR",
+            "KG",
+            "OZ",
+            "LB",
+            "MG"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28036,
+        "universe_id": 154,
+        "data_definition_id": 178,
+        "attribute_name": "display_size",
+        "local_label_name": "Display Size",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the size of the display mechanism. If you populate this field, you must also populate the field DisplaySizeUnitOfMeature",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "13",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "DisplaySize",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28038,
+        "universe_id": 154,
+        "data_definition_id": 180,
+        "attribute_name": "item_display_height",
+        "local_label_name": "Peak Height",
+        "occurrence": 0,
+        "definition_and_use": "What is the height of the product at its highest point (peak)?",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "75",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "PeakHeight",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28040,
+        "universe_id": 154,
+        "data_definition_id": 182,
+        "attribute_name": "item_diameter_derived",
+        "local_label_name": "Diameter",
+        "occurrence": 0,
+        "definition_and_use": "The length of a straight line segment passing through the center of a circle or sphere.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "14",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Diameter",
+        "special_attributes": {
+          "has_valid_values": 1,
+          "valid_values": [
+            "MM",
+            "CM",
+            "M",
+            "IN",
+            "FT",
+            "inches",
+            "feet",
+            "meters",
+            "decimeters",
+            "centimeters",
+            "millimeters",
+            "micrometers",
+            "nanometers",
+            "picometers"
+          ]
+        },
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "12",
+        "has_custom_value": true
+      },
+      {
+        "id": 28062,
+        "universe_id": 154,
+        "data_definition_id": 204,
+        "attribute_name": "customer_restriction_type",
+        "local_label_name": "Age restriction  bladed products",
+        "occurrence": 0,
+        "definition_and_use": "Please select \u2018uk_18_knife\u2019 if this product is (1) an axe OR (2) a knife or a knife blade with a sharp longitudinal edge AND (2a) has a fixed or locking blade OR (2b) a folding blade length of 3 inches or more. Please refer to the age-restricted bladed products policy in Seller Central.",
+        "accepted_values": "",
+        "example": "uk_18_knife",
+        "required": 3,
+        "valid_value_attribute_id": 30722,
+        "has_valid_values": 1,
+        "xsd_element": "CustomerRestrictionType",
+        "special_attributes": false,
+        "valid_values": [
+          "uk_18_knife"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 28063,
+        "universe_id": 154,
+        "data_definition_id": 205,
+        "attribute_name": "mfg_warranty_description_type",
+        "local_label_name": "Warranty",
+        "occurrence": 0,
+        "definition_and_use": "Describe the product warranty for this item.",
+        "accepted_values": "A text string; 1,000 characters maximum in length.",
+        "example": "2-year limited",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Warranty",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "1000",
+        "has_custom_value": true
+      },
+      {
+        "id": 28065,
+        "universe_id": 154,
+        "data_definition_id": 207,
+        "attribute_name": "fabric_type",
+        "local_label_name": "Fabric Type",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the fabric type used for this product. Please refer  to the valid values list for the appropriate set of values appropriate for this field.  Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "cotton, plastic",
+        "required": 3,
+        "valid_value_attribute_id": 30726,
+        "has_valid_values": 1,
+        "xsd_element": "FabricType",
+        "special_attributes": false,
+        "valid_values": [
+          "100-percent-cotton-jersey",
+          "100-percent-cotton-rib-knit",
+          "acrylic",
+          "blend",
+          "canvas",
+          "carinessa",
+          "cashmere",
+          "cellulose",
+          "chiffon",
+          "corduroy",
+          "cotton",
+          "cotton-poly-jersey",
+          "cotton-poly-rib-knit",
+          "denim",
+          "double-knit-fabric",
+          "double-weave",
+          "dri-lux",
+          "drisilque",
+          "elasticized-fabric",
+          "felt",
+          "fiberglass",
+          "flannel",
+          "flat-knit",
+          "fleece",
+          "foam",
+          "goose-down",
+          "jersey",
+          "latex",
+          "linen",
+          "lycraspandex",
+          "mesh",
+          "metallic-fiber",
+          "microfiber",
+          "neoprene",
+          "net",
+          "nonwoven-fabric",
+          "nylon",
+          "nylon-mesh",
+          "olefin",
+          "organza",
+          "other",
+          "oxford",
+          "plastic",
+          "plush",
+          "polarguard",
+          "polyester",
+          "polypropylene",
+          "poplin",
+          "quallofil",
+          "rayon",
+          "rip-stop",
+          "rock-wool",
+          "sateen",
+          "satin",
+          "silk",
+          "straw",
+          "suede",
+          "tackle-twill",
+          "taffeta",
+          "terry",
+          "thermax",
+          "thermolite",
+          "tricot",
+          "tulle",
+          "tweed",
+          "velcro",
+          "velour",
+          "velvet",
+          "virgin-wool",
+          "viscose",
+          "wool",
+          "worsted"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 28066,
+        "universe_id": 154,
+        "data_definition_id": 208,
+        "attribute_name": "legal_disclaimer_description",
+        "local_label_name": "Legal Disclaimer Description",
+        "occurrence": 0,
+        "definition_and_use": "Describes any legal language needed with the product",
+        "accepted_values": "A text string; 1,000 characters maximum in length.",
+        "example": "Please check your local laws before purchasing this product.",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "LegalDisclaimer",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "0",
+        "value_max": "2500",
+        "has_custom_value": true
+      },
+      {
+        "id": 28067,
+        "universe_id": 154,
+        "data_definition_id": 209,
+        "attribute_name": "specific_uses_for_product",
+        "local_label_name": "Specific Uses For Product",
+        "occurrence": 0,
+        "definition_and_use": "Describe the specific sport related to this product. Please refer to the valid values tab for a list of standard sports. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "football",
+        "required": 3,
+        "valid_value_attribute_id": 30731,
+        "has_valid_values": 1,
+        "xsd_element": "TrailerType",
+        "special_attributes": false,
+        "valid_values": [
+          "american_football",
+          "ballet_and_dancing",
+          "baseball",
+          "basketball",
+          "boxing",
+          "climbing",
+          "cricket",
+          "cycling",
+          "darts",
+          "equestrian",
+          "fencing",
+          "fishing",
+          "fitness",
+          "football",
+          "golf",
+          "gymnastics",
+          "hiking",
+          "hockey",
+          "ice_hockey",
+          "ice_skating",
+          "lacrosse",
+          "martial_arts",
+          "motor_sports",
+          "netball",
+          "racquet_sports",
+          "rounders_and_softball",
+          "rowing",
+          "rugby",
+          "running",
+          "sailing",
+          "skateboarding_and_skating",
+          "skiing_and_snowboarding",
+          "skydiving",
+          "swimming",
+          "table_games",
+          "triathlon",
+          "volleyball",
+          "water_sports",
+          "wrestling",
+          "yoga_and_pilates"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 28089,
+        "universe_id": 154,
+        "data_definition_id": 231,
+        "attribute_name": "flash_point",
+        "local_label_name": "Flash point (\u00b0C)?",
+        "occurrence": 0,
+        "definition_and_use": "Commonly found in the Safety Data Sheet or provided by manufacturer. For more information, refer to the help pages.",
+        "accepted_values": "A number with up to 10 digits allowed to the left of the decimal point and 2 digits to the right of the decimal point. Please do not use commas.",
+        "example": "180",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "FlashPoint",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 28098,
+        "universe_id": 154,
+        "data_definition_id": 240,
+        "attribute_name": "list_price",
+        "local_label_name": "Recommended Retail Price",
+        "occurrence": 0,
+        "definition_and_use": "The retail price that a manufacturer suggests for a product.",
+        "accepted_values": "A price greater than 0. Do not include thousands separators or currency symbols.",
+        "example": "2800",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "MSRP",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "20",
+        "has_custom_value": true
+      },
+      {
+        "id": 28100,
+        "universe_id": 154,
+        "data_definition_id": 242,
+        "attribute_name": "merchant_release_date",
+        "local_label_name": "Release Date",
+        "occurrence": 0,
+        "definition_and_use": "The first date on which you can deliver a pre-orderable product (one that has never been available prior to this date) to a customer",
+        "accepted_values": "A date in this format: yyyy-mm-dd",
+        "example": "2013-12-31",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "ReleaseDate",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "4",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28107,
+        "universe_id": 154,
+        "data_definition_id": 249,
+        "attribute_name": "max_order_quantity",
+        "local_label_name": "Max Order Quantity",
+        "occurrence": 0,
+        "definition_and_use": "The maximum quantity of the product that a customer may purchase in one order",
+        "accepted_values": "A whole number",
+        "example": "4",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "MaxOrderQuantity",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28108,
+        "universe_id": 154,
+        "data_definition_id": 250,
+        "attribute_name": "item_package_quantity",
+        "local_label_name": "Package Quantity",
+        "occurrence": 0,
+        "definition_and_use": "Use to specify the number of products that are packaged.",
+        "accepted_values": "A positive integer",
+        "example": "5",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "ItemPackageQuantity",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28109,
+        "universe_id": 154,
+        "data_definition_id": 251,
+        "attribute_name": "number_of_items",
+        "local_label_name": "Number of Items",
+        "occurrence": 0,
+        "definition_and_use": "The number of items that are included in the product",
+        "accepted_values": "A whole number",
+        "example": "1",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "NumberOfItems",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28110,
+        "universe_id": 154,
+        "data_definition_id": 252,
+        "attribute_name": "max_aggregate_ship_quantity",
+        "local_label_name": "Max Aggregate Ship Quantity",
+        "occurrence": 0,
+        "definition_and_use": "Indicates the maximum number of these same items that can be shipped together in the same package.",
+        "accepted_values": "A positive integer.",
+        "example": "0, 100, or 12142",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "MaxAggregateShipQuantity",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "0",
+        "has_custom_value": true
+      },
+      {
+        "id": 28114,
+        "universe_id": 154,
+        "data_definition_id": 256,
+        "attribute_name": "uvp_list_price",
+        "local_label_name": "RRP",
+        "occurrence": 0,
+        "definition_and_use": "The Recommended Retail Price (RRP) set by the manufacturer or its authorized resellers for the applicable marketplace.",
+        "accepted_values": "A price greater than 0 with up to two decimals. Do not include thousands separators or currency symbols.",
+        "example": "59",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "UVPListPrice",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "20",
+        "has_custom_value": true
+      },
+      {
+        "id": 27877,
+        "universe_id": 154,
+        "data_definition_id": 19,
+        "attribute_name": "model_year",
+        "local_label_name": "Model Year",
+        "occurrence": 0,
+        "definition_and_use": "Please provide the model year i.e. the year that the product was made",
+        "accepted_values": "A positive whole number",
+        "example": "2013",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "ModelYear",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "2",
+        "value_min": "0",
+        "value_max": "4",
+        "has_custom_value": true
+      },
+      {
+        "id": 27880,
+        "universe_id": 154,
+        "data_definition_id": 22,
+        "attribute_name": "closure_type",
+        "local_label_name": "Closure Type",
+        "occurrence": 0,
+        "definition_and_use": "Indicate the closure type of your product. Please refer the to valid values list for available values. Please fill this field out with one of those values.  Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "zipper, drawstring",
+        "required": 3,
+        "valid_value_attribute_id": 30503,
+        "has_valid_values": 1,
+        "xsd_element": "ClosureType",
+        "special_attributes": false,
+        "valid_values": [
+          "buckle",
+          "drawstring",
+          "hook&amp;eye",
+          "lace-up",
+          "slip-on",
+          "velcro",
+          "zipper",
+          "button"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27881,
+        "universe_id": 154,
+        "data_definition_id": 23,
+        "attribute_name": "model_name",
+        "local_label_name": "Model Name",
+        "occurrence": 0,
+        "definition_and_use": "What is the model name of the reel?",
+        "accepted_values": "An alphanumeric string; 50 characters maximum.",
+        "example": "3\/4",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "ReelModel",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27882,
+        "universe_id": 154,
+        "data_definition_id": 24,
+        "attribute_name": "outer_material_type",
+        "local_label_name": "Outer Material Type",
+        "occurrence": 0,
+        "definition_and_use": "what is the material of the shell? Please refer to the valid values tab for a list of standard material values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "plastic",
+        "required": 3,
+        "valid_value_attribute_id": 30508,
+        "has_valid_values": 1,
+        "xsd_element": "OuterMaterialType",
+        "special_attributes": false,
+        "valid_values": [
+          "corduroy",
+          "cotton",
+          "denim",
+          "down",
+          "faux_fur",
+          "felt",
+          "fleece",
+          "fur",
+          "hemp",
+          "leather",
+          "linen",
+          "rubber",
+          "satin",
+          "sequined",
+          "silk",
+          "synthetic",
+          "velvet",
+          "wool",
+          "beaded",
+          "canvas"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27883,
+        "universe_id": 154,
+        "data_definition_id": 25,
+        "attribute_name": "inner_material_type",
+        "local_label_name": "Inner Material Type",
+        "occurrence": 0,
+        "definition_and_use": "What is the lining material? Please refer to the valid values tab for a list of standard material values. Please fill this field out with one of those values. Not using the appropriate valid values can possibly result in your items not appearing in browse and search.",
+        "accepted_values": "",
+        "example": "Cotton, Polyester",
+        "required": 3,
+        "valid_value_attribute_id": 30513,
+        "has_valid_values": 1,
+        "xsd_element": "LiningMaterial",
+        "special_attributes": false,
+        "valid_values": [
+          "100-percent-cotton-jersey",
+          "100-percent-cotton-rib-knit",
+          "acrylic",
+          "aluminum",
+          "aluminum-alloy",
+          "blend",
+          "canvas",
+          "carbon-steel",
+          "carinessa",
+          "cashmere",
+          "cellulose",
+          "chiffon",
+          "corduroy",
+          "cotton",
+          "cotton-poly-jersey",
+          "cotton-poly-rib-knit",
+          "denim",
+          "double-knit-fabric",
+          "double-weave",
+          "dri-lux",
+          "drisilque",
+          "elasticized-fabric",
+          "english-willow",
+          "felt",
+          "fiberglass",
+          "flannel",
+          "flat-knit",
+          "fleece",
+          "foam",
+          "goose-down",
+          "graphite",
+          "graphite-lined-aluminum",
+          "graphite-titanium-lined",
+          "hardwood",
+          "jersey",
+          "kashmir-willow",
+          "latex",
+          "linen",
+          "lycaspandex",
+          "mesh",
+          "metallic-fiber",
+          "microfiber",
+          "neoprene",
+          "net",
+          "nonwoven-fabric",
+          "nylon",
+          "nylon-",
+          "nylon-mesh",
+          "olefin",
+          "organza",
+          "other",
+          "oxford",
+          "pine",
+          "plastic",
+          "plush",
+          "polarguard",
+          "polyester",
+          "polypropylene",
+          "poplin",
+          "quallofil",
+          "rayon",
+          "rip-stop",
+          "rock-wool",
+          "rubber",
+          "sateen",
+          "satin",
+          "silk",
+          "solid-wood",
+          "stainless-steel",
+          "steel",
+          "straw",
+          "suede",
+          "tackle-twill",
+          "taffeta",
+          "terry",
+          "thermax",
+          "thermolite",
+          "titanium",
+          "titanium-lined-aluminum",
+          "tricot",
+          "tulle",
+          "tweed",
+          "velcro",
+          "velour",
+          "velvet",
+          "virgin-wool",
+          "viscose",
+          "wire",
+          "wire-free",
+          "wood",
+          "wood-composite",
+          "wool",
+          "worsted"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27884,
+        "universe_id": 154,
+        "data_definition_id": 26,
+        "attribute_name": "model",
+        "local_label_name": "Model Number",
+        "occurrence": 0,
+        "definition_and_use": "The model number of the product, as assigned by the manufacturer. This may be distinct from part number",
+        "accepted_values": "The model number of the product, as assigned by the manufacturer. Note that this should be distinct from Model Name and Manufacturer Part Number",
+        "example": "AK3-AT1-GL-M-X, MC700LL\/A",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "Model",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27887,
+        "universe_id": 154,
+        "data_definition_id": 29,
+        "attribute_name": "collection_name",
+        "local_label_name": "Season and collection year",
+        "occurrence": 0,
+        "definition_and_use": "The seasonal collection associated with the product. Customers can filter and browse on this attribute therefore we  recommend that you fill out this field.",
+        "accepted_values": "",
+        "example": "Spring-Summer 13",
+        "required": 3,
+        "valid_value_attribute_id": 30520,
+        "has_valid_values": 1,
+        "xsd_element": "CollectionName",
+        "special_attributes": false,
+        "valid_values": [
+          "Autumn-Winter 12",
+          "Autumn-Winter 13",
+          "Autumn-Winter 14",
+          "Autumn-Winter 15",
+          "Autumn-Winter 16",
+          "Autumn-Winter 17",
+          "Autumn-Winter 18",
+          "Spring-Summer 12",
+          "Spring-Summer 13",
+          "Spring-Summer 14",
+          "Spring-Summer 15",
+          "Spring-Summer 16",
+          "Spring-Summer 17",
+          "Spring-Summer 18",
+          "Spring-Summer 2019",
+          "Spring-Summer 2020"
+        ],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27896,
+        "universe_id": 154,
+        "data_definition_id": 38,
+        "attribute_name": "target_audience_base",
+        "local_label_name": "Target Audience",
+        "occurrence": 0,
+        "definition_and_use": "Represents the recipients of this card, whether they are men, women, teens or childeren",
+        "accepted_values": "Who are the recipients of this card",
+        "example": "Men",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "TargetAudience",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "50",
+        "has_custom_value": true
+      },
+      {
+        "id": 27900,
+        "universe_id": 154,
+        "data_definition_id": 42,
+        "attribute_name": "generic_keywords",
+        "local_label_name": "Search Terms",
+        "occurrence": 0,
+        "definition_and_use": "Search terms that describe your product: no repetition, no competitor brand names or ASINs.",
+        "accepted_values": "Search terms that describe your product: no repetition, no competitor brand names or ASINs.",
+        "example": "Electric",
+        "required": 3,
+        "valid_value_attribute_id": null,
+        "has_valid_values": 0,
+        "xsd_element": "SearchTerms",
+        "special_attributes": false,
+        "valid_values": [],
+        "value_type": "1",
+        "value_min": "1",
+        "value_max": "250",
+        "has_custom_value": true
+      }
+    ]
+  }
+}

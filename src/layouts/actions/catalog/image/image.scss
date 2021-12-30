@@ -1,0 +1,82 @@
+
+.image-page {
+  .table > .Polaris-Layout {
+    flex-wrap: nowrap;
+  }
+  .search-option {
+    .Polaris-Select {
+      width: 20rem;
+    }
+    .Polaris-FormLayout {
+      //width: 100%;
+    }
+  }
+  .image-pagination {
+    text-align: center;
+  }
+  .item-image-container {
+    padding: 1.2rem 2rem;
+    border-bottom: 1px solid #dddddd;
+  }
+  .item-image-container:hover {
+    background-color: #eeeeee;
+  }
+  .crop-margin-value {
+    .Polaris-Connected__Item {
+      margin-left: 0.3rem!important;
+      margin-top: auto;
+      margin-bottom: auto;
+    }
+    .Polaris-TextField__Input {
+      padding: 0.3rem 0.5rem;
+      line-height: 1.8rem!important;
+      min-height: 2.6rem!important;
+    }
+    .Polaris-TextField {
+      width: 7rem;
+    }
+  }
+}
+
+.image-confirm-modal {
+  padding: 0.5rem;
+  //font-weight: 400;
+  .title {
+    h1 {
+      font-size: 2.4rem;
+    }
+    margin-bottom: 3rem;
+  }
+
+  .image-selected {
+    //font-weight: 500;
+    .select-title {
+      font-size: 1.6rem;
+    }
+    .select-body {
+      font-weight: 500;
+      font-size: 1.6rem;
+      padding-left: 1rem;
+    }
+    margin-bottom: 2rem;
+  }
+
+  .image-price {
+    //font-weight: 500;
+    margin-bottom: 1rem;
+  }
+
+  .image-agree {
+    span{
+      font-size: 1.6rem;
+    }
+    margin-bottom: 1rem;
+  }
+
+  .image-note {
+    font-size: 1.6rem;
+    //padding-left: 1rem;
+    padding-right: 2rem;
+    margin-bottom: 2rem;
+  }
+}

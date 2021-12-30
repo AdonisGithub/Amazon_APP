@@ -1,0 +1,194 @@
+
+/*Page*/
+.welcome .Polaris-Page{
+    max-width: 92rem;
+}
+
+/* Card */
+.welcome .loading{
+    text-align: center;
+    padding: 2rem;
+}
+
+.welcome .error-message{
+    text-align: center;
+    padding: 2rem;
+}
+
+.welcome .summary-header h2{
+    margin-bottom: 2rem;
+    border-bottom: 2px dotted #e6e6e6;
+    //cursor: pointer;
+}
+
+.welcome .welcome-info{
+    display: flex;
+    flex: 0 1 100%;
+    border-radius: .4rem;
+    margin-bottom: 2rem;
+}
+
+.welcome .welcome-info .sales,
+.welcome .welcome-info .orders,
+.welcome .welcome-info .offers {
+    border: .1rem solid #c4cdd5;
+    padding: 16px;
+    display: flex;
+    flex: 1 0 100%;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    min-width: auto;
+    height: 136px;
+    margin-right: 15px;
+    border-radius: 0.4rem;
+    text-align: center;
+}
+
+.welcome-info .offers{margin: 0}
+
+.welcome-info .sales  img{fill: silver; height: 2.2rem}
+.welcome-info .orders img{color: white; fill: silver; height: 2.2rem}
+.welcome-info .offers img{fill: silver; height: 2.2rem}
+
+.welcome-info span{font-size: 1.5rem; color: #637381}
+
+
+.welcome-order{
+    font-size: 1.5rem;
+}
+
+.welcome-order{}
+
+.welcome-nav .Polaris-Card__Header h2{
+    margin-bottom: 2rem;
+}
+
+.welcome-nav .Polaris-Card__Section .Polaris-Card > div{
+    height: 37rem;
+}
+.welcome-nav .Polaris-Tabs {
+    border-bottom: none;
+}
+.welcome-nav .Polaris-Card .Polaris-Card__Header {
+    padding: 2rem;
+}
+.welcome-nav .Polaris-Card__Section {
+    padding: 0;
+}
+.welcome-nav .Polaris-Card .Polaris-Card__Header {
+    padding: 1.6rem 2rem;
+}
+.welcome-nav h2.Polaris-Heading {
+    font-size: 2rem;
+    line-height: 2.8rem;
+    font-weight: normal;
+}
+
+.welcome-nav .Polaris-CalloutCard{
+    align-items: end;
+}
+
+/* Tabs */
+.welcome-nav .Polaris-Card__Section .Polaris-Card {
+    box-shadow: none;
+}
+.welcome-nav .Polaris-Card__Section > .Polaris-Card > div {
+    display: flex;
+    border: 0.1rem solid #dfe3e8;
+}
+.welcome-nav ul.Polaris-Tabs {
+    display: flex;
+    flex-direction: column;
+    margin: -1px 0 0 -1px;
+    padding: 0;
+    border-right: 0.1rem solid #dfe3e8;
+    border-left: 0.1rem solid #dfe3e8;
+    list-style: none;
+    background: #f4f6f8;
+}
+.welcome-nav .Polaris-Tabs.Polaris-Tabs__TabMeasurer,
+.welcome-nav ul.Polaris-Tabs div,
+.welcome-nav ul.Polaris-Tabs li.Polaris-Tabs__DisclosureTab {
+    display: none;
+}
+.welcome-nav ul.Polaris-Tabs li {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 -1px;
+    padding: 0;
+    border-top: 0.1rem solid #dfe3e8;
+    border-bottom: 0.1rem solid #dfe3e8;
+}
+.welcome-nav ul.Polaris-Tabs > li > button {
+    color: inherit;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+    padding: 0;
+    background: none;
+    border: none;
+    font-size: inherit;
+    line-height: inherit;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 2rem;
+    text-transform: none;
+    letter-spacing: normal;
+    color: #637381;
+    position: relative;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    width: 22rem;
+    margin: 0 -1px;
+    /*padding: 2.4rem;*/
+    outline: none;
+    text-decoration: none;
+    cursor: pointer;
+    border-right: 0.1rem solid #dfe3e8;
+    border-left: 0.1rem solid #dfe3e8;
+}
+.welcome-nav .Polaris-Tabs__Tab .Polaris-Tabs__Title {
+    padding: 2.4rem;
+    width: 100%;
+    font-weight: bold;
+}
+.welcome-nav .Polaris-Tabs__Tab .Polaris-Tabs__Title {
+    border-bottom: none;
+}
+.welcome-nav .Polaris-Tabs__Tab.Polaris-Tabs__Tab--selected .Polaris-Tabs__Title,
+.welcome-nav .Polaris-Tabs__Tab:hover .Polaris-Tabs__Title {
+    border-bottom: none;
+    font-weight: bold;
+}
+.welcome-nav button.Polaris-Tabs__Tab.Polaris-Tabs__Tab--selected {
+    border-left: 0.3rem solid #5c6ac4;
+    border-right: none;
+    background: white;
+    font-weight: bold;
+    color: #5c6ac4;
+}
+.welcome-nav .Polaris-Tabs__Panel {
+    width: 100%;
+    padding: 2.4rem 3.2rem;
+    background: #fff;
+}
+.welcome-nav span.Polaris-Tabs__Title span.Polaris-Icon {
+    margin-right: 1.6rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+.welcome-nav ui.Polaris-Tabs li span.Polaris-Icon svg.Polaris-Icon__Svg {
+    display: block;
+    height: 2rem;
+    width: 2rem;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+    margin-right: 1.6rem;
+}
+.welcome-nav .Polaris-TextStyle--variationSubdued {
+    color: inherit;
+}

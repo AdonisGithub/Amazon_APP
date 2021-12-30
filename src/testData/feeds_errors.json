@@ -1,0 +1,33 @@
+{
+  "status": "Ok",
+  "log": "28a47359ed0b32f8ac7f37e34e7d6c4e",
+  "date": "2021-02-18T07:41:19+00:00",
+  "data": {
+    "errors": [
+      {
+        "error_code": "20005",
+        "error_details": "<p>Amazon can not associate an image with the SKU because the SKU was not created due to another error.<\/p>",
+        "error_resolution": "<p>It is due to the products have another error.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "sku_num": "1",
+        "batch_id": "3df8848dfbf5377ca7aa2501880b996e",
+        "marketplaces": [
+          "us"
+        ]
+      },
+      {
+        "error_code": "5000",
+        "error_details": "<p>XML Parsing Error encountered during reading &amp; interpreting XML. Correct any errors during generation of XML file and run again.<\/p>",
+        "error_resolution": "<p>Once you have solved the issue, please click on &ldquo;Solved&rdquo; button. The feed for that product will be resubmitted to Amazon.<\/p>",
+        "error_solved_type": "solved",
+        "error_priority": "0",
+        "sku_num": "1",
+        "batch_id": "ca4d4e391aa0018a20dd296c83270dcf",
+        "marketplaces": [
+          "us"
+        ]
+      }
+    ]
+  }
+}

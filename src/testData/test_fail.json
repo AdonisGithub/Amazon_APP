@@ -1,0 +1,119 @@
+{
+  "status": "Ok",
+  "log": "12f787e0cf7bead5c4c55a64b9c942bf",
+  "date": "2021-04-14T08:31:47+00:00",
+  "data": {
+    "details": [
+      {
+        "title": "Importing products from Amazon FBA",
+        "message": "Array: Inventory management is Amazon-fba-europe-for-franzani, which does not support inventory management",
+        "logfile": "cc810c4c15a5f1bf1c06d5e2bd2b59f0",
+        "date_start": "2021-04-14 10:19:14",
+        "date_stop": "2021-04-14 10:19:15"
+      },
+      {
+        "title": "Importing products from Amazon FBA",
+        "message": "Array: Inventory management is Amazon-fba-europe-for-franzani, which does not support inventory management",
+        "logfile": "31ae5cf4660230cb2519353cca518eda",
+        "date_start": "2021-04-14 08:42:34",
+        "date_stop": "2021-04-14 08:42:36"
+      },
+      {
+        "title": "Importing products from Amazon FBA",
+        "message": "Array: Inventory management is Amazon-fba-europe-for-franzani, which does not support inventory management",
+        "logfile": "0039974f574dc102d0b0e3dc4e7b38e0",
+        "date_start": "2021-04-14 07:14:20",
+        "date_stop": "2021-04-14 07:14:22"
+      },
+      {
+        "title": "Importing products from Amazon FBA",
+        "message": "Array: Inventory management is Amazon-fba-europe-for-franzani, which does not support inventory management",
+        "logfile": "a5222ef09aa7c19ccc323287784b2c71",
+        "date_start": "2021-04-14 05:42:18",
+        "date_stop": "2021-04-14 05:42:19"
+      },
+      {
+        "title": "Importing products from Amazon FBA",
+        "message": "Array: Inventory management is Amazon-fba-europe-for-franzani, which does not support inventory management",
+        "logfile": "f0d1fb39e19df568ba9cde800dd6b08c",
+        "date_start": "2021-04-14 04:21:24",
+        "date_stop": "2021-04-14 04:21:25"
+      },
+      {
+        "title": "Update fulfillment status to Shopify",
+        "message": "Invalid argument supplied for foreach(), please contact our support and mention incident id: 5b1208aaff7c06c987cab81bccd2debc",
+        "logfile": "5b1208aaff7c06c987cab81bccd2debc",
+        "date_start": "2021-04-14 03:58:51",
+        "date_stop": "2021-04-14 03:58:52"
+      },
+      {
+        "title": "Update fulfillment status to Shopify",
+        "message": "Invalid argument supplied for foreach(), please contact our support and mention incident id: 0bacfde4157a8a128f64458c50c67bc8",
+        "logfile": "0bacfde4157a8a128f64458c50c67bc8",
+        "date_start": "2021-04-14 03:27:18",
+        "date_stop": "2021-04-14 03:27:19"
+      },
+      {
+        "title": "Update fulfillment status to Shopify",
+        "message": "Invalid argument supplied for foreach(), please contact our support and mention incident id: cfddc541290be436c08a84c792828934",
+        "logfile": "cfddc541290be436c08a84c792828934",
+        "date_start": "2021-04-14 03:26:56",
+        "date_stop": "2021-04-14 03:26:57"
+      },
+      {
+        "title": "Update fulfillment status to Shopify",
+        "message": "Invalid argument supplied for foreach(), please contact our support and mention incident id: 2201ede731f274ada76519aac36e4606",
+        "logfile": "2201ede731f274ada76519aac36e4606",
+        "date_start": "2021-04-14 03:20:48",
+        "date_stop": "2021-04-14 03:20:49"
+      },
+      {
+        "title": "Importing products from Amazon FBA",
+        "message": "Array: Inventory management is Amazon-fba-europe-for-franzani, which does not support inventory management",
+        "logfile": "b50c88dc8a31ddaea6ee6a464ff1dd41",
+        "date_start": "2021-04-14 02:43:54",
+        "date_stop": "2021-04-14 02:43:55"
+      },
+      {
+        "title": "Importing products from Amazon FBA",
+        "message": "Array: Inventory management is Amazon-fba-europe-for-franzani, which does not support inventory management",
+        "logfile": "5d35f0647590efa6dbb90e8b84c1a21d",
+        "date_start": "2021-04-14 01:08:48",
+        "date_stop": "2021-04-14 01:08:49"
+      },
+      {
+        "title": "Importing products from Amazon FBA",
+        "message": "Array: Inventory management is Amazon-fba-europe-for-franzani, which does not support inventory management",
+        "logfile": "0076331d42adda44a81e7d3fe97a682e",
+        "date_start": "2021-04-13 11:34:09",
+        "date_stop": "2021-04-13 11:34:11"
+      },
+      {
+        "title": "Importing products from Amazon FBA",
+        "message": "Array: Inventory management is Amazon-fba-europe-for-franzani, which does not support inventory management",
+        "logfile": "352790f072cacd1a5e146091a33b7417",
+        "date_start": "2021-04-13 10:07:05",
+        "date_stop": "2021-04-13 10:07:07"
+      },
+      {
+        "title": "Update fulfillment status to Shopify",
+        "message": "Invalid argument supplied for foreach(), please contact our support and mention incident id: cd1aaa3e2183fad1afa7ab1a246389c6",
+        "logfile": "cd1aaa3e2183fad1afa7ab1a246389c6",
+        "date_start": "2021-04-13 01:02:20",
+        "date_stop": "2021-04-13 01:02:21"
+      }
+    ],
+    "stores": [],
+    "configurations": {
+      "": []
+    },
+    "count": "14",
+    "pages": 1,
+    "scope": {
+      "date_from": "2021-04-06 00:00:00",
+      "date_to": "2021-04-14 23:59:59",
+      "store": "franzani",
+      "account": "Franzani "
+    }
+  }
+}

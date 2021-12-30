@@ -1,0 +1,768 @@
+{
+  "status": "Ok",
+  "log": "db00ed79de77541f024722ab82780e83",
+  "date": "2021-09-29T03:13:54+00:00",
+  "data": {
+    "details": [
+      {
+        "id": "16328851540360",
+        "section": "Amazon",
+        "operation": "Orders",
+        "action": "Import",
+        "schedule": "12,32,52 * * * *",
+        "title": "Receive orders from Amazon every 20 minutes",
+        "created_at": "Tue, Sep 28, 2021 8:12 PM",
+        "executed_at": "1 minute ago",
+        "log": {
+          "count": 1,
+          "pages": 1,
+          "details": [
+            {
+              "id": "1053223730",
+              "title": "Import orders from Amazon",
+              "message": "Looking from new orders",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:12:26",
+              "date_stop": "2021-09-28 08:12:32",
+              "duration": "6.26",
+              "logfile": "ec75e6121fca9e6409cf1f4ae37f5737",
+              "is_summary": "0",
+              "feeds": "0"
+            }
+          ],
+          "completed": 0,
+          "has_feeds": false,
+          "errors": 0,
+          "has_errors": 1,
+          "more": 0,
+          "collapse": false,
+          "batch": "ec75e6121fca9e6409cf1f4ae37f5737",
+          "min": "1053223730"
+        },
+        "min": "1053223730"
+      },
+      {
+        "id": "16328850208898",
+        "section": "Amazon",
+        "operation": "Feeds",
+        "action": "Check",
+        "schedule": "*\/5 * * * *",
+        "title": "Check feed submission result every 5 minutes",
+        "created_at": "Tue, Sep 28, 2021 8:10 PM",
+        "executed_at": "3 minutes ago",
+        "log": {
+          "count": 1,
+          "pages": 1,
+          "details": [
+            {
+              "id": "1053221061",
+              "title": "Check feed submission result",
+              "message": "Nothing to check",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:10:20",
+              "date_stop": "2021-09-28 08:10:25",
+              "duration": "4.87",
+              "logfile": "ca2381d229e07505bbc12ac5e980aba4",
+              "is_summary": "1",
+              "feeds": "0"
+            }
+          ],
+          "completed": 1,
+          "has_feeds": false,
+          "errors": 0,
+          "has_errors": 1,
+          "more": 0,
+          "collapse": false,
+          "batch": "ca2381d229e07505bbc12ac5e980aba4",
+          "min": "1053221061"
+        },
+        "min": "1053221061"
+      },
+      {
+        "id": "16328848638495",
+        "section": "Amazon",
+        "operation": "Inventory",
+        "action": "Update",
+        "schedule": "7,27,47 * * * *",
+        "title": "Receive partial inventory from Amazon every 20 minutes",
+        "created_at": "Tue, Sep 28, 2021 8:07 PM",
+        "executed_at": "6 minutes ago",
+        "log": {
+          "count": 3,
+          "pages": 1,
+          "details": [
+            {
+              "id": "1053218640",
+              "title": "Receive partial inventory from Amazon every 20 minutes",
+              "message": "Inventory successfully processed",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:07:42",
+              "date_stop": "2021-09-28 08:08:07",
+              "duration": "25.55",
+              "logfile": "",
+              "is_summary": "1",
+              "feeds": "0"
+            },
+            {
+              "id": "1053217898",
+              "title": "Receive partial inventory from Amazon every 20 minutes",
+              "message": "Fetch inventory from Amazon.com",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:07:42",
+              "date_stop": "2021-09-28 08:07:46",
+              "duration": "3.84",
+              "logfile": "7f70975e06d0bcfa88e153c0388d43fa",
+              "is_summary": "0",
+              "feeds": "0"
+            },
+            {
+              "id": "1053218639",
+              "title": "Receive partial inventory from Amazon every 20 minutes",
+              "message": "Inventory for Amazon.com, no offers to update",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:07:42",
+              "date_stop": "2021-09-28 08:08:07",
+              "duration": "21.71",
+              "logfile": "7f70975e06d0bcfa88e153c0388d43fa",
+              "is_summary": "0",
+              "feeds": "0"
+            }
+          ],
+          "completed": 1,
+          "has_feeds": false,
+          "errors": 0,
+          "has_errors": 1,
+          "more": 0,
+          "collapse": false,
+          "batch": "7f70975e06d0bcfa88e153c0388d43fa",
+          "min": "1053218640"
+        },
+        "min": "1053218640"
+      },
+      {
+        "id": "16328847161458",
+        "section": "Amazon",
+        "operation": "Feeds",
+        "action": "Check",
+        "schedule": "*\/5 * * * *",
+        "title": "Check feed submission result every 5 minutes",
+        "created_at": "Tue, Sep 28, 2021 8:05 PM",
+        "executed_at": "8 minutes ago",
+        "log": {
+          "count": 2,
+          "pages": 1,
+          "details": [
+            {
+              "id": "1053215258",
+              "title": "Check feed submission result",
+              "message": "Submission check completed",
+              "successes": "2",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:05:13",
+              "date_stop": "2021-09-28 08:05:16",
+              "duration": "2.61",
+              "logfile": "",
+              "is_summary": "1",
+              "feeds": "0"
+            },
+            {
+              "id": "1053215257",
+              "title": "Check feed submission result",
+              "message": "1 submissions checked",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:05:13",
+              "date_stop": "2021-09-28 08:05:16",
+              "duration": "2.61",
+              "logfile": "83e5f018bb0fb349ee441fdd2d3bf6e4",
+              "is_summary": "0",
+              "feeds": "0"
+            }
+          ],
+          "completed": 1,
+          "has_feeds": false,
+          "errors": 0,
+          "has_errors": 1,
+          "more": 1,
+          "collapse": false,
+          "batch": "83e5f018bb0fb349ee441fdd2d3bf6e4",
+          "min": "1053215258"
+        },
+        "min": "1053215258"
+      },
+      {
+        "id": "16328844287843",
+        "section": "Amazon",
+        "operation": "Inventory",
+        "action": "Send",
+        "schedule": "Once",
+        "title": "Send inventory to Amazon",
+        "created_at": "Tue, Sep 28, 2021 8:00 PM",
+        "executed_at": "13 minutes ago",
+        "log": {
+          "count": 4,
+          "pages": 1,
+          "details": [
+            {
+              "id": "1053213451",
+              "title": "Send inventory to Amazon",
+              "message": "Inventory update completed",
+              "successes": "2",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:01:27",
+              "date_stop": "2021-09-28 08:01:28",
+              "duration": "1.02",
+              "logfile": "",
+              "is_summary": "1",
+              "feeds": "0"
+            },
+            {
+              "id": "1053213429",
+              "title": "Send inventory to Amazon",
+              "message": "Update inventory for Amazon.com",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:01:27",
+              "date_stop": "2021-09-28 08:01:27",
+              "duration": "0.16",
+              "logfile": "9e706d65494eb30bc51d8bc409031d63",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053213449",
+              "title": "Send inventory to Amazon",
+              "message": "Updating inventory on Amazon.com since 2021-09-29 02:40:32",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:01:27",
+              "date_stop": "2021-09-28 08:01:27",
+              "duration": "0.02",
+              "logfile": "9e706d65494eb30bc51d8bc409031d63",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053213450",
+              "title": "Send inventory to Amazon",
+              "message": "Inventory updated, feed submission id: 223249018899, 6 items updated",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:01:27",
+              "date_stop": "2021-09-28 08:01:28",
+              "duration": "0.84",
+              "logfile": "9e706d65494eb30bc51d8bc409031d63",
+              "is_summary": "0",
+              "feeds": "1"
+            }
+          ],
+          "completed": 1,
+          "has_feeds": true,
+          "errors": 0,
+          "has_errors": 1,
+          "more": 0,
+          "collapse": false,
+          "batch": "9e706d65494eb30bc51d8bc409031d63",
+          "min": "1053213451"
+        },
+        "min": "1053213451"
+      },
+      {
+        "id": "16328844186459",
+        "section": "Amazon",
+        "operation": "Feeds",
+        "action": "Check",
+        "schedule": "*\/5 * * * *",
+        "title": "Check feed submission result every 5 minutes",
+        "created_at": "Tue, Sep 28, 2021 8:00 PM",
+        "executed_at": "13 minutes ago",
+        "log": {
+          "count": 2,
+          "pages": 1,
+          "details": [
+            {
+              "id": "1053210291",
+              "title": "Check feed submission result",
+              "message": "Submission check completed",
+              "successes": "2",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:00:13",
+              "date_stop": "2021-09-28 08:00:21",
+              "duration": "8.47",
+              "logfile": "",
+              "is_summary": "1",
+              "feeds": "0"
+            },
+            {
+              "id": "1053210290",
+              "title": "Check feed submission result",
+              "message": "1 submissions checked",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:00:13",
+              "date_stop": "2021-09-28 08:00:21",
+              "duration": "8.47",
+              "logfile": "a199eb1b584854cd8b1029a0dffd022c",
+              "is_summary": "0",
+              "feeds": "0"
+            }
+          ],
+          "completed": 1,
+          "has_feeds": false,
+          "errors": 0,
+          "has_errors": 1,
+          "more": 1,
+          "collapse": false,
+          "batch": "a199eb1b584854cd8b1029a0dffd022c",
+          "min": "1053210291"
+        },
+        "min": "1053210291"
+      },
+      {
+        "id": "16328844128615",
+        "section": "Shopify",
+        "operation": "Inventory",
+        "action": "Update",
+        "schedule": "*\/20 * * * *",
+        "title": "Update inventory from Shopify every 10 minutes",
+        "created_at": "Tue, Sep 28, 2021 8:00 PM",
+        "executed_at": "13 minutes ago",
+        "log": {
+          "count": 5,
+          "pages": 1,
+          "details": [
+            {
+              "id": "1053210720",
+              "title": "Update Shopify inventory and products",
+              "message": "Inventory updated successfully",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:00:12",
+              "date_stop": "2021-09-28 08:00:27",
+              "duration": "14.37",
+              "logfile": "",
+              "is_summary": "1",
+              "feeds": "0"
+            },
+            {
+              "id": "1053210275",
+              "title": "Update Shopify inventory and products",
+              "message": "Updating Shopify inventory and products.",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:00:12",
+              "date_stop": "2021-09-28 08:00:21",
+              "duration": "8.63",
+              "logfile": "12844f23f164f1cf310c633110a04174",
+              "is_summary": "0",
+              "feeds": "0"
+            },
+            {
+              "id": "1053210717",
+              "title": "Update Shopify inventory and products",
+              "message": "72 Offers successfully updated",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:00:12",
+              "date_stop": "2021-09-28 08:00:27",
+              "duration": "5.74",
+              "logfile": "12844f23f164f1cf310c633110a04174",
+              "is_summary": "0",
+              "feeds": "0"
+            },
+            {
+              "id": "1053210718",
+              "title": "Update Shopify inventory and products",
+              "message": "9 inventories updated",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:00:12",
+              "date_stop": "2021-09-28 08:00:27",
+              "duration": "0.00",
+              "logfile": "12844f23f164f1cf310c633110a04174",
+              "is_summary": "0",
+              "feeds": "0"
+            },
+            {
+              "id": "1053210719",
+              "title": "Update Shopify inventory and products",
+              "message": "There is no price update",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 08:00:12",
+              "date_stop": "2021-09-28 08:00:27",
+              "duration": "0.00",
+              "logfile": "12844f23f164f1cf310c633110a04174",
+              "is_summary": "0",
+              "feeds": "0"
+            }
+          ],
+          "completed": 1,
+          "has_feeds": false,
+          "errors": 0,
+          "has_errors": 1,
+          "more": 0,
+          "collapse": false,
+          "batch": "12844f23f164f1cf310c633110a04174",
+          "min": "1053210720"
+        },
+        "min": "1053210720"
+      },
+      {
+        "id": "16328841094191",
+        "section": "Amazon",
+        "operation": "Feeds",
+        "action": "Check",
+        "schedule": "*\/5 * * * *",
+        "title": "Check feed submission result every 5 minutes",
+        "created_at": "Tue, Sep 28, 2021 7:55 PM",
+        "executed_at": "18 minutes ago",
+        "log": {
+          "count": 1,
+          "pages": 1,
+          "details": [
+            {
+              "id": "1053208832",
+              "title": "Check feed submission result",
+              "message": "Nothing to check",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:55:06",
+              "date_stop": "2021-09-28 07:55:09",
+              "duration": "3.01",
+              "logfile": "fdc094645234ebd6b782d1bb5ced7e99",
+              "is_summary": "1",
+              "feeds": "0"
+            }
+          ],
+          "completed": 1,
+          "has_feeds": false,
+          "errors": 0,
+          "has_errors": 1,
+          "more": 0,
+          "collapse": false,
+          "batch": "fdc094645234ebd6b782d1bb5ced7e99",
+          "min": "1053208832"
+        },
+        "min": "1053208832"
+      },
+      {
+        "id": "16328839453247",
+        "section": "Amazon",
+        "operation": "Orders",
+        "action": "Import",
+        "schedule": "12,32,52 * * * *",
+        "title": "Receive orders from Amazon every 20 minutes",
+        "created_at": "Tue, Sep 28, 2021 7:52 PM",
+        "executed_at": "21 minutes ago",
+        "log": {
+          "count": 13,
+          "pages": 1,
+          "details": [
+            {
+              "id": "1053208409",
+              "title": "Import orders from Amazon",
+              "message": "4 orders imported successfully",
+              "successes": "10",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:54:03",
+              "duration": "103.40",
+              "logfile": "",
+              "is_summary": "1",
+              "feeds": "0"
+            },
+            {
+              "id": "1053206731",
+              "title": "Import orders from Amazon",
+              "message": "Looking from new orders",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:52:27",
+              "duration": "7.18",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208399",
+              "title": "Import orders from Amazon",
+              "message": "Order: 113-4102180-8247454, SKU: 5221SNSS100 - restored(1)",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:53:03",
+              "duration": "36.37",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208400",
+              "title": "Import orders from Amazon",
+              "message": "Order {amazon_order_id:ATVPDKIKX0DER}113-4102180-8247454{\/amazon_order_id} from Amazon imported, Shopify order: 498520({order_id}4100950360254{\/order_id})",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:53:18",
+              "duration": "14.39",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208401",
+              "title": "Import orders from Amazon",
+              "message": "Order: 111-4481019-1066656, SKU: 5221SNSS100 - restored(1)",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:53:18",
+              "duration": "0.76",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208402",
+              "title": "Import orders from Amazon",
+              "message": "Order {amazon_order_id:ATVPDKIKX0DER}111-4481019-1066656{\/amazon_order_id} from Amazon imported, Shopify order: 498521({order_id}4100950720702{\/order_id})",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:53:32",
+              "duration": "13.64",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208403",
+              "title": "Import orders from Amazon",
+              "message": "Order: 114-4627474-6418635, SKU: 4767SNMX200 - adjusted(-1)",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:53:33",
+              "duration": "0.79",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208404",
+              "title": "Import orders from Amazon",
+              "message": "Order: 114-5445223-1741820, SKU: 5221SNSS101 - restored(1)",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:53:34",
+              "duration": "0.93",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208405",
+              "title": "Import orders from Amazon",
+              "message": "Order {amazon_order_id:ATVPDKIKX0DER}114-5445223-1741820{\/amazon_order_id} from Amazon imported, Shopify order: 498522({order_id}4100951179454{\/order_id})",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:53:47",
+              "duration": "13.38",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208406",
+              "title": "Import orders from Amazon",
+              "message": "Order: 113-5023068-1033026, SKU: 7749SSXX109 - adjusted(-1)",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:53:48",
+              "duration": "0.76",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208407",
+              "title": "Import orders from Amazon",
+              "message": "Order: 114-8982377-2208247, SKU: 5221SNSS101 - restored(1)",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:53:49",
+              "duration": "0.85",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208408",
+              "title": "Import orders from Amazon",
+              "message": "Order {amazon_order_id:ATVPDKIKX0DER}114-8982377-2208247{\/amazon_order_id} from Amazon imported, Shopify order: 498523({order_id}4100951507134{\/order_id})",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:54:03",
+              "duration": "14.35",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            },
+            {
+              "id": "1053208410",
+              "title": "Import orders from Amazon",
+              "message": "Orders acknowledge feed sent successfully, Feed Submission Id : 223247018899",
+              "successes": "1",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:52:20",
+              "date_stop": "2021-09-28 07:54:04",
+              "duration": "0.65",
+              "logfile": "9ef395efa9fe403b4acc87785eb7bad2",
+              "is_summary": "0",
+              "feeds": "1"
+            }
+          ],
+          "completed": 1,
+          "has_feeds": true,
+          "errors": 0,
+          "has_errors": 1,
+          "more": 0,
+          "collapse": false,
+          "batch": "9ef395efa9fe403b4acc87785eb7bad2",
+          "min": "1053208410"
+        },
+        "min": "1053208410"
+      },
+      {
+        "id": "16328838176670",
+        "section": "Amazon",
+        "operation": "Feeds",
+        "action": "Check",
+        "schedule": "*\/5 * * * *",
+        "title": "Check feed submission result every 5 minutes",
+        "created_at": "Tue, Sep 28, 2021 7:50 PM",
+        "executed_at": "23 minutes ago",
+        "log": {
+          "count": 1,
+          "pages": 1,
+          "details": [
+            {
+              "id": "1053203977",
+              "title": "Check feed submission result",
+              "message": "Nothing to check",
+              "successes": "0",
+              "warnings": "0",
+              "errors": "0",
+              "date_start": "2021-09-28 07:50:15",
+              "date_stop": "2021-09-28 07:50:20",
+              "duration": "4.98",
+              "logfile": "ef1452bf0d20ac4e48febbf3cb12cb2e",
+              "is_summary": "1",
+              "feeds": "0"
+            }
+          ],
+          "completed": 1,
+          "has_feeds": false,
+          "errors": 0,
+          "has_errors": 1,
+          "more": 0,
+          "collapse": false,
+          "batch": "ef1452bf0d20ac4e48febbf3cb12cb2e",
+          "min": "1053203977"
+        },
+        "min": "1053203977"
+      }
+    ],
+    "count": "1871",
+    "pages": 188,
+    "collapse": false,
+    "has_errors": true,
+    "columns": {
+      "sections": [
+        "amazon",
+        "shopify"
+      ],
+      "filters": {
+        "Amazon": {
+          "Feeds": [
+            "Check"
+          ],
+          "Inventory": [
+            "Update",
+            "Send"
+          ],
+          "Orders": [
+            "Import"
+          ],
+          "Offers": [
+            "Mapping"
+          ],
+          "Dashboard": [
+            "Update"
+          ]
+        },
+        "Shopify": {
+          "Order": [
+            "Check"
+          ],
+          "Inventory": [
+            "Update"
+          ],
+          "Meta": [
+            "Import"
+          ]
+        }
+      }
+    },
+    "scope": {
+      "date_from": "2021-09-21 00:00:00",
+      "date_to": "2021-09-29 23:59:59",
+      "store": "happiestbaby",
+      "account": "Amazon USA"
+    }
+  }
+}

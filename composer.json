@@ -1,0 +1,27 @@
+{
+  "name": "common-services/shopify-feedbiz",
+  "description": "A shopify app for Feed.biz.",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexandre DEBUSSCHERE",
+      "email": "alexandre@common-services.com"
+    }
+  ],
+  "require": {
+    "ext-pdo": "*",
+    "ext-json": "*",
+    "ext-curl": "*",
+    "ext-libxml": "*",
+    "slim/slim": "3.11.0",
+    "guzzlehttp/guzzle": "6.3.3",
+    "monolog/monolog": "1.24.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "CommonServices\\": "src/"
+    },
+    "files": ["config/env.php"]
+  }
+}

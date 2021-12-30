@@ -1,0 +1,79 @@
+{
+  "status": "Ok",
+  "log": "dd66ca1f6aa023af1138a9182f7f8dc4",
+  "date": "2020-01-14T13:22:11+00:00",
+  "data": {
+    "count": "4",
+    "data": [
+      {
+        "humanTimeElapsed": "N\/A",
+        "SubmittedDate": "Mar. 14 janv. 2020 12:25",
+        "FeedSubmissionId": "169595018275",
+        "FeedProcessingStatus": "_SUBMITTED_",
+        "FeedType": "Price",
+        "StartedProcessingDate": null,
+        "CompletedProcessingDate": null,
+        "MessagesSuccessful": null,
+        "MessagesWithError": null,
+        "MessagesWithWarning": null,
+        "feedResult": []
+      },
+      {
+        "humanTimeElapsed": "N\/A",
+        "SubmittedDate": "Mar. 14 janv. 2020 12:20",
+        "FeedSubmissionId": "169594018275",
+        "FeedProcessingStatus": "_SUBMITTED_",
+        "FeedType": "Inventory",
+        "StartedProcessingDate": null,
+        "CompletedProcessingDate": null,
+        "MessagesSuccessful": null,
+        "MessagesWithError": null,
+        "MessagesWithWarning": null,
+        "feedResult": []
+      },
+      {
+        "humanTimeElapsed": "N\/A",
+        "SubmittedDate": "Mar. 14 janv. 2020 12:15",
+        "FeedSubmissionId": "169592018275",
+        "FeedProcessingStatus": "_SUBMITTED_",
+        "FeedType": "Product",
+        "StartedProcessingDate": null,
+        "CompletedProcessingDate": null,
+        "MessagesSuccessful": null,
+        "MessagesWithError": null,
+        "MessagesWithWarning": null,
+        "feedResult": []
+      },
+      {
+        "humanTimeElapsed": "13 hours ago",
+        "SubmittedDate": "Mar. 14 janv. 2020 00:15",
+        "FeedSubmissionId": "169469018275",
+        "FeedProcessingStatus": "_DONE_",
+        "FeedType": "Product",
+        "StartedProcessingDate": "2020-01-14 00:15:15",
+        "CompletedProcessingDate": "2020-01-14 00:15:52",
+        "MessagesSuccessful": "2",
+        "MessagesWithError": "2",
+        "MessagesWithWarning": "0",
+        "feedResult": [
+          {
+            "id_log": "1",
+            "id_message": "2",
+            "result_code": "Error",
+            "result_message_code": "6039",
+            "result_description": "Merchant is not authorized to sell products under this restricted product group.",
+            "sku": "20042013"
+          },
+          {
+            "id_log": "2",
+            "id_message": "3",
+            "result_code": "Error",
+            "result_message_code": "6024",
+            "result_description": "You are not authorized to list products under this brand. To sell products under this brand, please try adding one of your SKUs under this brand through the 'Add a Product' page and follow the application instructions.",
+            "sku": "nintendo-handheld-console---new"
+          }
+        ]
+      }
+    ]
+  }
+}

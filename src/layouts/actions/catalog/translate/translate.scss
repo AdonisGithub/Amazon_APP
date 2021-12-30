@@ -1,0 +1,93 @@
+
+.translate-page {
+  .table > .Polaris-Layout {
+    flex-wrap: nowrap;
+  }
+  .search-option {
+    .Polaris-Select {
+      width: 20rem;
+    }
+    .Polaris-FormLayout {
+      //width: 100%;
+    }
+  }
+  .select-language {
+    .Polaris-Select {
+      width: 9rem;
+    }
+  }
+  .translate-pagination {
+    text-align: center;
+  }
+}
+
+.translate-confirm-modal {
+  padding: 0.5rem;
+  //font-weight: 400;
+  .title {
+    h1 {
+      font-size: 2.4rem;
+    }
+    margin-bottom: 3rem;
+  }
+
+  .translate-selected {
+    //font-weight: 500;
+    .select-title {
+      font-size: 1.6rem;
+    }
+    .select-body {
+      font-weight: 500;
+      font-size: 1.6rem;
+      padding-left: 1rem;
+    }
+    margin-bottom: 2rem;
+  }
+
+  .translate-price {
+    //font-weight: 500;
+    margin-bottom: 1rem;
+  }
+
+  .translate-agree {
+    span{
+      font-size: 1.6rem;
+    }
+    margin-bottom: 1rem;
+  }
+
+  .translate-note {
+    font-size: 1.6rem;
+    //padding-left: 1rem;
+    padding-right: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+
+@media (min-width:48em) {
+  .Polaris-Modal-Dialog__Modal--sizeLarge {
+    max-width: 80%;
+  }
+}
+
+.translation-detail-view {
+  .store-text {
+    .title {
+      font-weight: 500;
+    }
+    .description {
+      word-break: break-word;
+    }
+    margin-bottom: 1.5rem;
+  }
+  .edit-layout {
+    margin-bottom: 2rem;
+    .language-name {
+      font-weight: 500;
+    }
+    .Polaris-TextField {
+      margin-bottom: 0.5rem;
+      margin-right: 2rem;
+    }
+  }
+}
